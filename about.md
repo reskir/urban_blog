@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Apie
+title: Ar tu gyveni geram mieste?
 permalink: /about/
 ---
 
-Sveiki, šis blogas skirtas Vilniaus miesto viešajam transportui ir jo tobulinimui.
+<h1>Sveiki,</h1>
+<p class="paragraph">šis blogas skirtas Vilniaus miesto viešajam transportui ir jo tobulinimui.</p>
