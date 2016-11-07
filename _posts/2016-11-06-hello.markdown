@@ -7,4 +7,4 @@ image: /assets/blocks.jpg
 ---
 Blokai namų
 
-![Namų blokai]({{ site.url }}/assets/blocks.jpg)
+![Namų blokai]({{ site.baseurl }}{{post.url}}/assets/blocks.jpg)
