@@ -1,6 +1,5 @@
 .posts {
-    display: flex;
-    flex-direction: column;
+    display: block;
     &_post {
         position: relative;
         flex-basis: 100%;
@@ -16,7 +15,8 @@
         &_info {
             bottom: 0;
             left: 0;
-            height: 300px;
+            min-height: 300px;
+            max-height: auto;
             width: 100%;
             background-position: center center;
             background-repeat: no-repeat;
