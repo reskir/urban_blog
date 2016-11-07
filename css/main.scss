@@ -1,0 +1,16 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+
+@import "about.scss";
+@import "posts.scss";
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+*, html {
+ box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
