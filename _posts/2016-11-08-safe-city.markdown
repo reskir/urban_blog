@@ -19,11 +19,11 @@ image:  /assets/technology_city.jpg
 </div>
 
 <div>
-<p>Naujos technologijos atsistojo miestiečių gynybai. Taip, dar neišrado Robokopo - bet Dalaso policininkai pirmieji panaudojo robotą nuginkluojant keliolika ginkluotų nusikaltėlių. Tuo pačiu metu, Milvokio policija  pradėjo naudoti kulkas su GPS, kurios seka automobilį be beprotiškų lenktynių ​​gatvemis. Izraelyje naudoja vaizdo skambučius nuo įvykio vietos - beje, policija išvažiuoja ten automatiškai po skambunčio. O Londone naudojamos žymės, kurios matoja alkoholio lygį pas nusikaltelį.</p>
+<p>Naujos technologijos atsistojo miestiečių gynybai. Taip, dar neišrado Robokopo - bet Dalaso policininkai pirmieji panaudojo robotą nuginkluojant keliolika ginkluotų nusikaltėlių. Tuo pačiu metu, Milvokio policija  pradėjo naudoti kulkas su GPS, kurios seka automobilį be beprotiškų lenktynių ​​gatvemis. Izraelyje naudoja vaizdo skambučius nuo įvykio vietos - beje, policija išvažiuoja ten automatiškai po gauto skambučio. O Londone naudojamos žymės, kurios matoja alkoholio lygį pas nusikaltelį.</p>
 
-<p> Tai, daugumoje šalių policijos pasitenkinimo lygis darbu dar kol kas labai žemas. Bet ir čia technologijos pakeitė padėtį, Kembridžo universiteto tyrimai parodė, kad tiems policininkams kurie turėjo nešiojamas kameras, pasitikėjimo lygis buvo 93% didesnis. Policija visame pasaulyje bando naudoti technologinius ir netechnologinius sprendimus keliant pasitikėjimo lygį. </p>
+<p> Taip, daugumoje šalių policijos pasitenkinimo lygis darbu dar kol kas nėra labai aukštas. Bet ir čia technologijos pakeitė padėtį, Kembridžo universiteto tyrimai parodė, kad tiems policininkams kurie turėjo nešiojamas kameras, pasitikėjimo lygis buvo 93% didesnis. Policija visame pasaulyje bando naudoti technologinius ir netechnologinius sprendimus keliant pasitikėjimo lygį. </p>
 
 
-<p>Technologijos keičia miestus į gerąją pusę. Daugiau negu 90 miestų naudoja "elektroninias ausis", išsidėsčiusias ant stulpų, kurios "girdi" šuvius gatvėje. Kas žino, kokios dar technologijos pakeis mūsų gyvenimą artimioje ateityje? </p>
+<p>Technologijos keičia miestus į gerąją pusę. Daugiau negu 90 miestų naudoja "elektroninias ausis", išsidėsčiusias ant stulpų, kurios "girdi" šuvius gatvėje. Kas žino, kokios dar technologijos pakeis mūsų gyvenimą artimoje ateityje? </p>
 
 </div>
