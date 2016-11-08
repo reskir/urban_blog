@@ -1,6 +1,6 @@
 (function(){
-    document.querySelectorAll('.wrapper')[1].style.opacity = "0.1";
+    var loader = document.querySelector('.loader');
     window.onload = function(){
-        document.querySelectorAll('.wrapper')[1].style.opacity = "1";
+        loader.classList.remove('loading');
     };
 })();
