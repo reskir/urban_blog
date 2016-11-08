@@ -6,7 +6,7 @@ title: This is just a placeholder post
 <div class="single-post row">
 
     <div class="col-lg-6">
-        <h1>{{ page.title }}</h1>
+        <h2>{{ page.title }}</h2>
         <p class="post-meta">{% assign m = page.date | date: "%-m" %}
         {{ page.date | date: "%-d" }}
         {% case m %}
@@ -27,7 +27,7 @@ title: This is just a placeholder post
         Kategorijos: {{ page.categories }}</p>
 
         {{ content }}
-        
+
     </div>
 
 </div>
