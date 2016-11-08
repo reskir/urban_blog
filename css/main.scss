@@ -8,7 +8,9 @@
 @import "posts.scss";
 @import "helpers.scss";
 @import "flexboxgrid.scss";
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic,latin-ext');
 
 *, html {
  box-sizing: border-box;
