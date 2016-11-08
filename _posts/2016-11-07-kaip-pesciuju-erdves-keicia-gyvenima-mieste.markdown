@@ -24,12 +24,12 @@ categories: Miestas
 <div style="margin-top:48px;" class="column c23_3_14_1_5 h2 m2 s1 pr quoteLeft">
 	<h3>1. Tai stiprina santykius tarp žmonių</h3>
 
-<p> Pasirodo, vaikščiuoti pėsčiomis padeda surasti naujų draugų ir išsaugoti senus. Kitais žodžiais, kuo dažniau jus judate gatve (mašinoje - nesiskaito), tuo didesnė tikimybė ką nors sutikti ir užmegzti pokalbį. Dar klasikiniai tyrimai 60-ais metais įrodė: kuo intensyvesnis srautas gatvėje, tuo mažiau kaimynų pažysta vietiniai gyventojai.</p>
+<p> Pasirodo, vaikščiuojimas pėsčiomis padeda surasti naujus draugus ir išsaugoti senus. Kitais žodžiais, kuo dažniau jus judate gatve (mašinoje - nesiskaito), tuo didesnė tikimybė ką nors sutikti ir užmegzti pokalbį. Dar klasikiniai tyrimai 60-ais metais įrodė: kuo intensyvesnis srautas gatvėje, tuo mažiau kaimynų pažysta vietiniai gyventojai.</p>
 
-<h3>2. Judėti pesčiomis - universalu</h3>
+<h3>2. Judėti pėsčiomis - universalu</h3>
 
 <p>
-Tam, kad būti pėsčiuoju nereikia metais taupyti automobiliui. Kas nori gali būti pėsčiuoju ir tai didina įvairovę, kas yra labai svarbu bendruomenei. Gatvė - tai susitikimo vieta skirtingo amžiaus, skirtingos gerovės, socialinio statuso žmonių.</p>
+Tam, kad būti pėsčiuoju nereikia ilgai taupyti automobiliui. Kas nori gali būti pėsčiuoju ir tai didina įvairovę, kas yra labai svarbu bendruomenei. Gatvė - tai susitikimo vieta skirtingo amžiaus, skirtingos gerovės, socialinio statuso žmonių.</p>
 
 <h3>3. Tai padeda identiškumui </h3>
 
@@ -42,6 +42,6 @@ Tam, kad būti pėsčiuoju nereikia metais taupyti automobiliui. Kas nori gali b
 
 <h3>5. Tai sukuria atvirą aplinką</h3>
 
-<p>Miesto infrastruktūra, pavyzdžiui greitkelis, gali fiziškai atskirti, o kartais ir segreguoti rajonus ir gyventojus. Sumanus miesto dizainas padaro miesto gatves prieinamoms visiems ir sukuria socialinę apsaugą. </p>
+<p>Miesto infrastruktūra, pavyzdžiui greitkelis, gali fiziškai atskirti, o kartais ir segreguoti rajonus ir gyventojus. Sumanus miesto dizainas padaro miesto gatves prieinamomis visiems ir sukuria socialinę apsaugą. </p>
 
 </div>
