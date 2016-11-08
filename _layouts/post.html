@@ -29,11 +29,13 @@ title: This is just a placeholder post
         {{ content }}
 
     </div>
+</div>
 
-    <div class="col-lg-5 col-md-5 col-sm-4 col-xs-12 col-lg-offset-1 col-md-offset-1 mt10">
-        <div class="lighter smaller mb6">Nauji straipsniai</div>
+<div class="more">
+    <div class="lighter smaller">Nauji straipsniai</div>
+    <div class="row">
         {% for post in site.posts limit:4 %}
-          <div class="posts_post">
+          <div class="posts_post col-lg-3 col-md-4 col-sm-6 col-xs-12">
             <a href="{{ site.url }}{{ post.url }}">
                 <div class="posts_post_info" style="min-height:auto; background-image:url('{{ site.url }}{{ post.image }}')">
                       <p class="posts_post_cat">Kategorijos: {{ post.categories }} </p>
