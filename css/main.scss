@@ -7,6 +7,7 @@
 @import "about.scss";
 @import "posts.scss";
 @import "helpers.scss";
+@import "flexboxgrid.scss";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 *, html {
@@ -19,6 +20,6 @@ body {
 .wrapper {
     margin-right: 0 !important;
     margin-left:0 !important;
-    max-width: -webkit-calc(900px - (30px * 2));
-    max-width: calc(900px - (30px * 2));
+    max-width: 100%;
+    max-width: 100%;
 }
