@@ -7,11 +7,18 @@
 @import "about.scss";
 @import "posts.scss";
 @import "helpers.scss";
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 *, html {
  box-sizing: border-box;
 }
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+    margin-right: 0 !important;
+    margin-left:0 !important;
+    max-width: -webkit-calc(900px - (30px * 2));
+    max-width: calc(900px - (30px * 2));
 }
