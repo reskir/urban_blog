@@ -37,7 +37,7 @@ title: This is just a placeholder post
         {% for post in site.posts limit:4 %}
           <div class="posts_post col-lg-3 col-md-4 col-sm-6 col-xs-12">
             <a href="{{ site.url }}{{ post.url }}">
-                <div class="posts_post_info" style="min-height:auto; background-image:url('{{ site.url }}{{ post.image }}')">
+                <div class="posts_post_info" style="min-height:60px !important; background-image:url('{{ site.url }}{{ post.image }}')">
                       <p class="posts_post_cat">Kategorijos: {{ post.categories }} </p>
                 </div>
                 <h2 class="posts_post_title" style="font-size:14px; padding-top:0;">
