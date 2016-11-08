@@ -4,6 +4,7 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 var imagemin = require('gulp-imagemin');
 var imageop = require('gulp-image-optimization');
+var image = require('gulp-image');
 
 
 gulp.task('imagesop', function(cb) {
@@ -11,7 +12,10 @@ gulp.task('imagesop', function(cb) {
         optimizationLevel: 5,
         progressive: true,
         interlaced: true
-    })).pipe(gulp.dest('assets')).on('end', cb).on('error', cb);
+    }))
+    .pipe(imagemin())
+    .pipe(image())
+    .pipe(gulp.dest('assets')).on('end', cb).on('error', cb);
 });
 
 
