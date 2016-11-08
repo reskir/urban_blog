@@ -5,7 +5,7 @@ date:   2016-11-08 14:50 +0200
 image: /assets/chickago.jpg
 categories: Miestas
 ---
-<p>Болотистая чикагская река — это одна из причин появления одного из главных городов на планете. На заре его истории река была одной из главных транспортных и торговых артерий. Сделать из берега реки удобное общественное пространство пытались ещё с 1909 года, однако только недавно проект был завершен и открыт для горожан. Проект 24-километровой набережной разработало местное бюро <a href="http://www.r-barc.com" target="_blank">Ross Barney Architects</a>.</p>
+<p>Pelkėta Čikagos upė — tai viena iš vieno svarbiausio miesto žemėje atsiradimo priežaščių. Miesto istorijos pradžioje upė buvo viena iš svarbiausių transporto ir prekybos arterijų. Padaryti iš upės kranto patrauklią visuomeninę erdvę bandė dar nuo 1909 metų, bet tik neseniai projektas buvo užbaigtas ir atidarytas miestiečiams. 24-ų kilometrų upės krantas buvo suprojektotas vietiniu biuriu <a href="http://www.r-barc.com" target="_blank">Ross Barney Architects</a>.</p>
 
 ![Cikago upe]({{ site.url }}/assets/chickago.jpg)
 

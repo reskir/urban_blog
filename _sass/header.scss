@@ -1,0 +1,20 @@
+.site-header {
+    background: #000;
+    color:white;
+    .site-title {
+
+        color: #ffaf00;
+        font-size:18px;
+        font-weight:bold;
+
+        &:visited {
+            color:#ffaf00;
+        }
+    }
+}
+
+.site-nav {
+    .page-link {
+        color:white;
+    }
+}
