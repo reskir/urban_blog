@@ -8,7 +8,7 @@ image:  /assets/design_and_cities.jpg
 
 
 <p>
-Miestų valdžios visame pasaulyje ieško būdų kaip padaryti miestus saugesniais. Patirtis rodo, jog projektavimas ir protingas dizainas žymiai geriau padeda pasiekti šio tikslo, negu baudos ir draudžiamieji įstatymai.
+Miestų valdžios visame pasaulyje ieško būdų kaip padaryti miestus saugesniais. Patirtis rodo, jog projektavimas ir protingas dizainas žymiai geriau padeda pasiekti šį tikslą, negu baudos ir draudžiamieji įstatymai.
 </p>
 
 ![Dviračiai, viešasis transportas - padės miestui tapti saugesniu]( {{ site.url }}/assets/design_and_cities.jpg)

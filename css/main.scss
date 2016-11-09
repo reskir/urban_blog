@@ -13,14 +13,19 @@
 @import "loader.scss";
 
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic,latin-ext');
+// @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic,latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:400,400i,700');
+
 
 *, html {
  box-sizing: border-box;
+ -webkit-font-smoothing: antialiased;
 }
 body {
-    font-family: 'Open Sans', sans-serif;
+    // font-family: 'Open Sans', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     font-size: 14px;
+    line-height: 1.7;
 }
 
 .wrapper {
