@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kaip Čikagas gražino upę"
+title:  "Chicago Riverwalk: kaip "Vėjų miestui" gražino upę"
 date:   2016-11-08 14:50 +0200
 image: /assets/chickago.jpg
 categories: Miestas
