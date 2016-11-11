@@ -9,11 +9,11 @@ image: /assets/scalpels/11.jpg
 <div class="slider js_slider">
         <div class="frame js_frame">
             <ul class="slides js_slides">
-                <li class="js_slide"> <img src="/assets/scalpels/11.jpg" /></li>
-                <li class="js_slide"> <img src="/assets/scalpels/21.jpg" /></li>
-                <li class="js_slide"> <img src="/assets/scalpels/31.jpg" /></li>
-                <li class="js_slide"> <img src="/assets/scalpels/41.jpg" /></li>
-                <li class="js_slide"> <img src="/assets/scalpels/51.jpg" /></li>
+                <li class="js_slide"> <img src="{{ site.url }}/assets/scalpels/11.jpg" /></li>
+                <li class="js_slide"> <img src="{{ site.url }}/assets/scalpels/21.jpg" /></li>
+                <li class="js_slide"> <img src="{{ site.url }}/assets/scalpels/31.jpg" /></li>
+                <li class="js_slide"> <img src="{{ site.url }}/assets/scalpels/41.jpg" /></li>
+                <li class="js_slide"> <img src="{{ site.url }}/assets/scalpels/51.jpg" /></li>
 
             </ul>
         </div>
