@@ -44,16 +44,23 @@
       cursor: pointer;
   }
 
-  .next,.prev {
-      top:-10%;
+  .next, .prev {
+      top: -15%;
+      background:none;
+      border: 1px solid #333;
+      padding:0;
+      outline:none;
   }
+
+
 
   .next {
       right: 0px;
   }
 
   .prev {
-      right: 25px;
+      right: 39px;
+    //   border-right:0;
   }
 
   .next svg, .prev svg {
