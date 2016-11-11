@@ -45,8 +45,8 @@
   }
 
   .next, .prev {
-      top: -15%;
-      background:none;
+      top: 50%;
+      background:#000;
       border: 1px solid #333;
       padding:0;
       outline:none;
@@ -59,7 +59,7 @@
   }
 
   .prev {
-      right: 39px;
+      left: 0px;
     //   border-right:0;
   }
 
