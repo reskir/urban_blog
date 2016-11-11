@@ -20,4 +20,4 @@ TPA POLAND
 
 <p> Projektuojant šį taką buvo atsižvelgta į dažniausią nakties važiavimo dviračio problemą - žmonių ir dviračių susidurimą kėlyje. Takėlis buvo ne tik apšviestas, bet ir padalintas į dvi zonas - pėsčiųjų ir dviratininkų, taip susidurimo tikymybė sumažinta beveik iki nulio.</p>
 
-<p> Kol kas yra ištiesta 100m. tako, bet po žiemos išbandymu ir testavimu miesto valdžia planuoja tęsti šviečiančių takų plėtimą </p>
+<p> Kol kas yra ištiesta 100m. tako, bet po žiemos išbandymu ir testavimu miesto valdžia planuoja tęsti šviečiančių takų plėtimą.</p>
