@@ -5,7 +5,7 @@ title: This is just a placeholder post
 
 <div class="single-post row top-xs">
 
-    <article class="col-lg-4 col-md-6">
+    <article class="col-lg-4 col-md-6 col-sm-8 col-xs-12">
         <h2>{{ page.title }}</h2>
         <p class="post-meta">{% assign m = page.date | date: "%-m" %}
         {{ page.date | date: "%-d" }}
@@ -36,7 +36,7 @@ title: This is just a placeholder post
     <div class="lighter smaller">Nauji straipsniai</div>
     <div class="row">
         {% for post in site.posts limit:4 %}
-          <div class="posts_post col-lg-3 col-md-4">
+          <div class="posts_post col-lg-3 col-md-4 col-sm-6 col-xs-12">
             <a href="{{ site.url }}{{ post.url }}">
                 <div class="posts_post_info" style="min-height:60px !important; background-image:url('{{ site.url }}{{ post.image }}')">
                       <p class="posts_post_cat">Kategorijos: {{ post.categories }} </p>
