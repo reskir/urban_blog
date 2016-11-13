@@ -38,7 +38,7 @@ Damien Hirst
         document.addEventListener('DOMContentLoaded', function () {
         var simple = document.querySelector('.simple');
             lory(simple, {
-                infinite: 0
+                infinite: 1
             });
         });
 </script>

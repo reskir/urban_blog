@@ -2,16 +2,20 @@
    * (optional) define here the style definitions which should be applied on the slider container
    * e.g. width including further controls like arrows etc.
    */
+
+   $slider_width: 900px;
+
   .slider {
       display: flex;
       position: relative;
+      width: $slider_width;
   }
 
   .frame {
       /**
        * (optional) wrapper width, specifies width of the slider frame.
        */
-      width: 100%;
+      width: $slider_width;
 
       position: relative;
       font-size: 0;
@@ -32,7 +36,7 @@
       /**
        * (optional) if the content inside the slide element has a defined size.
        */
-      width: 100%;
+      width: $slider_width;
   }
 
   .prev, .next {

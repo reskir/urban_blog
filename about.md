@@ -2,6 +2,7 @@
 layout: page
 title: Apie ką mes čia?
 permalink: /about/
+navigation_weight: 1
 ---
 
 <h2>Apie miestus, jų žmones, kultūrą, architektūrą ir urbanistiką</h2>

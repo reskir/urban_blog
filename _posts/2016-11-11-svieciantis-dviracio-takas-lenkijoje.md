@@ -16,7 +16,7 @@ TPA POLAND
 </div>
 
 
-<p> Projektas buvo realizuotas statybos kompanijos <a href="http://www.tpaqi.ru/databases/internet/_public/content.nsf/web/EN-TPAQI.COM-willkommen.html" target="_blank"> TPA sp. z. o. o. </a>, o įkvėptas Van Gogo styliaus šviečiančiu dviračio taku Olandijoje. Glow-in-the-dark skleidžia minkštą, bet labai ryškią šviesą, kurį apšviečia taką ir daro kelią aplink matomu. Nepastebėti šį dviračio taką tiesiog neįmanoma.</p>
+<p> Projektas buvo realizuotas statybos kompanijos <a href="http://www.tpaqi.ru/databases/internet/_public/content.nsf/web/EN-TPAQI.COM-willkommen.html" target="_blank"> TPA sp. z. o. o. </a>, o įkvėptas <a href="http://www.holland.com/global/tourism/article/van-gogh-roosegaarde-cycle-path.htm" target="_blank">Van Gogo</a> stiliaus šviečiančiu dviračio taku Olandijoje. Glow-in-the-dark skleidžia minkštą, bet labai ryškią šviesą, kurį apšviečia taką ir daro kelią aplink matomu. Nepastebėti šį dviračio taką tiesiog neįmanoma.</p>
 
 <p> Projektuojant šį taką buvo atsižvelgta į dažniausią nakties važiavimo dviračio problemą - žmonių ir dviračių susidurimą kėlyje. Takėlis buvo ne tik apšviestas, bet ir padalintas į dvi zonas - pėsčiųjų ir dviratininkų, taip susidurimo tikymybė sumažinta beveik iki nulio.</p>
 
