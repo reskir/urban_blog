@@ -6,14 +6,11 @@ navigation_weight: 1
 ---
 
 <h2>Apie miestus, jų žmones, kultūrą, architektūrą ir urbanistiką</h2>
-<p class="paragraph">Apie tai kokį kelią pasirinko Lietuvos miestai ir kuo mūsų miestai skiriasi nuo vakarų europos šalių, kodėl automobilis turėtų tapti paskutine transporto priemone su kuria jus norėtumėtę keliauti mieste ir kaip padaryti viešąjį transportą patogu, paklausu, šiuolaikišku, kodėl dviratis galų gale nugalės ir kada tai įvyks.</p>
+<p> 2050 miestuose gyvens 75% pasaulio žmonių. Miestams teks susitaikyti su didėjančiu gyventojų kiekių, prisitaikyti prie šiuolaikinio žmogaus ir jo poreikių. Šiame bloge mes nagrinėsime gerus miesto dizaino, planavimo, įstatymų ir technologijų pavyzdžius, bandysime suprasti ir išsiaiškinti su kokiom problemom susiduria Lietuvos miestai ir kaip vietinės bendruomenės gali keisti savo miestą. </p>
 
-<p class="paragraph mt10"> Aš noriu, kad Lietuvos miestai būtų patogus, ekonomiškai efektyvus ir įdomus ne tik turistams, bet ir vietiniams gyventojams. </p>
+<p>Taip pat daug demėsio skirsime transporto problemai: kaip padaryti judėjimą mieste saugesniu, patogesniu ir greitesniu, kodėl miestas turi būti projektuojamas pėstiesiems ir dviračiams, ir kada gi dviratis nugalės miesto gatvėse.</p>
 
 ![Troleibusas]( {{ site.url }}/assets/about.jpg)
-<div style="padding-top:6px; margin-bottom:24px;">
-	<div class="fl fs12 cGray" style="width: 190px; font-size: 12px;line-height: 1.4em; color:#999">Nuotrauka: Liudas Parulskis					
-    </div>
-</div>
 
-<p class="paragraph mt10"> Šiuo blogu aš norėčiau pakelti ir pradėti kalbėti apie Lietuvos miestų plėtrą, viešąjį transportą ir dviračių infrastruktūrą. </p>
+<div class="lighter smaller">Nuotrauka: <br /> Liudas Parulskis					
+</div>
