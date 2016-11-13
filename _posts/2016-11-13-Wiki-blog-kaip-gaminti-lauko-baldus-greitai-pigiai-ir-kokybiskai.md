@@ -6,9 +6,7 @@ categories: Dizainas
 image:  /assets/street-furniture-01.jpg
 ---
 
-<p>Komandai iš fondo Better Block šovė į galvą puiki idėja: o kas, jeigu duoti lokalių bendruomenių nariams patiems aprūpinti savo rajonus? Taip atsirado paslauga WikiBlock, kuri padeda su medžiagom, brėžiniais, projektavimu, o paskui ir  su lauko baldu gamyba iš faneros.</p>
-
-<p>Команде из фонда Better Block пришла в голову отличная идея: а что, если дать членам локальных сообществ возможность самостоятельно обустраивать свои районы? Так появился сервис WikiBlock, который помогает с материалами, чертежами, проектированием, а затем и непосредственно с изготовлением уличной мебели из фанеры. </p>
+<p>Komandai iš fondo <a href="http://betterblock.org/" target="_blank">Better Block</a> šovė į galvą puiki idėja: o kas, jeigu duoti lokalių bendruomenių nariams patiems aprūpinti savo rajonus? Taip atsirado paslauga <a href="http://betterblock.org/wikiblock/" target="_blank">WikiBlock</a>, kuri padeda su medžiagom, brėžiniais, projektavimu, o paskui ir  su lauko baldu gamyba iš faneros.</p>
 
 ![Wiki Block lauko baldai]( {{ site.url }}/assets/street-furniture-01.jpg)
 <div class="lighter smaller" style="margin:12px 0;">Nuotrauka: <br />
