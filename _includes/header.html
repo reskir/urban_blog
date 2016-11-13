@@ -1,7 +1,7 @@
 <div class="header">
   <div class="wrapper">
     <div class="header_logo">
-      <a href="/">
+      <a href="{{ site.baseurl }}">
         <img src="{{ site.baseurl }}{{post.url}}/assets/logo.svg" />
       </a>
     </div>
@@ -12,7 +12,7 @@
 						{% for p in navigation_pages %}
 							{% if p.navigation_weight %}
 								<li class="header_nav--item">
-									<a class="header_nav--link" href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
+									<a class="header_nav--link" href="{{site.baseurl}}/{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
 										{{ p.title }}
 									</a>
 								</li>
