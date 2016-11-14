@@ -29,5 +29,6 @@ gem "jekyll", "3.3.0"
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.7"
    gem "github-pages", "~> 104"
+   gem "jekyll-assets"
    gem 'octopress-autoprefixer'
 end
