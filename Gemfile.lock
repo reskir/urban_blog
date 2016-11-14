@@ -168,6 +168,7 @@ DEPENDENCIES
   jekyll (= 3.3.0)
   jekyll-assets
   jekyll-feed (~> 0.7)
+  jekyll-seo-tag
   octopress-autoprefixer
 
 RUBY VERSION

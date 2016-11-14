@@ -32,6 +32,7 @@ gems:
   - jekyll-feed
   - jekyll-assets
   - octopress-autoprefixer
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock

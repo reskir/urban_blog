@@ -31,4 +31,5 @@ group :jekyll_plugins do
    gem "github-pages", "~> 104"
    gem "jekyll-assets"
    gem 'octopress-autoprefixer'
+   gem 'jekyll-seo-tag'
 end
