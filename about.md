@@ -8,9 +8,9 @@ navigation_weight: 1
 <h2>Apie miestus, jų žmones, kultūrą, architektūrą ir urbanistiką</h2>
 <p> 2050 miestuose gyvens 75% pasaulio žmonių. Miestams teks susitaikyti su didėjančiu gyventojų kiekių, prisitaikyti prie šiuolaikinio žmogaus ir jo poreikių. Šiame bloge mes nagrinėsime gerus miesto dizaino, planavimo, įstatymų ir technologijų pavyzdžius, bandysime suprasti ir išsiaiškinti su kokiom problemom susiduria Lietuvos miestai ir kaip vietinės bendruomenės gali keisti savo miestą. </p>
 
-<p>Taip pat daug demėsio skirsime transporto problemai: kaip padaryti judėjimą mieste saugesniu, patogesniu ir greitesniu, kodėl miestas turi būti projektuojamas pėstiesiems ir dviračiams, ir kada gi dviratis nugalės miesto gatvėse.</p>
-
 ![Troleibusas]( {{ site.url }}/assets/about.jpg)
+
+<p>Taip pat daug demėsio skirsime transporto problemai: kaip padaryti judėjimą mieste saugesniu, patogesniu ir greitesniu, kodėl miestas turi būti projektuojamas pėstiesiems ir dviračiams, ir kada gi dviratis nugalės miesto gatvėse.</p>
 
 <div class="lighter smaller">Nuotrauka: <br /> Liudas Parulskis					
 </div>
