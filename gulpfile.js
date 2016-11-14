@@ -5,6 +5,7 @@ var sass = require('gulp-sass');
 var imagemin = require('gulp-imagemin');
 var imageop = require('gulp-image-optimization');
 var image = require('gulp-image');
+var autoprefixer = require('gulp-autoprefixer');
 
 
 gulp.task('images', function(cb) {
@@ -17,6 +18,16 @@ gulp.task('images', function(cb) {
     .pipe(image())
     .pipe(gulp.dest('assets')).on('end', cb).on('error', cb);
 });
+
+gulp.task('prefix', () =>
+    gulp.src('_sass/*.scss')
+        .pipe(autoprefixer({
+            browsers: ['last 2 versions'],
+            cascade: false,
+            minify:false
+        }))
+        .pipe(gulp.dest('_sass'))
+);
 
 
 gulp.task('sass', function () {

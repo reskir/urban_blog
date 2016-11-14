@@ -165,6 +165,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 104)
+  github-pages-health-check
   jekyll (= 3.3.0)
   jekyll-assets
   jekyll-feed (~> 0.7)
