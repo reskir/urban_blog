@@ -32,4 +32,5 @@ group :jekyll_plugins do
    gem "jekyll-assets"
    gem 'octopress-autoprefixer'
    gem 'jekyll-seo-tag'
+   gem 'jekyll-sitemap'
 end

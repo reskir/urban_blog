@@ -169,6 +169,7 @@ DEPENDENCIES
   jekyll-assets
   jekyll-feed (~> 0.7)
   jekyll-seo-tag
+  jekyll-sitemap
   octopress-autoprefixer
 
 RUBY VERSION

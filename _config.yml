@@ -33,6 +33,7 @@ gems:
   - jekyll-assets
   - octopress-autoprefixer
   - jekyll-seo-tag
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
