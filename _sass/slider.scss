@@ -40,6 +40,11 @@
       width: $slider_width;
   }
 
+  .slider:hover > .next,
+  .slider:hover > .prev {
+        opacity:1;
+   }
+
   .prev, .next {
       position: absolute;
       top: 50%;
@@ -50,10 +55,12 @@
 
   .next, .prev {
       top: 50%;
-      background: rgba(0,0,0, 0.4);
+      background: rgba(0,0,0, 0.9);
       border: 1px solid #333;
       padding:0;
       outline:none;
+      opacity:0;
+      transition:opacity 0.5s ease;
   }
 
 

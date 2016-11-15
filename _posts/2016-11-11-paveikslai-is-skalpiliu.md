@@ -42,5 +42,8 @@ Damien Hirst
                 infinite: 1
             });
         });
+        setTimeout(function(){
+            window.dispatchEvent(new Event('resize'));
+        }, 100);
 })();
 </script>
