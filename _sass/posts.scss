@@ -6,6 +6,12 @@
         flex-basis: 100%;
         margin: 12px 0;
 
+        &--hero {
+            .posts_post_title {
+                font-size:2em;
+            }
+        }
+
         a:hover {
             text-decoration: none;
         }
