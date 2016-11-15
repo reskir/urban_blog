@@ -19,7 +19,7 @@ Flickr / Mashhour Halawani
 
 <p>
 <h1>1.</h1>
-2015-ais metais Oslas nusprendė uždrausti visus nuosavus automobilius miesto center. Jau 2020 metais taksi su benzinu bus uždraustos, viešasis transportas taip pat pereis ant elektroenergijos. Naujos taisyklės ir įstatymai padės sumažinti kenksmingų elementų išmėtimą. </p>
+2015-ais metais Oslas nusprendė uždrausti visus nuosavus automobilius miesto centre. Jau 2020 metais taksi automobiliai su benzininiais varykliais bus uždrausti, viešasis transportas taip pat pereis prie elektros energijos. Naujos taisyklės ir įstatymai padės sumažinti kenksmingų elementų išmėtimą.</p>
 
 <p> <h1>2.</h1>
 
