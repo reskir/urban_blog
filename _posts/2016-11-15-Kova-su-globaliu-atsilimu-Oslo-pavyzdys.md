@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Kaip miestui kovoti su globaliniu atšilimu: Oslo pavyzdys"
+date:   2016-11-15 19:13:00 +0200
+categories: Patirtis
+image:  /assets/oslo-fighting-global-warming.jpg
+---
+
+<p>
+Visos pasaulio šalys susitarė kovoti su globaliniu atšilimu, bet kaip taip įgyvendinti praktikoje vis gi ne iki galo aišku. Kaip pakeisti miesto valdymą taip, kad miestas mažiau kenktų ekologijai? Pasirodo, daugumai miestų reikėtų pasitelkti Oslo pavyzdžiu, kuris ruošiasi per ketverius metus sumažinti šiltnamio dujų skleidimą paligynus su 1990 metų rodikliais.
+</p>
+
+
+![Kaip Oslas kovoja su globaliniu atšilimu]( {{ site.url }}/assets/oslo-fighting-global-warming.jpg)
+<div class="lighter smaller" style="margin:12px 0;">Nuotrauka: <br />
+Flickr / Mashhour Halawani
+</div>
+
+
+<p>
+<h1>1.</h1>
+2015-ais metais Oslo nusprendė uždrausti visus nuosavus automobilius miesto center. Jau 2020 metais taksi su benzinu bus uždraustos, viešasis transportas taip pat pereis ant elektroenergijos. Naujos taisyklės ir įstatymai padės sumažinti kenksmingų elementų išmėtimą. </p>
+
+<p> <h1>2.</h1>
+
+Kartu su gyvenimo apsunkinimu automobilio vairuotojams Oslo miesto valdžia jau kelis paskutinius metus įgyvendina patogią infrastruktūrą dviratininkams, kai buvo iškloti nauji dviračio takeliai dauguma gyventojų persėdo ant dviračių. Miesto dviračių nuomos populiarumas ženkliai išaugo  per pastaruosius du metus. Ypatumas šio sprendimo tame, jog miesto valdžia ištesė dviračio takus per buvusias automobilio stovėjimo vietas. Dabar automobilio turėtojams netgi su didžiuliu noru bus neįmanoma palikti savo automobilį. </p>
+
+
+<p>
+<h1>3.</h1>
+
+šiais metais, be didelio darbo su transportu, Oslo valdžia planuoja dar 42 reformas. Pavyzdžiui, ruošiamasi įvesti naujas, ekologiškesnias butų ir namų šildymo sistemas, taip pat modernizuoti šiukšlių perdirbinimo fabrikus, tam kad jie galėtų kaupti ir saugoti anglį. Reformų kūrėjai tikisi, kad jų idėjos galės įkvėpti kitus miestus ir atverti naujas galimybes.
+</p>
