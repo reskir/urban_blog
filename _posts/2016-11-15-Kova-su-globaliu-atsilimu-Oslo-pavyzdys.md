@@ -23,7 +23,7 @@ Flickr / Mashhour Halawani
 
 <p> <h1>2.</h1>
 
-Kartu su gyvenimo apsunkinimu automobilio vairuotojams Oslo miesto valdžia jau kelis paskutinius metus įgyvendina patogią infrastruktūrą dviratininkams, kai buvo iškloti nauji dviračio takeliai dauguma gyventojų persėdo ant dviračių. Miesto dviračių nuomos populiarumas ženkliai išaugo  per pastaruosius du metus. Ypatumas šio sprendimo tame, jog miesto valdžia ištesė dviračio takus per buvusias automobilio stovėjimo vietas. Dabar automobilio turėtojams netgi su didžiuliu noru bus neįmanoma palikti savo automobilį. </p>
+Kartu su gyvenimo apsunkinimu automobilio vairuotojams, Oslo miesto valdžia jau kelis paskutinius metus įgyvendina patogią infrastruktūrą dviratininkams, kai buvo iškloti nauji dviračio takeliai dauguma gyventojų persėdo ant dviračių. Miesto dviračių nuomos populiarumas ženkliai išaugo  per pastaruosius du metus. Ypatumas šio sprendimo tame, jog miesto valdžia ištesė dviračio takus per buvusias automobilio stovėjimo vietas. Dabar automobilio turėtojams netgi su didžiuliu noru bus neįmanoma palikti savo automobilį. </p>
 
 
 <p>
