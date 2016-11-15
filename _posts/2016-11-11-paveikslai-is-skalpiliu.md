@@ -35,10 +35,12 @@ Damien Hirst
 
 
 <script>
+(function(){
         document.addEventListener('DOMContentLoaded', function () {
         var simple = document.querySelector('.simple');
             lory(simple, {
                 infinite: 1
             });
         });
+})();
 </script>

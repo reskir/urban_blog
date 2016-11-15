@@ -1,16 +1,6 @@
-.site-footer {
-    background: #000;
-    color:white;
-    .footer-heading {
-        font-size:14px;
-    }
-    .footer-col-wrapper {
-        color:white;
-        font-size: 12px;
-    }
-}
-
 .footer {
+    position:absolute;
+    bottom:0;left:0;
     width:100%;
     min-height:100px;
     height: auto;
