@@ -7,7 +7,7 @@ image:  /assets/oslo-fighting-global-warming.jpg
 ---
 
 <p>
-Visos pasaulio šalys susitarė kovoti su globaliniu atšilimu, bet kaip taip įgyvendinti praktikoje vis gi ne iki galo aišku. Kaip pakeisti miesto valdymą taip, kad miestas mažiau kenktų ekologijai? Pasirodo, daugumai miestų reikėtų pasitelkti Oslo pavyzdžiu, kuris ruošiasi per ketverius metus sumažinti šiltnamio dujų skleidimą paligynus su 1990 metų rodikliais.
+Visos pasaulio šalys susitarė kovoti su globaliniu atšilimu, bet kaip tai įgyvendinti praktikoje ne iki galo aišku. Kaip pakeisti požiūrį į miesto valdymą, kad miestas mažiau kenktų ekologijai? Pasirodo, daugumai miestų reikėtų pasitelkti Oslo pavyzdžiu, kuris ruošiasi per ketverius metus sumažinti šiltnamio efektą sukeliančių dujų skleidimą paligynus su 1990 metų rodikliais.
 </p>
 
 
@@ -19,7 +19,7 @@ Flickr / Mashhour Halawani
 
 <p>
 <h1>1.</h1>
-2015-ais metais Oslo nusprendė uždrausti visus nuosavus automobilius miesto center. Jau 2020 metais taksi su benzinu bus uždraustos, viešasis transportas taip pat pereis ant elektroenergijos. Naujos taisyklės ir įstatymai padės sumažinti kenksmingų elementų išmėtimą. </p>
+2015-ais metais Oslas nusprendė uždrausti visus nuosavus automobilius miesto center. Jau 2020 metais taksi su benzinu bus uždraustos, viešasis transportas taip pat pereis ant elektroenergijos. Naujos taisyklės ir įstatymai padės sumažinti kenksmingų elementų išmėtimą. </p>
 
 <p> <h1>2.</h1>
 
