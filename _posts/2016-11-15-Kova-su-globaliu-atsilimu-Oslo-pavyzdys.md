@@ -29,5 +29,5 @@ Kartu su gyvenimo apsunkinimu automobilio vairuotojams Oslo miesto valdžia jau 
 <p>
 <h1>3.</h1>
 
-šiais metais, be didelio darbo su transportu, Oslo valdžia planuoja dar 42 reformas. Pavyzdžiui, ruošiamasi įvesti naujas, ekologiškesnias butų ir namų šildymo sistemas, taip pat modernizuoti šiukšlių perdirbinimo fabrikus, tam kad jie galėtų kaupti ir saugoti anglį. Reformų kūrėjai tikisi, kad jų idėjos galės įkvėpti kitus miestus ir atverti naujas galimybes.
+Šiais metais, be didelio darbo su transportu, Oslo valdžia planuoja dar 42 reformas. Pavyzdžiui, ruošiamasi įvesti naujas, ekologiškesnias butų ir namų šildymo sistemas, taip pat modernizuoti šiukšlių perdirbinimo fabrikus, tam kad jie galėtų kaupti ir saugoti anglį. Reformų kūrėjai tikisi, kad jų idėjos galės įkvėpti kitus miestus ir atverti naujas galimybes.
 </p>
