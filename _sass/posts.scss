@@ -8,10 +8,13 @@
 
         &--hero {
             .posts_post_title {
-                font-size:2em;
+                font-size:calc( 1.25rem + 1.5vw - 10px );
                 background:#76c2af;
-                // color:white;
+                color:white;
                 padding:12px;
+                &:hover {
+                    color:white;
+                }
             }
         }
 
