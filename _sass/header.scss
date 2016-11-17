@@ -2,7 +2,6 @@
     width: 100%;
     background: black;
     color: white;
-    position:fixed;
     z-index:2;
 
     .wrapper {
@@ -130,7 +129,7 @@ button.toggle-nav {
   background:none;
   -ms-flex-positive:0;
   flex-grow:0;
-  width: 40px;
+  width: 50px;
   height: 100%;
   color: #fff;
   border: none;
@@ -166,7 +165,7 @@ button.toggle-nav {
 
 #nav-icon1 {
   width: 100%;
-  height: 22px;
+  height: 36px;
   position: relative;
   transform: rotate(0deg);
   transition: .5s ease-in-out;
@@ -176,7 +175,7 @@ button.toggle-nav {
 #nav-icon1 span {
   display: block;
   position: absolute;
-  height: 3px;
+  height: 4px;
   width: 100%;
   background: #76c2af;
   border-radius: 6px;
@@ -199,15 +198,15 @@ button.toggle-nav {
 }
 
 #nav-icon1 span:nth-child(2) {
-  top: 10px;
+  top: 15px;
 }
 
 #nav-icon1 span:nth-child(3) {
-  top: 20px;
+  top: 30px;
 }
 
 #nav-icon1.open span:nth-child(1) {
-  top: 10px;
+  top: 15px;
   transform: rotate(135deg);
 }
 
@@ -217,6 +216,6 @@ button.toggle-nav {
 }
 
 #nav-icon1.open span:nth-child(3) {
-  top: 10px;
+  top: 15px;
   transform: rotate(-135deg);
 }
