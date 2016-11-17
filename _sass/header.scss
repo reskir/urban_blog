@@ -2,7 +2,6 @@
     width: 100%;
     background: black;
     color: white;
-    padding: 12px 0;
 
     .wrapper {
         display: -ms-flexbox;
@@ -61,28 +60,31 @@
 
 
 .header nav {
-  position:absolute;
+  position: fixed;
   background: rgba(118,194,175, 1);
   top:0;left:0;
+  display:-ms-flexbox;
   display:flex;
   width:100%;
   height:100%;
+  -ms-flex-pack:center;
   justify-content:center;
-  align-items: center;
   opacity:0;
   z-index: -10;
   pointer-events: none;
   transition: opacity 0.1s ease;
-  overflow: hidden;
 }
 
 .header ul.nav {
   padding:12px;
   overflow: hidden;
   width:100%;
-  height:100%;
+  height:100vh;
+  display: -ms-flexbox;
   display: flex;
+  -ms-flex-direction: column;
   flex-direction: column;
+  -ms-flex-pack:center;
   justify-content:center;
 }
 
@@ -126,7 +128,7 @@ button.toggle-nav {
   background:none;
   position: absolute;
   right: 30px;
-  width: 30px;
+  width: 40px;
   height: 100%;
   color: #fff;
   border: none;
@@ -148,7 +150,7 @@ button.toggle-nav {
     width: 100%;
     background: black;
     color: white;
-    padding: 12px 0 12px 0;
+    padding: 12px;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-align: center;
@@ -164,13 +166,7 @@ button.toggle-nav {
   width: 100%;
   height: 30px;
   position: relative;
-  -webkit-transform: rotate(0deg);
-  -moz-transform: rotate(0deg);
-  -o-transform: rotate(0deg);
   transform: rotate(0deg);
-  -webkit-transition: .5s ease-in-out;
-  -moz-transition: .5s ease-in-out;
-  -o-transition: .5s ease-in-out;
   transition: .5s ease-in-out;
   cursor: pointer;
 }
@@ -184,13 +180,7 @@ button.toggle-nav {
   border-radius: 6px;
   opacity: 1;
   left: 0;
-  -webkit-transform: rotate(0deg);
-  -moz-transform: rotate(0deg);
-  -o-transform: rotate(0deg);
   transform: rotate(0deg);
-  -webkit-transition: .25s ease-in-out;
-  -moz-transition: .25s ease-in-out;
-  -o-transition: .25s ease-in-out;
   transition: .25s ease-in-out;
 }
 
@@ -208,9 +198,6 @@ button.toggle-nav {
 
 #nav-icon1.open span:nth-child(1) {
   top: 10px;
-  -webkit-transform: rotate(135deg);
-  -moz-transform: rotate(135deg);
-  -o-transform: rotate(135deg);
   transform: rotate(135deg);
 }
 
@@ -221,8 +208,5 @@ button.toggle-nav {
 
 #nav-icon1.open span:nth-child(3) {
   top: 10px;
-  -webkit-transform: rotate(-135deg);
-  -moz-transform: rotate(-135deg);
-  -o-transform: rotate(-135deg);
   transform: rotate(-135deg);
 }

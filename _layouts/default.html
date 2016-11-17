@@ -1,4 +1,6 @@
---- layout: default ---
+---
+layout: default
+---
 <!DOCTYPE HTML>
 <html>
 
@@ -8,17 +10,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="favicon" sizes="16x16" href="{{ site.baseurl }}/assets/favicon.ico?v2">
     <script defer src="//meandmax.github.io/lory/dist/lory.min.js"></script>
-    <script>
-        (function() {
-            var header = document.querySelector('.header'),
-                btn = document.querySelector('button.toggle-nav'),
-                menu = document.querySelector('#nav-icon1');
-            btn.addEventListener('click', function() {
-                menu.classList.toggle('open');
-                header.classList.toggle('active');
-            });
-        })();
-    </script>
     <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -44,3 +35,15 @@
 </div>
 
 {% include footer.html %}
+
+<script>
+    (function() {
+        var header = document.querySelector('.header'),
+            btn = document.querySelector('.toggle-nav'),
+            menu = document.querySelector('#nav-icon1');
+        btn.addEventListener('click', function() {
+            menu.classList.toggle('open');
+            header.classList.toggle('active');
+        });
+    })();
+</script>
