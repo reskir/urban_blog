@@ -2,6 +2,8 @@
     width: 100%;
     background: black;
     color: white;
+    position:fixed;
+    z-index:2;
 
     .wrapper {
         display: -ms-flexbox;
@@ -98,7 +100,7 @@
   cursor: pointer;
   transform: scale(0);
   opacity:0;
-  font-size: 2.2em;
+  font-size: calc( 3vw + 10px );
   -webkit-transition: all 0.25s ease-in-out;
   -moz-transition: all 0.25s ease-in-out;
   &:hover {
@@ -162,7 +164,7 @@ button.toggle-nav {
 
 /* Icon 1 */
 
-#nav-icon1, #nav-icon2, #nav-icon3, #nav-icon4 {
+#nav-icon1 {
   width: 100%;
   height: 22px;
   position: relative;
@@ -171,17 +173,25 @@ button.toggle-nav {
   cursor: pointer;
 }
 
-#nav-icon1 span, #nav-icon3 span, #nav-icon4 span {
+#nav-icon1 span {
   display: block;
   position: absolute;
   height: 3px;
   width: 100%;
-  background: #fff;
+  background: #76c2af;
   border-radius: 6px;
   opacity: 1;
   left: 0;
   transform: rotate(0deg);
   transition: .25s ease-in-out;
+}
+
+.header {
+    &.active {
+        #nav-icon1 span {
+            background:#fff;
+        }
+    }
 }
 
 #nav-icon1 span:nth-child(1) {
