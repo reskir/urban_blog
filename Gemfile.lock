@@ -129,8 +129,8 @@ GEM
       mini_portile2 (~> 2.1.0)
     nokogiri (1.6.8.1-x64-mingw32)
       mini_portile2 (~> 2.1.0)
-    octokit (4.4.1)
-      sawyer (~> 0.7.0, >= 0.5.3)
+    octokit (4.6.0)
+      sawyer (~> 0.8.0, >= 0.5.3)
     octopress-autoprefixer (2.0.0)
       autoprefixer-rails
       jekyll (~> 3.0)
@@ -144,8 +144,8 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
-    sawyer (0.7.0)
-      addressable (>= 2.3.5, < 2.5)
+    sawyer (0.8.0)
+      addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 0.10)
     sprockets (3.6.3)
       concurrent-ruby (~> 1.0)
@@ -174,7 +174,7 @@ DEPENDENCIES
   octopress-autoprefixer
 
 RUBY VERSION
-   ruby 2.2.2p95
+   ruby 2.3.1p112
 
 BUNDLED WITH
    1.13.6

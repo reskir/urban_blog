@@ -1,4 +1,4 @@
-<div class="header">
+<!-- <div class="header">
   <div class="wrapper">
     <div class="header_logo">
       <a href="{{ site.url }}">
@@ -24,4 +24,35 @@
     </div>
   </div>
 
-</div>
+</div> -->
+
+
+<header class="header">
+    <nav>
+        <ul class="nav">
+            {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}
+            <li class="header_nav--item">
+                <a class="header_nav--link" href="{{site.baseurl}}{{ p.url }}" {% if p.url==p age.url %}class="active" {% endif %}>
+                    {{ p.title }}
+                  </a>
+            </li>
+            {% endif %} {% endfor %}
+        </ul>
+    </nav>
+
+    <div class="wrapper">
+
+        <button class="toggle-nav">
+          <div id="nav-icon1">
+              <span></span>
+              <span></span>
+              <span></span>
+          </div>
+      	</button>
+        <div class="header_logo">
+            <a href="">
+                <img src="{{site.baseurl}}/assets/logo.svg" />
+            </a>
+        </div>
+    </div>
+</header>
