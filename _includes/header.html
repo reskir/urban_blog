@@ -1,4 +1,19 @@
 <header class="header">
+    <div class="wrapper">
+        <div class="header_logo">
+            <a href="{{ site.url }}">
+                <img src="{{site.baseurl}}/assets/logo.svg" />
+            </a>
+        </div>
+
+        <button class="toggle-nav">
+          <div id="nav-icon1">
+              <span></span>
+              <span></span>
+              <span></span>
+          </div>
+        </button>
+    </div>
     <nav>
         <ul class="nav">
             {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}
@@ -10,19 +25,4 @@
             {% endif %} {% endfor %}
         </ul>
     </nav>
-
-    <div class="wrapper">
-        <div class="header_logo">
-            <a href="{{ site.url }}">
-                <img src="{{site.baseurl}}/assets/logo.svg" />
-            </a>
-        </div>
-        <button class="toggle-nav">
-          <div id="nav-icon1">
-              <span></span>
-              <span></span>
-              <span></span>
-          </div>
-        </button>
-    </div>
 </header>
