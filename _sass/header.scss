@@ -57,7 +57,7 @@
 
 .header nav {
   position: relative;
-  background: #000; //rgba(118,194,175, 1);
+  background: #000;
   top:0;left:0;
   display:-ms-flexbox;
   display:flex;
@@ -75,6 +75,7 @@
   width:100%;
   display: -ms-flexbox;
   display: flex;
+  -ms-flex-pack: end;
   justify-content: flex-end;
 }
 
@@ -92,6 +93,16 @@
   &:hover {
     text-decoration: underline;
   }
+}
+
+@media (max-width:600px) {
+    .header ul.nav {
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .header ul.nav li a {
+         font-size: calc( 1.5vw + 10px );
+    }
 }
 
 .header.active nav {
