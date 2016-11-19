@@ -4,7 +4,6 @@ title: Dizainas
 permalink: /dizainas/
 navigation_weight: 1
 ---
-
 {% for post in site.categories.Dizainas %}
   <article class="posts_post col-lg-3 col-md-4 col-sm-6 col-xs-12">
     <a href="{{ site.url }}{{ post.url }}">
