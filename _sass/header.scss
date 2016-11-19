@@ -97,7 +97,6 @@
   text-decoration: none;
   text-align: center;
   cursor: pointer;
-  transform: scale(0);
   opacity:0;
   font-size: calc( 3vw + 10px );
   -webkit-transition: all 0.25s ease-in-out;
@@ -117,7 +116,6 @@
 
 .header.active ul.nav li a {
   cursor: pointer;
-  transform: translateX(0px);
   opacity: 1;
 }
 
@@ -175,10 +173,9 @@ button.toggle-nav {
 #nav-icon1 span {
   display: block;
   position: absolute;
-  height: 4px;
+  height: 3px;
   width: 100%;
   background: #76c2af;
-  border-radius: 6px;
   opacity: 1;
   left: 0;
   transform: rotate(0deg);
