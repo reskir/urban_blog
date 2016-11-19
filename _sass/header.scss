@@ -34,17 +34,12 @@
         }
 
         &--link {
-            color: white;
+            color: #76c2af;
 
             &.active {
                 font-weight: bold;
-                color: orange;
-            }
-
-            &:visited {
                 color: white;
             }
-
             &:hover {
                 text-decoration: underline;
                 color: white;
@@ -86,7 +81,6 @@
 
 .header ul.nav li a {
   display: block;
-  color: #fff;
   padding: 12px;
   text-decoration: none;
   text-align: center;
