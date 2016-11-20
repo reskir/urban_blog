@@ -12,6 +12,7 @@
 @import "flexboxgrid.scss";
 @import "loader.scss";
 @import "slider.scss";
+@import "video.scss";
 @import "legacy.scss";
 
 
@@ -32,17 +33,20 @@ body {
     line-height: 1.7;
     min-height: 100%;
     position:relative;
-    padding-bottom: 100px;
+    padding-bottom: 24px;
+    background: #eee;
 }
 
 .wrapper {
     position: relative;
-    margin-right: 0 !important;
-    margin-left:0 !important;
-    padding:0;
+    padding-right:1.5em;
+    padding-left:1.5em;
     max-width: 100%;
     max-width: 100%;
     transition:opacity .2s ease-in-out;
+    width: 1200px;
+    margin: 0 auto;
+    background: white;
 }
 
 a {
@@ -54,9 +58,4 @@ a {
 
 a:hover {
     color:#76c2ad;
-}
-
-iframe {
-    width:100%;
-    margin-bottom: 15px;
 }
