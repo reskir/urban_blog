@@ -3,7 +3,7 @@ layout: video
 title:  "Kas yra gyvenimo kokybė?"
 date:   2016-11-20 09:00:00 +0200
 categories: Miestas
-image:  /assets/quality-of-life.webp
+image:  /assets/quality-of-life.jpg
 ---
 
 <iframe src="https://player.vimeo.com/video/125169890?color=ffd800&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
