@@ -6,7 +6,7 @@ categories: Dizainas
 image: /assets/scalpels/11.jpg
 ---
 
-<p class="italic bolder">
+<p class="italic">
 Britų dailininkas Damien Hirst pristatė savo darbų seriją "Juodieji miestai iš skalpelio". Paveikslai padaryti iš chirurginių instrumentų: ašmenų, geležinės drožlės, smeigtukų ir skalpelių. Dailininkas pavaizdavo miestus, kurie turi didelę ekonominę, politinę ir religinę reikšmę. Kompozicijos buvo kūriamos su <a href="https://www.google.com/earth/Google" target="_blank">Google Earth </a> pagalba.
 </p>
 

@@ -9,9 +9,6 @@ categories: Miestas
 
 ![Cikago upe]({{ site.url }}/assets/chickago.jpg)
 
-<div style="padding-top:10px">
-	<div class="fl fs12 cGray" style="float:left;     font-size: 12px;line-height: 1.4em; color:#999">
-						Nuotrauka:
-						Ross Barney Architects
-	</div>
+<div class="lighter smaller" style="margin:12px 0;">Nuotrauka: <br />
+Ross Barney Architects
 </div>
