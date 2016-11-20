@@ -18,7 +18,6 @@ navigation_weight: 5
 
 <p> Lietuvos miestai turi savo išskirtinį kelią. Tai kas veikia Olandijoje ar Vokietijoje, nevisada gali pritapti ir mūsų šalyje, tai gali įtakoti skirtingi faktoriai - kultūra, teisinė ir politinė sistema, klimatas ir kita. Tiesioginis idėjos panaudojimas - "padarykime kaip Amsterdame/Paryžiuje/Londone" - nelabai veikia. Todėl šio blog'o straipsniai labiau naudojami įkvėpimui, o ne tiesioginiam kopijavimui. </p>
 
-
 ![Troleibusas]( {{ site.url }}/assets/about.jpg)
 <div class="lighter smaller" style="margin:12px 0;">Nuotrauka: <br /> Liudas Parulskis					
 </div>
