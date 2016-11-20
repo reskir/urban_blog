@@ -60,6 +60,13 @@
 
 .single-post {
     margin: 24px 0;
+
+    &.post_video {
+        background: #000;
+        color:white;
+        margin-top:0;
+    }
+    
     .post-meta {
         font-size: 10px;
         color: #999;
