@@ -3,6 +3,13 @@
     color: white;
     z-index:2;
 
+    .wrapper {
+        background: black;
+        color: white;
+        position: relative;
+        padding:12px 0;
+    }
+
     &_top  {
         display:flex;
         align-items: center;
@@ -136,15 +143,6 @@ button.toggle-nav {
   z-index:20;
 }
 
-
-.header {
-  .wrapper {
-    background: black;
-    color: white;
-    padding: 12px;
-    position: relative;
-  }
-}
 
 
 /* Icon 1 */

@@ -33,16 +33,17 @@ body {
     line-height: 1.7;
     min-height: 100%;
     position:relative;
-    padding-bottom: 24px;
     background: #eee;
 }
+
+
 
 .wrapper {
     position: relative;
     transition:opacity .2s ease-in-out;
     width: calc(1200px - (30px * 2));
     max-width: 100%;
-    margin: 0 auto;
+    margin: 24px auto;
     background: white;
 }
 
