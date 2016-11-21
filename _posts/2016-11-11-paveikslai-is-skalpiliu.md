@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paveikslai iš skalpilių
+title: Paveikslai iš skalpelių
 date: '2016-11-11 10:00:02 +0200'
 categories: Dizainas
 image: /assets/scalpels/11.jpg
