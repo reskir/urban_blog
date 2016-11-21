@@ -3,7 +3,7 @@ layout: default
 ---
     <div class="row posts x--pt">
           {% for post in site.posts limit:1 %}
-              <article class="posts_post posts_post--hero col-lg-12 col-md-12 col-sm-12 col-xs-12">
+              <article class="posts_post posts_post--hero col-lg-8 col-md-8 col-sm-6 col-xs-12">
                 <a href="{{ site.url }}{{ post.url }}">
                     <div class="posts_post_info" style="background-image:url('{{ site.url }}{{ post.image }}')">
                           <p class="posts_post_cat">{{ post.categories }} </p>
