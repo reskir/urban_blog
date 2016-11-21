@@ -20,6 +20,8 @@
             var slides = document.querySelectorAll('.js_slide img');
             var next = document.querySelector('.next');
             var prev = document.querySelector('.prev');
+            //var article = document.querySelector('.single-post').clientWidth;
+
 
 
         // slides.forEach(function(element){
@@ -27,14 +29,22 @@
         // })
         var simple = document.querySelector('.simple');
             lory(simple, {
-                infinite: 0,
-                rewind: 1
+                infinite: 1
         });
 
+        //simple.style = "width:" + article + "px";
 
-        // simple.addEventListener('before.lory.slide', function(currentSlide) {
-        //     console.log(currentSlide);
-        // });
+        // window.onresize = function(){
+        //     var article = document.querySelector('.single-post').clientWidth;
+        //     console.log(article);
+        //
+        //     simple.style = "width:" + (article - (window.innerWidth/6)) + 'px'
+        // }
+
+
+        simple.addEventListener('before.lory.slide', function(currentSlide, nextSlide) {
+            console.log(currentSlide, nextSlide);
+        });
 
 
         });
