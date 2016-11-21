@@ -5,18 +5,22 @@
 
    $slider_width: 100%;
 
+   .slider,
+   .frame,
+   li {
+      width: $slider_width;
+   }
+
   .slider {
       display: -ms-flexbox;
       display: flex;
       position: relative;
-      width: $slider_width;
   }
 
   .frame {
       /**
        * (optional) wrapper width, specifies width of the slider frame.
        */
-      width: $slider_width;
 
       position: relative;
       font-size: 0;
@@ -37,7 +41,6 @@
       /**
        * (optional) if the content inside the slide element has a defined size.
        */
-      width: $slider_width;
   }
 
   .slider:hover > .next,
@@ -55,12 +58,14 @@
 
   .next, .prev {
       top: 50%;
-      background: rgba(0,0,0, 0.9);
-      border: 1px solid #333;
+    //   background: rgba(0,0,0, 0.9);
+    //   border: 1px solid #333;
+      background:none;
+      border:none;
       padding:0;
       outline:none;
       opacity:0;
-      transition:opacity 0.5s ease;
+      transition:opacity 0.2s linear;
   }
 
 
@@ -71,9 +76,8 @@
 
   .prev {
       left: 0px;
-    //   border-right:0;
   }
 
   .next svg, .prev svg {
-      width: 25px;
+      width: 35px;
   }
