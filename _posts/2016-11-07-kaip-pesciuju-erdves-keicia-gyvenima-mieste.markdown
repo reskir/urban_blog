@@ -5,24 +5,15 @@ date:   2016-11-07 19:44 +0200
 image: /assets/pesciuju-gatve-san-franciske.jpg
 categories: Miestas
 ---
-<p>Gatvės pėstiesiems — tai gerai visiems; be to, pasirodo, ne tik miestiečiams ir miesto valdžiai, bet ir bendruomenei apskritai. <em>Arup</em> tyrime <a href="http://www.arup.com/walking" target="_blank">"Gyvi miestai: pakeliui į pėsčiųjų pasaulį"</a>&nbsp;pasakojama tame tarpe ir apie tai, kaip gatvės skirtos pėstiesiems keičia bendruomenių gyvenimą ir padeda gerinti santykius tarp žmonių.</p>
+<p>Gatvės pėstiesiems — tai gerai visiems; be to, pasirodo, ne tik miestiečiams ir miesto valdžiai, bet ir bendruomenei apskritai. <em>Arup</em> tyrime <a href="http://www.arup.com/walking" target="_blank">"Gyvi miestai: pakeliui į pėsčiųjų pasaulį"</a> pasakojama tame tarpe ir apie tai, kaip gatvės skirtos pėstiesiems keičia bendruomenių gyvenimą ir padeda gerinti santykius tarp žmonių.</p>
 
 ![Pesciuju gatve san-franciske]({{ site.url }}/assets/pesciuju-gatve-san-franciske.jpg)
-<div style="padding-top:10px">
-									<div class="fl fs12 cGray" style="width: 190px; float:left;     font-size: 12px;line-height: 1.4em;">
-						Nuotrauka:
-						NACTO					</div>
-													<div class="fs12 tar cDarkGray" style="color:#999;font-size: 12px; line-height: 1.4em; float: right;">
-						Pėsčiųjų gatvė San Franciske				</div>
-			</div>
+
+<div class="lighter smaller" style="margin:12px 0">Nuotrauka: NACTO
+</div>
 
 
-
-
-
-<!--TODO translate -->
-<div style="margin-top:48px;" class="column c23_3_14_1_5 h2 m2 s1 pr quoteLeft">
-	<h3>1. Tai stiprina santykius tarp žmonių</h3>
+<h3>1. Tai stiprina santykius tarp žmonių</h3>
 
 <p> Pasirodo, vaikščiuojimas pėsčiomis padeda surasti naujus draugus ir išsaugoti senus. Kitais žodžiais, kuo dažniau jus judate gatve (mašinoje - nesiskaito), tuo didesnė tikimybė ką nors sutikti ir užmegzti pokalbį. Dar klasikiniai tyrimai 60-ais metais įrodė: kuo intensyvesnis srautas gatvėje, tuo mažiau kaimynų pažysta vietiniai gyventojai.</p>
 
@@ -43,5 +34,3 @@ Tam, kad būti pėsčiuoju nereikia ilgai taupyti automobiliui. Kas nori gali b�
 <h3>5. Tai sukuria atvirą aplinką</h3>
 
 <p>Miesto infrastruktūra, pavyzdžiui greitkelis, gali fiziškai atskirti, o kartais ir segreguoti rajonus ir gyventojus. Sumanus miesto dizainas padaro miesto gatves prieinamomis visiems ir sukuria socialinę apsaugą. </p>
-
-</div>
