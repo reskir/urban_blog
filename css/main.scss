@@ -16,7 +16,6 @@
 @import "legacy.scss";
 
 
-// @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic,latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:400,400i,700&subset=latin-ext');
 
 html {
@@ -27,8 +26,7 @@ html {
  -webkit-font-smoothing: antialiased;
 }
 body {
-    // font-family: 'Open Sans', sans-serif;
-    font-family: 'Merriweather Sans', Tahoma, Arial, sans-serif;
+    font-family: 'Helvetica Neue', 'Merriweather Sans', Tahoma, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.7;
     min-height: 100%;
@@ -40,6 +38,9 @@ p {
     font-family: Georgia, sans-serif;
 }
 
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+}
 
 
 .wrapper {
