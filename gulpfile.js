@@ -9,11 +9,12 @@ var autoprefixer = require('gulp-autoprefixer');
 
 
 gulp.task('images', function(cb) {
-    gulp.src(['images/**/*.png','images/**/*.jpg','images/**/*.gif','images/**/*.jpeg']).pipe(imageop({
-        optimizationLevel: 5,
-        progressive: true,
-        interlaced: true
-    }))
+    gulp.src(['images/**/*.png','images/**/*.jpg','images/**/*.gif','images/**/*.jpeg'])
+    // .pipe(imageop({
+    //     optimizationLevel: 5,
+    //     progressive: true,
+    //     interlaced: true
+    // }))
     .pipe(imagemin())
     .pipe(image())
     .pipe(gulp.dest('assets')).on('end', cb).on('error', cb);
