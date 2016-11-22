@@ -6,7 +6,7 @@ image: /assets/baana-dviratininku-greitkelis.jpg
 categories: Patirtis
 ---
 <p>
-Kol didžiausi dviratininkų miestai tik svajoja apie greitkelį miesto centre skirta dviračiams ir pėstiesiems - Helsinkyje ši svajonė jau išsipildė.
+Kol didžiausi dviratininkų miestai tik svajoja apie greitkelį miesto centre skirta dviratininkams ir pėstiesiems - Helsinkyje ši svajonė jau išsipildė.
 </p>
 
 <!-- ![Baana - vienintelis pasaulyje dviratininkų ir pėsčiųjų greitkelis]( {{ site.url }}/assets/baana-dviratininku-greitkelis.jpg)
