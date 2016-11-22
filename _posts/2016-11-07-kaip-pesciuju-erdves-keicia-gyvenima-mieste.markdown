@@ -15,7 +15,7 @@ categories: Miestas
 
 <h3>1. Tai stiprina santykius tarp žmonių</h3>
 
-<p> Pasirodo, vaikščiuojimas pėsčiomis padeda surasti naujus draugus ir išsaugoti senus. Kitais žodžiais, kuo dažniau jus judate gatve (mašinoje - nesiskaito), tuo didesnė tikimybė ką nors sutikti ir užmegzti pokalbį. Dar klasikiniai tyrimai 60-ais metais įrodė: kuo intensyvesnis srautas gatvėje, tuo mažiau kaimynų pažysta vietiniai gyventojai.</p>
+<p> Pasirodo, vaikščiojimas pėsčiomis padeda surasti naujus draugus ir išsaugoti senus. Kitais žodžiais, kuo dažniau jus judate gatve (mašinoje - nesiskaito), tuo didesnė tikimybė ką nors sutikti ir užmegzti pokalbį. Dar klasikiniai tyrimai 60-ais metais įrodė: kuo intensyvesnis srautas gatvėje, tuo mažiau kaimynų pažysta vietiniai gyventojai.</p>
 
 <h3>2. Judėti pėsčiomis - universalu</h3>
 
