@@ -1,4 +1,3 @@
-# 1 WEEK - possible to be changed, unlikely
-<FilesMatch "\.(jpg|jpeg|png|gif|swf)$">
-ExpiresDefault A604800
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|swf)$">
+Header set Cache-Control "max-age=604800, public"
 </FilesMatch>
