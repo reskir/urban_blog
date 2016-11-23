@@ -11,7 +11,7 @@ Mes pripratom, jog požeminė perėja - tai negraži, baisi ir netgi pavojinga v
 </p>
 
 {% include slider.html %}
-<div class="lighter smaller" style="margin-bottom:12px;">Nuotraukos: <br />
+<div class="lighter smaller" style="margin:12px 0;">Nuotraukos: <br />
 Benthem Crouwel
 </div>
 

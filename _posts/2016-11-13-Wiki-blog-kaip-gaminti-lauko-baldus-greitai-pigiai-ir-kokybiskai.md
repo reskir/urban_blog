@@ -11,7 +11,7 @@ slides: ['/assets/wiki-blog-5.jpg','/assets/wiki-blog-2.jpg','/assets/wiki-blog-
 
 {% include slider.html %}
 
-<div class="lighter smaller" style="margin:0 0 12px 0;">Nuotrauka: <br />
+<div class="lighter smaller" style="margin:12px 0;">Nuotrauka: <br />
 Wiki Block
 </div>
 

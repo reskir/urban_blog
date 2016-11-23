@@ -13,7 +13,7 @@ Britų dailininkas Damien Hirst pristatė savo darbų seriją "Juodieji miestai 
 
 {% include slider.html %}
 
-<div class="smaller lighter">
+<div class="smaller lighter" style="margin: 12px 0;">
 Nuotraukos: <br />
 Damien Hirst
 </div>
