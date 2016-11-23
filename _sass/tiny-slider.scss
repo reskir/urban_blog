@@ -68,17 +68,23 @@
     button {
         position: absolute;
         bottom: 0%;
-        background:#000;
+        background:#fff;
         border:1px solid black;
-        color:#fff;
-        font-size: 1em;
+        color:#000;
+        font-size: 1.2em;
         padding: 6px;
         outline:0;
         &[data-controls="next"] {
             right:0px;
+            &:before {
+                content: "\2192"
+            }
         }
         &[data-controls="prev"] {
             left:0;
+            &:before {
+                content: '\2190'
+            }
         }
     }
 }
