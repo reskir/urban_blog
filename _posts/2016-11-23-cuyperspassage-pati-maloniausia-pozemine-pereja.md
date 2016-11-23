@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cuyperspassage - pati maloniausia požeminė perėja"
-date:   2016-11-22 19:00 +0200
+date:   2016-11-23 19:00 +0200
 image: /assets/pozemine-pereja.jpg
 slides: ['/assets/pozemine-pereja.jpg','/assets/pozemine-pereja-2.jpg','/assets/pozemine-pereja-3.jpg','/assets/pozemine-pereja-4.jpg']
 categories: Dizainas
