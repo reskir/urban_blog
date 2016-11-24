@@ -10,7 +10,7 @@ Kaimas Afrikoje arba megapolis Niujorkas - niekas negali būti apsaugotas nuo ne
 
 ![Lankstus miesto planavimas]( {{ site.url }}/assets/amplify.jpg)
 <div class="lighter smaller" style="margin:12px 0;">
-Nuotraukos: <br />Amplify</div>
+Nuotrauka: <br />Amplify</div>
 
 <h3>1. Paklauskite vartotojo</h3>
 <p>
