@@ -169,12 +169,13 @@ DEPENDENCIES
   jekyll (= 3.3.0)
   jekyll-assets
   jekyll-feed (~> 0.7)
+  jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
   octopress-autoprefixer
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.2.2p95
 
 BUNDLED WITH
    1.13.6
