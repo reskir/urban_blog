@@ -59,6 +59,11 @@
     padding-left:24px;
 }
 
+.x--mv {
+    margin-top:12px;
+    margin-bottom:12px;
+}
+
 .smaller {
     font-size:12px;
 }
@@ -72,4 +77,8 @@
 
 .bolder {
     font-weight: 700;
+}
+
+.hide {
+    display: none !important;
 }

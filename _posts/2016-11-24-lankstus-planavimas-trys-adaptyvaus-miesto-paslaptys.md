@@ -6,7 +6,7 @@ image: /assets/amplify.jpg
 categories: Dizainas
 ---
 <p>
-Kaimas Afrikoje arba megapolis Niujorkas - niekas negali būti apsaugotas nuo netikėtų katastrofų ir gamtos kataklizmų. Po paskutiniųjų metų įvykių, įskaitant uraganus, cunamius ir karus, vis daugiau transporto planavimo tyrėjų prieina vienos nuomonės - miesto projektavimas turi būti nuo pat pradžių "elastiškas". Būtent tokį miesto dizainą kuria grupė <a href="http://www.ideo.org/programs/amplify" target="_blank">Amplify</a>, kuri sugalvojo trys pagrindinias taisykles pokyčiams.</p>
+Kaimas Afrikoje arba megapolis Niujorkas - niekas negali būti apsaugotas nuo netikėtų katastrofų ir gamtos kataklizmų. Po paskutiniųjų metų įvykių, įskaitant uraganus, cunamius ir karus, vis daugiau transporto planavimo tyrėjų prieina vienos nuomonės - miesto projektavimas turi būti nuo pat pradžių "elastiškas". Būtent tokį miesto dizainą kuria grupė <a href="http://www.ideo.org/programs/amplify" target="_blank">Amplify</a>, kuri sugalvojo trys pagrindines taisykles pokyčiams.</p>
 
 ![Lankstus miesto planavimas]( {{ site.url }}/assets/amplify.jpg)
 <div class="lighter smaller" style="margin:12px 0;">

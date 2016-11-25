@@ -21,12 +21,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://urbanistas.lt" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kiril_lab
 github_username:  reskir
+paginate: 4
+
 
 # Build settings
 sass:
     sass_dir: _sass
     style: compressed
-paginate: 5
 markdown: kramdown
 theme: minima
 gems:

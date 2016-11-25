@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+
     <div class="row posts x--pt">
-          {% for post in site.posts limit:1 %}
+          {% for post in paginator.posts limit:1 %}
               <article class="posts_post posts_post--hero col-lg-8 col-md-12 col-sm-12 col-xs-12">
                 <a href="{{ site.url }}{{ post.url }}">
                     <div class="posts_post_info" style="background-image:url('{{ site.url }}{{ post.image }}')">
@@ -17,7 +18,7 @@ layout: default
           {% endfor %}
 
 
-          {% for post in site.posts offset:1 limit:1 %}
+          {% for post in paginator.posts offset:1 limit:1 %}
             <article class="posts_post col-lg-4 col-md-4 col-sm-6 col-xs-12">
               <a href="{{ site.url }}{{ post.url }}">
                   <div class="posts_post_info" style="background-image:url('{{ site.url }}{{ post.image }}')">
@@ -31,7 +32,7 @@ layout: default
           </article>
           {% endfor %}
 
-          {% for post in site.posts offset:2 limit:2 %}
+          {% for post in paginator.posts offset:2 limit:2 %}
             <article class="posts_post col-lg-6 col-md-4 col-sm-6 col-xs-12">
               <a href="{{ site.url }}{{ post.url }}">
                   <div class="posts_post_info" style="background-image:url('{{ site.url }}{{ post.image }}')">
@@ -45,36 +46,33 @@ layout: default
           </article>
           {% endfor %}
 
-          {% for post in site.posts offset:4 %}
-                <article class="posts_post col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                  <a href="{{ site.url }}{{ post.url }}">
-                      <div class="posts_post_info" style="background-image:url('{{ site.url }}{{ post.image }}')">
-                            <p class="posts_post_cat">{{ post.categories }} </p>
-                      </div>
-                      <h2 class="posts_post_title">
-                         {{ post.title }}
-                       </h2>
+          {% for post in paginator.posts offset:4 %}
+            <article class="posts_post col-lg-4 col-md-4 col-sm-6 col-xs-12">
+              <a href="{{ site.url }}{{ post.url }}">
+                  <div class="posts_post_info" style="background-image:url('{{ site.url }}{{ post.image }}')">
+                        <p class="posts_post_cat">{{ post.categories }} </p>
+                  </div>
+                  <h2 class="posts_post_title">
+                     {{ post.title }}
+                   </h2>
 
-                  </a>
-                </article>
+              </a>
+          </article>
           {% endfor %}
     </div>
 
-    <!-- <div class="row center-xs">
-        <button class="btn show-more x--mv"> Parodyti dar straipsnius </button>
-    </div>
 
-    <script>
-        (function(){
-
-            var posts = document.querySelectorAll('.hide'); //query hidden posts
-            var btn = document.querySelector('button.show-more'); //select button
-
-            btn.addEventListener('click', function(){
-                posts.forEach(function(element){
-                    element.classList.toggle('hide'); //show all hidden posts
-                })
-                this.classList.add('hide'); //hide button
-            });
-        })();
-    </script> -->
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
