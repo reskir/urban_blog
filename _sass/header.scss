@@ -4,11 +4,12 @@
     z-index:2;
 
     .wrapper {
-        background: black;
+        background: none;
         color: white;
         position: relative;
         padding:12px;
         margin: 0 auto;
+
     }
 
     &_top  {
@@ -63,8 +64,8 @@
 
 
 .header nav {
+//background: url('http://netdna.webdesignerdepot.com/uploads/2013/04/Ceric6.gif') no-repeat;
   position: relative;
-  background: #000;
   top:0;left:0;
   display: block;
   opacity:0;
@@ -97,7 +98,13 @@
   font-size: calc( .5vw + 10px );
   -webkit-transition: all 0.25s ease-in-out;
   -moz-transition: all 0.25s ease-in-out;
+  border:1px solid transparent;
+  margin: 6px;
   &:hover {
+      border:1px solid #76c2af;
+  }
+  &.active {
+      border:1px solid #76c2af;
   }
 }
 
@@ -108,6 +115,13 @@
     }
     .header ul.nav li a {
          font-size: calc( 1.5vw + 10px );
+    }
+}
+
+.header {
+    &.active {
+        background: url('/assets/cerlic-opt.gif') #000;
+        background-size: 100%;
     }
 }
 

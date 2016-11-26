@@ -62,11 +62,13 @@ h1,h2,h3,h4,h5,h6 {
 
 a {
     color: #76c2af;
+    transition: all 0.2s ease;
+    
     &:visited {
         color: #76c2af;
     }
 }
 
 a:hover {
-    color:#76c2ad;
+    color:#76c2af;
 }
