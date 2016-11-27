@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Buk vaiku: futbolas pagal užklausą Brazilijoje"
-date:   2016-11-28 08:00 +0200
+date:   2016-11-27 08:00 +0200
 image: /assets/bola-de-rua.jpg
 categories: Patirtis
 location: Rio de Žaneiras
