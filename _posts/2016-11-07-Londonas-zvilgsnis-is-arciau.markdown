@@ -5,6 +5,7 @@ date:   2016-11-07 22:38 +0200
 image: /assets/lucho-47.jpg
 categories: Miestas
 description: Londonas — tai ne tik vienas iš lankomiausių miestų pasaulyje, bet ir viena iš pasaulio verslo ir ekonomikos sostinė.
+location: Londonas
 ---
 <div class="video-container">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/_B-FDiitAOE" frameborder="0" allowfullscreen controls></iframe>

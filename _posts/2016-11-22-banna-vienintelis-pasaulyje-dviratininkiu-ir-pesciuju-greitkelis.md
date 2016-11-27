@@ -4,6 +4,7 @@ title:  "Baana - vienintelis pasaulyje dviratininkų ir pėsčiųjų greitkelis"
 date:   2016-11-22 19:00 +0200
 image: /assets/baana-dviratininku-greitkelis.jpg
 categories: Patirtis
+location: Helsinkis
 ---
 <p>
 Kol didžiausi dviratininkų miestai tik svajoja apie greitkelį miesto centre skirta dviratininkams ir pėstiesiems - Helsinkyje ši svajonė jau išsipildė.

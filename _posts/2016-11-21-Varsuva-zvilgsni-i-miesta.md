@@ -4,6 +4,7 @@ title:  "Žvilgsnis į miestą - Varšuva"
 date:   2016-11-21 22:00 +0200
 image: /assets/varsuva.jpeg
 categories: Miestas
+location: Varšuva
 ---
 <p>
 Kiekvienais metais rugpjūčio 1-ąją dieną miestas sustoja. Ką bedarytų jo gyventojai, vieną minutę jie praleis nejudėdami - minint Varšuvos sukilimą ir jo aukas. Ir tai yra kvapą gniaužiantis vaizdas.

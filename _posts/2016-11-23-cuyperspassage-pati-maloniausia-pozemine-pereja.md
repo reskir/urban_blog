@@ -5,6 +5,7 @@ date:   2016-11-23 19:00 +0200
 image: /assets/pozemine-pereja.jpg
 slides: ['/assets/pozemine-pereja.jpg','/assets/pozemine-pereja-2.jpg','/assets/pozemine-pereja-3.jpg','/assets/pozemine-pereja-4.jpg']
 categories: Dizainas
+location: Amsterdamas
 ---
 <p>
 Mes pripratom, jog požeminė perėja - tai negraži, baisi ir netgi pavojinga vieta, kurioje gali atsitikti bet kas (ir dažniausiai nelabai gero). Daugumai miestų reikia imti pavyzdį iš Amsterdamo, ten po centrine stotimi atsirado nuostabi pėsčiųjų-dviratininkų perėja suprojektuota architektūrinio biuro <a href="http://benthemcrouwel.com/" target="_blank"> Benthem Crouwel</a>.

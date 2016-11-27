@@ -76,9 +76,29 @@
 
     }
 
+     .post-location {
+        //  margin: 12px 0;
+     }
+
     .post-meta {
         font-size: 10px;
         color: #999;
+        &--location {
+            display:-ms-flexbox;
+            display:flex;
+            margin:6px 0;
+            font-size: 12px;
+            -ms-flex-align: center;
+            align-items: center;
+            // color:#76c2af;
+
+
+            img {
+                width:18px;
+                height:18px;
+
+            }
+        }
     }
 }
 

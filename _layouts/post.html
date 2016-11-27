@@ -7,23 +7,30 @@ title: This is just a placeholder post
     <article class="col-lg-6 col-md-8 col-sm-8 col-xs-12">
         <h2>{{ page.title }}</h2>
         <p class="post-meta">{% assign m = page.date | date: "%-m" %}
-        {{ page.date | date: "%-d" }}
-        {% case m %}
-          {% when '1' %}Sausio
-          {% when '2' %}Vasario
-          {% when '3' %}Kovo
-          {% when '4' %}Balandžio
-          {% when '5' %}Gegužės
-          {% when '6' %}Birželio
-          {% when '7' %}Liepos
-          {% when '8' %}Rugpjūčio
-          {% when '9' %}Rugsėjo
-          {% when '10' %}Spalio
-          {% when '11' %}Lapkričio
-          {% when '12' %}Gruodžio
-        {% endcase %}
+            {{ page.date | date: "%-d" }}
+                {% case m %}
+              {% when '1' %}Sausio
+              {% when '2' %}Vasario
+              {% when '3' %}Kovo
+              {% when '4' %}Balandžio
+              {% when '5' %}Gegužės
+              {% when '6' %}Birželio
+              {% when '7' %}Liepos
+              {% when '8' %}Rugpjūčio
+              {% when '9' %}Rugsėjo
+              {% when '10' %}Spalio
+              {% when '11' %}Lapkričio
+              {% when '12' %}Gruodžio
+            {% endcase %}
         {{ page.date | date: "%Y" }} <br>
-        Kategorijos: {{ page.categories }}</p>
+        Kategorijos: {{ page.categories }}
+            {% if page.location %}
+            <span class="post-meta--location">
+              <img src="{{site.url}}/assets/location.svg"> {{page.location}}
+            </span>
+            {% endif %}
+        </p>
+
 
         {{ content }}
 

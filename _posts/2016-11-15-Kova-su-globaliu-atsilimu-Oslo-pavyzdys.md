@@ -4,6 +4,8 @@ title:  "Kaip miestui kovoti su globaliniu atšilimu: Oslo pavyzdys"
 date:   2016-11-15 19:13:00 +0200
 categories: Patirtis
 image:  /assets/oslo-fighting-global-warming.jpg
+location: Oslas
+
 ---
 
 <p>
