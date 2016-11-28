@@ -16,7 +16,7 @@ Dėka kompiuteriniams žaidimams, netgi Brazilijoje vaikai rečiau žaidžia fut
 Nuotrauka: <br />Bola da Rua</div>
 
 <p>
-Bola da Rua - tai reklaminė kompanija sausainių Zezé, kurį yra žinoma savo kūrybiniu požiūriu į visuomeninius projektus. Šį kartą jie pritvirtino dėžes su futbolo kamuoliais Brazilijos miestų gatvėse: paspardyti kamuolį kyla didelis noras. Kamuoliui tik reikia atsirasti gatvėje (bet kuriais metų laikais), kaip vaikai iš viso rajono iš karto atbėga paspardyti jį.
+Bola da Rua - tai reklaminė kompanija sausainių Zezé, kurį yra žinoma savo kūrybiniu požiūriu į visuomeninius projektus. Šį kartą jie pritvirtino dėžes su futbolo kamuoliais Brazilijos miestų gatvėse: noras paspardyti kamuolį atsiranda tuo pačiu metu. Kamuoliui tik reikia atsirasti gatvėje (bet kuriuo metų laiku), kaip vaikai iš aplinkinio rajono iš karto atbėga paspardyti jį.
 </p>
 
 <div class="video-container">
