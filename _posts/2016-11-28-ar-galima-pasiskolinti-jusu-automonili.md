@@ -19,7 +19,7 @@ apie dalijimosi ekonomikos ateitį ir apie automobilių likimą miestuose.
 
 <h3>1.</h3>
 <p>
-Robin Čeiz įkūrė Zipcar 2000 metais tam, kad būtų galima talpinti ir parduoti automobilius pačiuose didžiausiuose pasaulio miestuose. Per tiek metų Zipcar tapo populiariausiu dalijimosi servisu pasaulyje, vienas zipcar automobilius gali pakeisti 15 asmeninių, o dar ir leidžia vairuotojui net 80% mažiau laiko praleisti už vairo. Zipcar išmokė žmones dalintis, ir praėjus 10 metų Čeiz išvažiavo į Paryžių, kad ten sukurti naują paslaugą — Buzzcar, kurį leidžia išnuomoti savo
+Robin Čeiz įkūrė Zipcar 2000 metais tam, kad būtų galima talpinti ir parduoti automobilius pačiuose didžiausiuose pasaulio miestuose. Per tiek metų Zipcar tapo populiariausiu dalijimosi servisu pasaulyje, vienas zipcar automobilis gali pakeisti 15 asmeninių, o dar ir leidžia vairuotojui net 80% mažiau laiko praleisti už vairo. Zipcar išmokė žmones dalintis, ir praėjus 10 metų Čeiz išvažiavo į Paryžių, kad ten sukurti naują paslaugą — Buzzcar, kurį leidžia išnuomoti savo
 automobilį tarp draugų ir kaimynų.
 </p>
 <h3>2.</h3>
