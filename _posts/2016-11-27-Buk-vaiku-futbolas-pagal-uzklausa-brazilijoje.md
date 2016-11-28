@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Buk vaiku: futbolas pagal užklausą Brazilijoje"
+title:  "Buk vaiku: kaip kamuolys kuria vaikų bendruomenės"
 date:   2016-11-27 08:00 +0200
 image: /assets/bola-de-rua.jpg
 categories: Patirtis
