@@ -7,9 +7,9 @@ categories: Supratimas
 location: San Franciskas
 ---
 
-<p>Тransporto servisas Lyft prognozuoja "Trečią Transporto revoliuciją". Pagal kompanijos planus
+<p>Тransporto servisas <a href="https://www.lyft.com/" target="_blank">Lyft</a> prognozuoja "Trečią Transporto revoliuciją". Pagal kompanijos planus
 per 10 metų automobiliai, infrastruktūra ir mūsų santykiai su jais keisis šiek tiek daugiau, nei kad
-visiškai. Lyft įkūrėjas Džonas Cimmer savo bloge Medium раsakoja, kokie keliai laukia mūsų
+visiškai. Lyft įkūrėjas Džonas Cimmer savo bloge Medium <a href="https://medium.com/@johnzimmer/the-third-transportation-revolution-27860f05fa91#.9m7oxz8ac" target="_blank">pasakoja</a>, kokie keliai laukia mūsų
 ateityje.
 </p>
 
@@ -18,7 +18,7 @@ ateityje.
 Nuotrauka: <br />Lyft</div>
 
 <p>
-Dar porą kartų atgal automobilis buvo "laisvės" sinonimas. Bet jei pažvelgsime į
+Dar ne taip senai automobilis buvo "laisvės" sinonimas. Bet jei pažvelgsime į
 mašinas iš miesto planavimo požiūrio, žmonijos manija naudotis asmeniniu transportu pasirodys
 tikra katastrofa. Paskutiniojo šimtmečio metu pagal mašinas nustatydavo, kokie bus mūsų miestai,
 ir suėsdavo vis daugiau ir daugiau vietos. Tuo tarpu, įprastas automobilis naudojamas tik 4%
