@@ -42,7 +42,7 @@ ir reiškia, kad automobilių skaičius gatvėse nuolat mažės.
 
 <p> Taip, labai sunku įsivaizduoti Ameriką be automobilių: daugelyje miestų gyventi be automobilio
 tiesiog neįmanoma. Vidutinis amerikietis išleidžia savo asmeninio transporto aptarnavimui apie
-9000$ per metus! Mašinos turėjimas – tai pinigų sniego kamuolys, tačiau situacija nuolat keičiasi:
+$ 9000 per metus! Nuosavo automobilio turėjimas – tai pinigų sniego kamuolys, tačiau situacija nuolat keičiasi:
 jei 1983 metais teisės turėjo 92% jaunų žmonių tarp 20 ir 24 metų, tai šiandien turi tik 77%. Vis
 daugiau ir daugiau jaunų žmonių pripažįsta, kad jie nemato prasmės pirkti automobilį, juk naudotis
 kelionės <span class="italic smaller">(rideshare)</span> ir automobilio <span class="italic smaller">(carshare)</span> dalijimosi paslaugomis paprasčiau, patogiau ir pigiau.
