@@ -20,8 +20,8 @@ Nuotrauka: <br />Lyft</div>
 <p>
 Dar ne taip senai automobilis buvo "laisvės" sinonimas. Bet jei pažvelgsime į
 mašinas iš miesto planavimo požiūrio, žmonijos manija naudotis asmeniniu transportu pasirodys
-tikra katastrofa. Paskutiniojo šimtmečio metu pagal mašinas nustatydavo, kokie bus mūsų miestai,
-ir suėsdavo vis daugiau ir daugiau vietos. Tuo tarpu, įprastas automobilis naudojamas tik 4%
+tikra katastrofa. Paskutiniojo šimtmečio metu automobiliai diktavo kaip atrodo mūsų miestai -
+okupuodavo vis daugiau ir daugiau vietos. Tuo tarpu, įprastas automobilis naudojamas tik 4%
 laiko, o likusįjį 96% jis tiesiog užima vietą. Ateities transporto kompanijos kaip tik Lyft savo misiją
 mato kaip situacijos pasikeitimą. Kiek erdvės parkams ir sodams, naujam būstui ir paprasčiausiai
 patogesniems ir platesniems šaligatviams galėtų išlaisvinti mašinos? Per ateinančius 10 metų Lyft
@@ -29,8 +29,8 @@ patogesniems ir platesniems šaligatviams galėtų išlaisvinti mašinos? Per at
 </p>
 
 <h3>1. Per ateinančius 5 metus autonominiai automobiliai taps labai populiarūs visame pasaulyje </h3>
-<p>
 
+<p>
 Lyft vadovybė yra įsitikinusi, kad vos per penkerius metus dauguma bendrovės autoparko
 automobilių bus be vairuotojų. Jau dabar galite užsisakyti autonominę mašiną San Franciske ir
 Fenikse. O tai reiškia, kad vis mažiau ir mažiau automobilių priklausys privatiems asmenims, tai
