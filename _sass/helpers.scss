@@ -82,3 +82,11 @@
 .hide {
     display: none !important;
 }
+
+.flex-col {
+  display: flex;
+  flex-direction:column;
+  article {
+      flex-basis:0%;
+  }
+}

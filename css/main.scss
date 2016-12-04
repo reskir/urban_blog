@@ -29,7 +29,7 @@ body {
     line-height: 1.7;
     min-height: 100%;
     position:relative;
-    background: #eee;
+    background-color: #eee;
 }
 
 p {
@@ -48,7 +48,7 @@ h1,h2,h3,h4,h5,h6 {
     width: calc(1200px - (30px * 2));
     max-width: 100%;
     margin: 0 auto 24px;
-    background: white;
+    background-color: #fff;
 }
 
 @media screen and (max-width: 800px) {
