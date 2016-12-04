@@ -25,5 +25,5 @@ Bola da Rua - tai reklaminė kompanija sausainių Zezé, kurį yra žinoma savo 
 
 
 <p>
-Kamuolys - tai instrumentas, kuris padeda kurti bendruomenę - nors ir taip vaikų. Raktą nuo dėžės su kamuoliu turi tik vietiniai vaikai.
+Kamuolys - tai instrumentas, kuris padeda kurti bendruomenę - nors ir tarp vaikų. Raktą nuo dėžės su kamuoliu turi tik vietiniai vaikai.
 </p>

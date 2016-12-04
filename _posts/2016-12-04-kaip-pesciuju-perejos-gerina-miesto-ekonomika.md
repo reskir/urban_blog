@@ -6,7 +6,7 @@ image: /assets/pedastrain-street-boston.jpg
 categories: Supratimas
 ---
 
-Mes tesiame pasakojimus apie Arup bendrovės tyrimus <a href="http://www.arup.com/walking">"Gyvi miestai: kelias į pėsčiųjų pasaulį"</a>. Britų inžinerinė kompanija Arup surinko 50 priežasčių, pagal kurias šalims visame pasaulyje reikia kuo daugiau gatvių be automobilių. Šiame straipsnyje pasakosime, kokį poveikį daro pėstieji miesto ekonomikai.
+Mes tesiame pasakojimus apie Arup bendrovės tyrimus <a class="quotes" href="http://www.arup.com/walking">Gyvi miestai: kelias į pėsčiųjų pasaulį</a>. Britų inžinerinė kompanija Arup surinko 50 priežasčių, pagal kurias šalims visame pasaulyje reikia kuo daugiau gatvių be automobilių. Šiame straipsnyje pasakosime, kokį poveikį daro pėstieji miesto ekonomikai.
 
 ![Pėsčiųjų gatvė Bostone]( {{ site.url }}/assets/pedastrain-street-boston.jpg)
 <div class="lighter smaller" style="margin:12px 0;">

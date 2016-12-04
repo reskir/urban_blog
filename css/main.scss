@@ -63,6 +63,16 @@ a {
     color: #76c2af;
     transition: all 0.2s ease;
 
+    &.quotes {
+      quotes: "“" "”" "‘" "’";
+        &:before {
+            content: open-quote;
+        }
+        &:after {
+            content: close-quote;
+        }
+    }
+
     &:visited {
         color: #76c2af;
     }
