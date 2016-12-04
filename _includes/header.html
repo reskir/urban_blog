@@ -14,9 +14,22 @@
                   <span></span>
               </div>
             </button>
+
+
+            <nav class="desktop">
+                <ul class="nav">
+                    {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}
+                    <li class="header_nav--item">
+                        <a href="{{site.baseurl}}{{ p.url }}" {% if p.url== page.url %}class="header_nav--link active"{% else %}class="header_nav--link"{% endif %}>
+                            {{ p.title }}
+                          </a>
+                    </li>
+                    {% endif %} {% endfor %}
+                </ul>
+            </nav>
         </div>
 
-        <nav>
+        <nav class="mobile">
             <ul class="nav">
                 {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}
                 <li class="header_nav--item">
@@ -27,5 +40,7 @@
                 {% endif %} {% endfor %}
             </ul>
         </nav>
+
+
     </div>
 </header>

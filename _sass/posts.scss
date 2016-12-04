@@ -38,17 +38,19 @@
         &_cat {
             padding: 0;
             color: #fff;
-            font-size: 0.8em;
+            font-size: 1em;
             padding: 12px;
+            margin:0;
         }
         &_title {
             margin: 0;
             font-size: 1.4em;
-            padding: 6px 0px;
+            padding: 6px 6px 6px 0px;
             bottom:0;
             width: 100%;
             border-top:none;
             color: #404040;
+            font-weight: bold;
 
             &:hover {
                 text-decoration: underline;
@@ -128,6 +130,12 @@
       > .posts_post_title {
           text-decoration: underline;
       }
+  }
+
+  &:visited {
+     > .posts_post_title {
+         color: #999;
+     }
   }
   &-image {
     overflow: hidden;

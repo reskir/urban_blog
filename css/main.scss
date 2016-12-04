@@ -29,7 +29,8 @@ body {
     line-height: 1.7;
     min-height: 100%;
     position:relative;
-    background-color: #eee;
+    // background-color: $header-bg;
+    @include bg;
 }
 
 p {
