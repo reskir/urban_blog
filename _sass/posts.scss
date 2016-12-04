@@ -124,10 +124,10 @@
   overflow: hidden;
   transition: all 0.2s ease;
   cursor:pointer;
-  // box-shadow: 0px 2px 5px #bbb;
   &:hover {
-    //   transform: translateY(-5px);
-    //   box-shadow: 2px 2px 30px #bbb;
+      > .posts_post_title {
+          text-decoration: underline;
+      }
   }
   &-image {
     overflow: hidden;
