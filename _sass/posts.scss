@@ -49,12 +49,11 @@
             bottom:0;
             width: 100%;
             border-top:none;
-            color: #404040;
-            font-weight: bold;
+            color: $text-primary;
+            // font-weight: bold;
 
             &:hover {
                 text-decoration: underline;
-                // text-shadow: 1px 1px 10px #aaa;
             }
         }
     }
@@ -72,7 +71,6 @@
     padding-bottom: 24px;
 
     &.post_video {
-        // background: #000;
         margin-top:0;
         padding-top: 24px;
         padding-bottom: 24px;
@@ -86,7 +84,7 @@
 
     .post-meta {
         font-size: 10px;
-        color: #999;
+        color: $text-secondary;
         &--location {
             display:-ms-flexbox;
             display:flex;
@@ -94,13 +92,9 @@
             font-size: 12px;
             -ms-flex-align: center;
             align-items: center;
-            // color:#76c2af;
-
-
             img {
                 width:18px;
                 height:18px;
-
             }
         }
     }
@@ -132,41 +126,31 @@
       }
   }
 
-  &:visited {
-     > .posts_post_title {
-        //  color: #999;
-     }
-  }
   &-image {
     overflow: hidden;
     transition: all 10s linear;
     height: 200px;
 
     &--bg {
-      height: 100%;
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-position: center center;
-      transition: transform .2s linear;
-      transform-origin: 50% 50%;
-    &:hover {
-     // background-size: 200%;
-      //transform: scale(1.1);
-    }
-  }
+          height: 100%;
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: center center;
+          transition: transform .2s linear;
+          transform-origin: 50% 50%;
+      }
   }
 
   &-tag,
   &-title {
     margin: 6px 6px 6px 12px;
-
     text-align: left;
   }
   &-tag {
     margin-top: 12px;
     font-size: 12px;
     font-weight: 100;
-    color: #999;
+    color: $text-secondary;
     font-family: 'Merriweather Sans', sans-serif;
   }
 
@@ -175,6 +159,4 @@
     font-family: 'Merriweather Sans', sans-serif;
     font-weight: 100;
   }
-
-
 }

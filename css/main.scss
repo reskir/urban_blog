@@ -3,6 +3,8 @@
 # only Main files contain this front matter, not partials.
 ---
 
+//variables
+@import "colors.scss";
 
 @import "about.scss";
 @import "posts.scss";
@@ -24,12 +26,11 @@ html {
  -moz-osx-font-smoothing: grayscale;
 }
 body {
-    font-family: 'Helvetica Neue', 'Merriweather Sans', Tahoma, Arial, sans-serif;
+    font-family: 'Merriweather Sans', Tahoma, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.7;
     min-height: 100%;
     position:relative;
-    // background-color: $header-bg;
     @include bg;
 }
 
@@ -46,10 +47,10 @@ h1,h2,h3,h4,h5,h6 {
 .wrapper {
     position: relative;
     transition:opacity .2s ease-in-out;
-    width: calc(1200px - (30px * 2));
+    width: calc(1400px - (30px * 2));
     max-width: 100%;
     margin: 0 auto 24px;
-    background-color: #fff;
+    background-color: $wrapper-bg;
 }
 
 @media screen and (max-width: 800px) {
@@ -61,7 +62,7 @@ h1,h2,h3,h4,h5,h6 {
 
 
 a {
-    color: #76c2af;
+    color: $link-color;
     transition: all 0.2s ease;
 
     &.quotes {
@@ -75,10 +76,10 @@ a {
     }
 
     &:visited {
-        color: #76c2af;
+        color: $link-color;
     }
 }
 
 a:hover {
-    color:#76c2af;
+    color: $link-color;
 }
