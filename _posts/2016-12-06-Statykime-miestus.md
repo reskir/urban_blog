@@ -44,7 +44,7 @@ technikos ir prietaisų net kukliai įrengtoje virtuvėje, iki baldų, kompiuter
 parduotuvių, degalinių, sunkiosios technikos ir taip toliau, jūs supratote idėją. Mums būtini
 miestai, kad galėtume apgyvendinti, suteikti darbą ir kitas patalpas milijardams žmonių, kad jie
 galėtų gaminti, išdalinti, parduoti ir vartoti visas prekes iš artefaktų sąrašo. Bet kokia kita žmonių
-organizavimo grupės forma, tikrų tikriausiai bus neveiksminga. Išsklaidžius žmones
+organizavimo grupės forma, tikriausiai bus neveiksminga. Išsklaidžius žmones
 atokiausiuose kaimuose, nebūtume galėję organizuoti darbą ir apsirūpinti reikalingais ištekliais ir priemonėmis, kad patenkintų mūsų norus ir poreikius.</p>
 
 <p>(Čia reikia pažymėti, kad miestas tapo tikru ekonominio augimo varikliu. Jis jungia priemones ir
@@ -172,3 +172,5 @@ humaniškesnius. Taigi, mes prisidedame prie žmonių ekologinės ir psichikos s
 pačių evoliucijos gerinimo.</p>
 
 <p>Kokio dydžio gali būti miestai? Kai tik mes pradėsime juos statyti, tada ir žinosime atsakymą.</p>
+
+<p class="smaller"> Straipsnio originalas <a href="http://whatmatters.mckinseydigital.com" target="_blank">http://whatmatters.mckinseydigital.com</a></p>
