@@ -4,6 +4,7 @@ title:  "Book and Bed: japoniškas hostelis skaitymui ir miegui"
 date:   2016-12-25 12:00 +0200
 image: /assets/hostel.jpg
 categories: Dizainas
+location: Tokijas
 slides:  ['/assets/hostel.jpg', '/assets/hostel1.jpg', '/assets/hostel2.jpg', '/assets/beds1.jpg']
 ---
 
