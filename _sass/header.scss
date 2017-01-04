@@ -42,14 +42,8 @@
         }
 
         &--link {
-            color: $link-color;
-            &.active {
-                color: $text-secondary;
-            }
-            &:hover {
-                text-decoration: underline;
-                color: $second-link-color;
-            }
+            color: $link-color-header;
+
         }
 
         ul {
@@ -100,7 +94,14 @@
   -moz-transition: all 0.25s ease-in-out;
   border:1px solid transparent;
   margin: 6px;
-  // font-weight: bold;
+  color: $menu-link-color;
+  text-transform: lowercase;
+  &:hover {
+      color: $link-color;
+  }
+  &.active {
+    color: $text-secondary;
+  }
 }
 
 @media (max-width:800px) {
