@@ -29,7 +29,7 @@ Iš minusų:
 
 * Reikalauja kontaktinio tinklo
 
-O dabar palyginkime su autobusu:
+O dabar palyginkime su autobusu.
 
 Pliusai:
 
@@ -51,4 +51,6 @@ Pagrindinė problema tame, kad už vilniečių pinigus jiems yra siūloma gyveni
 Šiuolaikiniai troleibusai tyliai ir efektyviai pervežinėja miestiečius. Tai ateities transportas kuris rūpinasi miesto aplinka, ekologija ir jo įvaizdžiu. Visame pasaulyje planuojama atsikratyti dyzelinio transporto mieste ir pereiti prie elektrinio, o mums ir galvoti nereikia, mes jau turime didelį troleibusų tinklą. Bet mes kažkodėl norime judėti prieš progresą ir vietoj šiuolaikinio elektrinio transporto persėsti į išeinantį į praeitį dyzelį.
 
 Pabaigai siūlau pažiūrėti San Fransisko troleibuso jūdėjimą mieste:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grlD-zdDolo" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/grlD-zdDolo" frameborder="0" allowfullscreen></iframe>
+</div>
