@@ -47,7 +47,7 @@ Minusai:
 <div class="lighter smaller" style="margin:12px 0;">Zalcburgo troleibusas</div>
 
 
-Pagrindinė problema tame, kad už vilniečių pinigus jiems yra siūloma gyvenimo sąlygas mieste bloginantį transporto priemonė. Autobusas neturi jokių privalumų prieš troleibusą: jis lėčiau įsibėgėja, nešvarus ir garsiai veikia. O troleibusas, priešingai: ekologiška, tyli ir greita transporto priemonė, kuri yra Vilniaus miesto istorinio paveldo dalys.
+Pagrindinė problema tame, kad už vilniečių pinigus jiems yra siūloma gyvenimo sąlygas mieste bloginanti transporto priemonė. Autobusas neturi jokių privalumų prieš troleibusą: jis lėčiau įsibėgėja, nešvarus ir garsiai veikia. O troleibusas, priešingai: ekologiška, tyli ir greita transporto priemonė, kuri yra Vilniaus miesto istorinio paveldo dalys.
 
 Šiuolaikiniai troleibusai tyliai ir efektyviai pervežinėja miestiečius. Tai ateities transportas kuris rūpinasi miesto aplinka, ekologija ir jo įvaizdžiu. Visame pasaulyje planuojama atsikratyti dyzelinio transporto mieste ir pereiti prie elektrinio, o mums ir galvoti nereikia, mes jau turime didelį troleibusų tinklą. Bet mes kažkodėl norime judėti prieš progresą ir vietoj šiuolaikinio elektrinio transporto persėsti į išeinantį į praeitį dyzelį.
 
