@@ -8,7 +8,7 @@ location: Vilnius
 ---
 
 <b>Ne taip seniai aš rašiau apie <a href="/patirtis/2016/11/15/Kova-su-globaliu-atsilimu-Oslo-pavyzdys.html">Oslo pavyzdį</a> kovojant su globaliu atšilimu.
-Daugelis miestų Europoje, JAV, Azijoje jau senai suprato, kad miestas turi plėsti elektrinio transporto infrastruktūrą ir būti planuojamas taip, kad miestiečiui kuo mažiau prireiktų naudotis nuosavu automobiliu. Vilnius nusprendė investuoti į autobusų parko plėtrą. Kodėl tai yra blogai miestui?</b>
+Daugelis miestų Europoje, JAV, Azijoje jau seniai suprato, kad miestas turi plėsti elektrinio transporto infrastruktūrą ir būti planuojamas taip, kad miestiečiui kuo mažiau prireiktų naudotis nuosavu automobiliu. Vilnius nusprendė investuoti į autobusų parko plėtrą. Kodėl tai yra blogai miestui?</b>
 <div class="facebook-quote">
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fremigijus.simasius%2Fposts%2F937623769707291&width=500" width="500" height="268" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 </div>
