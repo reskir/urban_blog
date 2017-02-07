@@ -43,8 +43,8 @@
 
         &--link {
             color: $link-color-header;
-
         }
+
 
         ul {
             margin: 0;
@@ -100,7 +100,7 @@
       color: $link-color;
   }
   &.active {
-    color: $text-secondary;
+    color: $active-menu-item;
   }
 }
 
