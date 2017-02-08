@@ -34,7 +34,7 @@ body {
     @include bg;
 }
 
-p {
+p, ul {
     font-family: 'Merriweather', Georgia, serif;
     font-size: 16px;
     color: #404040;
