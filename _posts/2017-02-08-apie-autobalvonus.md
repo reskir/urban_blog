@@ -7,6 +7,11 @@ categories: Miestas
 location: Vilnius
 ---
 
+Neseniai Pilatės bendruomenės facebook paskyroje buvo įkelta nuotrauka kai automobilis važiuoja šaligatviu ir
+nenoriai praleidžia pėsčiuosius. Problema tame, jog parkavimų vietų neužtenka ir visokie autobalvonai galvoja, 
+jog jeigu vietos prie pat namo nėra tai jam galima parkuoti savo kibirą ant šaligatvio, vejos arba 
+užstatyti kitus automobilius. Kažkas nufotografavo ir įkėle KET pažeidimą, tai ir paskatino visuomenės pasipiktinimą.
+
 ![Autobalvones komentaras - 1]( {{ site.url }}/assets/autobalvonai/1.png)
 
 ![Autobalvones komentaras - 2]( {{ site.url }}/assets/autobalvonai/2.png)
