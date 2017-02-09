@@ -38,7 +38,7 @@ Autobalvonai taip pat siūlo pėstiesiems trauktis kai jie, dėmesio, važiuoja 
 
 <blockquote>
     "Tikrai manau ir vežimelį galima pristabdyt ar patraukt metrą į šoną. Vežimėlis gi ne arklio 
-    traukiamio vežimo dydžio (nors ir su tuo išeitų šiaip prasilenkt)..." - patarę mums Ingrida.
+    traukiamio vežimo dydžio (nors ir su tuo išeitų šiaip prasilenkt)..." - pataria mums Ingrida.
 </blockquote>
 
 ![balvonas - 2]( {{ site.url }}/assets/autobalvonai/pazeidimas-ket.jpg)
