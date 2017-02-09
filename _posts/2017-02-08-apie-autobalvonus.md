@@ -7,7 +7,8 @@ categories: Miestas
 location: Vilnius
 ---
 
-Neseniai Pilatės bendruomenės facebook paskyroje buvo įkelta nuotrauka kai automobilis važiuoja šaligatviu ir
+Neseniai Pilatės bendruomenės <a href="https://www.facebook.com/groups/586668494793256/permalink/1086340198159414/">facebook paskyroje</a>
+buvo įkelta nuotrauka kai automobilis važiuoja šaligatviu ir
 nenoriai praleidžia pėsčiuosius. Problema tame, jog parkavimų vietų neužtenka ir visokie autobalvonai galvoja, 
 jog jeigu vietos prie pat namo nėra tai jam galima parkuoti savo kibirą ant šaligatvio, vejos arba 
 užstatyti kitus automobilius. Kažkas nufotografavo ir įkėle KET pažeidimą, tai ir paskatino visuomenės pasipiktinimą.
