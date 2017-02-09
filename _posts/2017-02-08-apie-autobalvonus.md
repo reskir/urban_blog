@@ -21,7 +21,7 @@ užstatyti kitus automobilius. Kažkas nufotografavo ir įkėle KET pažeidimą,
 
 ![Autobalvones komentaras - 4]( {{ site.url }}/assets/autobalvonai/6.png)
 
-Autobalvonės puola ginti savo teises į skardinių parkavimą ir jūdėjimą šaligatviu.
+Autobalvonės puolė ginti savo teises (kurių nėra) į skardinių parkavimą ir jūdėjimą šaligatviu.
 Ai, ai, ai, kaip mums jų gaila (iš tikrųjų ne).
 
 Kiekvienas autobalvonas po automobilio įsigijimo reikalauja vietos prie pat namų, kad jam būtų patogu išeit, atsisėst ir
