@@ -6,7 +6,7 @@ image: /assets/konstitucijos-stotele.jpg
 categories: Supratimas
 ---
 
-<b>Gyvenime mes visi norime greitai ir be streso pasiekti norimą tikslą. Tai labai panašu su mūsų judėjimu mieste. Kažkodėl mūsų kultūroje daugumą nori pasidonti savo <span class="underline">nutukusį kuną</span> gražiąją sielą į nuosavą skardinę ir retai pagalvoja (o gal išvis to nedaro) apie judėjimo mieste alternatyvas, o jų yra daug.</b>
+<b>Gyvenime mes visi norime greitai ir be streso pasiekti norimą tikslą. Tai labai panašu su mūsų judėjimu mieste. Kažkodėl mūsų kultūroje daugumą nori pasodinti savo <span class="underline">nutukusį kuną</span> gražiąją sielą į nuosavą skardinę ir retai pagalvoja (o gal išvis to nedaro) apie judėjimo mieste alternatyvas, o jų yra daug.</b>
 
 ## Viešasis transportas 
 <img src="{{ site.url }}/assets/trulikas_vektor.svg" width="100" height="100" style="float: right;margin-left: 24px;" />
