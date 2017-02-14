@@ -83,6 +83,10 @@
     display: none !important;
 }
 
+.underline {
+    text-decoration: line-through;
+}
+
 .flex-col {
   display: flex;
   flex-direction:column;

@@ -35,4 +35,5 @@ group :jekyll_plugins do
    gem 'jekyll-sitemap'
    gem 'github-pages-health-check'
    gem 'jekyll-paginate'
+   gem 'wdm', '~> 0.1.0' if Gem.win_platform?
 end

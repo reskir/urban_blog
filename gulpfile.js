@@ -1,22 +1,21 @@
 'use strict';
 
-var gulp = require('gulp');
-var sass = require('gulp-sass');
-var imagemin = require('gulp-imagemin');
-var imageop = require('gulp-image-optimization');
-var image = require('gulp-image');
-var autoprefixer = require('gulp-autoprefixer');
+const gulp = require('gulp');
+const sass = require('gulp-sass');
+const imagemin = require('gulp-imagemin');
+const imageop = require('gulp-image-optimization');
+const image = require('gulp-image');
+const autoprefixer = require('gulp-autoprefixer');
+const smushit = require('gulp-smushit')
 
 
 gulp.task('images', function(cb) {
-    gulp.src(['images/**/*.png','images/**/*.jpg','images/**/*.gif','images/**/*.jpeg'])
-    // .pipe(imageop({
-    //     optimizationLevel: 5,
-    //     progressive: true,
-    //     interlaced: true
-    // }))
-    .pipe(imagemin())
-    .pipe(image())
+    gulp.src(['images/**/*.png','images/**/*.jpg'])
+    .pipe(imageop({
+        optimizationLevel: 5,
+        progressive: true,
+        interlaced: true
+    }))
     .pipe(gulp.dest('assets')).on('end', cb).on('error', cb);
 });
 
