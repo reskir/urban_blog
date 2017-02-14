@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kaip judėti mieste?"
-date:   2017-02-15 01:00 +0200
+date:   2017-02-15 01:10 +0200
 image: /assets/konstitucijos-stotele.jpg
 categories: Supratimas
 ---
