@@ -22,7 +22,7 @@ O neįgaliems miesto gyventojams siūloma ieškoti laimės kitur.
 Jaunos mamos irgi įvertino visus požeminės perėjos siūlomus "patogumus".
 ![Pilaitės perėja - mamos]( {{ site.url }}/assets/pozemine_pereja/pozemine-pereja-3.jpg)
 
-Valstybės kurios rūpinasi žmogumi nebijo ilgų perėjų.
+Valstybės kurios rūpinasi savo gyventojais nebijo ilgų perėjų.
 <a href="/dizainas/2016/11/23/cuyperspassage-pati-maloniausia-pozemine-pereja.html">Požemines perėjas</a> daro
 tik ten kur tai leidžia landšaftas.
 
