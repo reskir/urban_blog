@@ -27,6 +27,6 @@ Valstybės kurios rūpinasi savo gyventojais nebijo ilgų perėjų.
 tik ten kur tai leidžia landšaftas.
 
 ![Pedastrians]( {{ site.url }}/assets/pozemine_pereja/pedastrians.jpg)
-Miestas ir jo erdvės turi priklausyti pėstiesiems, o požemines perėjas reikėtų užkąsti.
+Miestas ir jo erdvės turi priklausyti pėstiesiems, o požemines perėjas reikėtų užkasti.
 
 
