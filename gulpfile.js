@@ -12,10 +12,11 @@ const smushit = require('gulp-smushit')
 gulp.task('images', function(cb) {
     gulp.src(['images/**/*.png','images/**/*.jpg'])
     .pipe(imageop({
-        optimizationLevel: 5,
+        optimizationLevel: 7,
         progressive: true,
         interlaced: true
     }))
+    .pipe(imagemin())
     .pipe(gulp.dest('assets')).on('end', cb).on('error', cb);
 });
 
