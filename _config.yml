@@ -34,7 +34,6 @@ assets:
   compress:
     css: true
     js: true
-  cache: assets
 gems:
   - jekyll-feed
   - jekyll-assets
@@ -48,4 +47,3 @@ exclude:
   - node_modules
   - gulpfile.js
   - images
-  - assets
