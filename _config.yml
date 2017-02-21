@@ -30,6 +30,10 @@ sass:
     style: compressed
 markdown: kramdown
 theme: minima
+assets:
+  compress:
+    css: true
+    js: true
 gems:
   - jekyll-feed
   - jekyll-assets
