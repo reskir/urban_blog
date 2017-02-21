@@ -1,10 +1,28 @@
-<article class="posts_post col-lg-4 col-md-6 col-sm-6 col-xs-12">
-    <a class="card" href="{{ site.url }}{{ post.url }}">
-        <div class="posts_post_info" style="background-image:url('{{ site.url }}{{ post.image }}'); height: 300px">
-              <p class="posts_post_cat">{{ post.categories }} </p>
-        </div>
+<article class="posts_post col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <a class="" href="{{ site.url }}{{ post.url }}">
         <h2 class="posts_post_title">
            {{ post.title }}
          </h2>
+        <div class="posts_post_info">
+              <p class="posts_post_cat smaller">
+                  {% assign m = post.date | date: "%-m" %}
+                                {{ post.date | date: "%-d" }}
+                                    {% case m %}
+                                {% when '1' %}Sausio
+                                {% when '2' %}Vasario
+                                {% when '3' %}Kovo
+                                {% when '4' %}Balandžio
+                                {% when '5' %}Gegužės
+                                {% when '6' %}Birželio
+                                {% when '7' %}Liepos
+                                {% when '8' %}Rugpjūčio
+                                {% when '9' %}Rugsėjo
+                                {% when '10' %}Spalio
+                                {% when '11' %}Lapkričio
+                                {% when '12' %}Gruodžio
+                                {% endcase %}
+                            {{ post.date | date: "%Y" }}
+                        </p>
+        </div>
     </a>
 </article>

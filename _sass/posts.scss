@@ -2,12 +2,10 @@
     display: block;
     &_post {
         position: relative;
-        border-bottom: 1px dashed grey;
-        transition: background 0.2s ease;
+        border-bottom: 1px dashed #cacaca;
 
         &:hover {
-            background: black;
-            color: white;
+            // background: black;
         }
 
         &--hero {
@@ -16,8 +14,17 @@
             }
         }
 
-        a:hover {
-            text-decoration: none;
+        a {
+            color: $text-primary;
+
+            &:visited {
+                color: $text-secondary;
+            }
+
+            &:hover {
+                text-decoration: none;
+                color: $link-color;
+            }
         }
 
         &_image {
@@ -31,22 +38,12 @@
             max-height: auto;
             width: 100%;
             border-radius:2px;
-            background-position: center center;
-            background-repeat: no-repeat;
-            background-size: cover;
-            display: -ms-flexbox;
-            display: flex;
-            -ms-flex-direction: column;
-            flex-direction: column;
-            -ms-flex-pack: end;
-            justify-content: flex-end;
         }
         &_cat {
-            padding: 0;
-            color: #fff;
-            font-size: 1em;
-            padding: 12px;
+            font-size: 0.8em;
+            color: $text-secondary;
             margin:0;
+            padding-bottom: 12px;
         }
         &_title {
             margin: 0;
@@ -55,19 +52,9 @@
             bottom:0;
             width: 100%;
             border-top: none;
-            color: $text-primary;
-            padding: 12px 0;
+            padding: 12px 0 0;
             // font-weight: bold;
-            &:hover {
-                color: white;
-            }
         }
-    }
-}
-
-@media (max-width:600px) {
-    .posts_post_info {
-        min-height: 200px;
     }
 }
 
@@ -83,10 +70,6 @@
         margin-bottom:12px;
 
     }
-
-     .post-location {
-        //  margin: 12px 0;
-     }
 
     .post-meta {
         font-size: 10px;
@@ -134,7 +117,6 @@
   &-image {
     overflow: hidden;
     transition: all 10s linear;
-    height: 200px;
 
     &--bg {
           height: 100%;
@@ -151,6 +133,7 @@
     margin: 6px 6px 6px 12px;
     text-align: left;
   }
+
   &-tag {
     margin-top: 12px;
     font-size: 12px;
