@@ -49,6 +49,6 @@ Taksi kasmet tampa vis populiaresniu judėjimo būdų mieste, didelė rinka ir k
 Vienas iš greičiausių ir maloniausių būdų judėti mieste. Dviratis padeda ne tik greitai nuvažiuoti iš taško A į B, bet taip pat ir palaikyti gerą fizinę formą. Vilniuje veikia puiki dviračio nuomos sistema "Cyclocity", dviračio kaina vienam sezonui (balandis - lapkritis) kainuoja 19.90 €, jeigu jums dar nesukako 27 metų - 13.90 €, 30 dienų nuoma kainuoja  3.90 €.
 
 ![Oranžiniai dviračiai]( {{ site.url }}/assets/orand.dvirat.jpg)
-<div class="lighter smaller" style="margin:12px 0;">Oranžiniai dviračiai <br />
+<div class="lighter smaller" style="margin:12px 0;">Oranžiniai dviračiai /
 Nuotrauka Cyclocity</div>
 
