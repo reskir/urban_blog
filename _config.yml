@@ -22,7 +22,6 @@ url: "http://urbanistas.lt" # the base hostname & protocol for your site, e.g. h
 twitter_username: kiril_lab
 github_username:  reskir
 paginate: 4
-repository: reskir/urban_blog
 
 # Build settings
 sass:
