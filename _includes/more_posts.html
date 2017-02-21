@@ -1,16 +1,15 @@
 <div class="more">
     <div class="lighter smaller">Nauji straipsniai</div>
     <div class="row">
-        {% for post in site.posts limit:4 %}
-          <div class="posts_post col-lg-3 col-md-4 col-sm-6 col-xs-12">
-            <a class="card" href="{{ site.url }}{{ post.url }}">
-                <div class="posts_post_info" style="min-height:60px !important; background-image:url('{{ site.url }}{{ post.image }}')">
-                      <p class="posts_post_cat" style="font-size:12px; text-shadow:1px 1px 0px #000">{{ post.categories }} </p>
-                </div>
+        {% for post in site.posts limit:6 %}
+          <div class="posts_post col-lg-12 col-md-4 col-sm-6 col-xs-12">
+            <a  href="{{ site.url }}{{ post.url }}">
                 <h2 class="posts_post_title" style="font-size:14px">
                    {{ post.title }}
                  </h2>
-                <!-- <img class="posts_post_image" src="{{ post.image }}" /> -->
+                 <div class="posts_post_info">
+                      <p class="posts_post_cat">{{ post.categories }} </p>
+                </div>
             </a>
         </div>
         {% endfor %}

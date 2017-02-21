@@ -3,6 +3,9 @@
     &_post {
         position: relative;
         border-bottom: 1px dashed #cacaca;
+        &:last-child {
+            border-bottom: 0;
+        }
 
         &:hover {
             // background: black;
@@ -18,7 +21,7 @@
             color: $text-primary;
 
             &:visited {
-                color: $text-secondary;
+                color: $text-primary;
             }
 
             &:hover {

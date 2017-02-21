@@ -5,8 +5,12 @@
   width: 100%;
   min-height: 100px;
   height: auto;
-  color: #424242;
   padding: 24px;
+
+  &.wrapper {
+    background: #f6f6f6;
+  }
+
 
   .heart {
       background-color: #fb6d6d;
