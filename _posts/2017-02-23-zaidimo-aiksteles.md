@@ -32,7 +32,7 @@ Pažiūrėkime kokios yra vaikų aikštelės kitur.
 <div class="lighter smaller" style="margin:0 0 24px;">Žaidimų aikštelė Hamburge / Nuotrauka: varlamov.ru</div>
 
 
-Vieną iš kiečiausių pasaulyje žaidimo aikštelių yra Sent Luise.
+Viena iš kiečiausių pasaulyje žaidimo aikštelių yra Sent Luise.
 
 ![Žaidimų aikštelė Sent Luise]( {{ site.url }}/assets/zaidimu_aiskteles/stlouis.jpg)
 
