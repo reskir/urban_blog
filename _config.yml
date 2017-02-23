@@ -29,6 +29,7 @@ sass:
     style: compressed
 markdown: kramdown
 theme: minima
+repository: reskir/urban_blog
 assets:
   compress:
     css: true

@@ -45,15 +45,3 @@ layout: default
 </div>
 
 {% include footer.html %}
-
-<script>
-    (function() {
-        var header = document.querySelector('.header'),
-            btn = document.querySelector('.toggle-nav'),
-            menu = document.querySelector('#nav-icon1');
-        btn.addEventListener('click', function() {
-            menu.classList.toggle('open');
-            header.classList.toggle('active');
-        });
-    })();
-</script>
