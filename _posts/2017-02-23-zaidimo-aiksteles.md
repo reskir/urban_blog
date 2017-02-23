@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vaikų žaidimų aikštelės"
+title:  "Vaikų žaidimo aikštelės"
 date:   2017-02-23 10:10 +0200
 categories: Supratimas
 ---
@@ -32,7 +32,7 @@ Pažiūrėkime kokios yra vaikų aikštelės kitur.
 <div class="lighter smaller" style="margin:0 0 24px;">Žaidimų aikštelė Hamburge / Nuotrauka: varlamov.ru</div>
 
 
-Vieną iš kiečiausių pasaulyje žaidimų aikštelių yra Sent Luise.
+Vieną iš kiečiausių pasaulyje žaidimo aikštelių yra Sent Luise.
 
 ![Žaidimų aikštelė Sent Luise]( {{ site.url }}/assets/zaidimu_aiskteles/stlouis.jpg)
 
