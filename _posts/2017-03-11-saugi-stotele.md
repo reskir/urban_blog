@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kaip apsaugoti miestiečius nuo greito eismo"
+title:  "Kaip apsaugoti miestiečius nuo greito eismo pasekmių"
 date:   2017-03-11 10:10 +0200
 categories: Supratimas
 ---
@@ -25,4 +25,8 @@ Automobilio vairuotojas tampa atidesniu, kelio ženklų ir juostų nėra, jam te
 padidėja vairuotojo atsakomybė.
 
 ![Shared space]( {{ site.url }}/assets/movement/judejimas-2.jpg)
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8OwcS9Gvgmg" frameborder="0" allowfullscreen></iframe>
+</div>
 
