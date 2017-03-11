@@ -21,7 +21,7 @@ teks važiuoti vingiuotų kelių - įsibėgėjimui nebeliks erdvės. Vairuotojas
 
 # Gatvės be ženklų ir reguliavimo (shared space)
 Pasirodo gatvė kurioje nėra šaligatvio ir jos plotas dalinamas tarp visų eismo dalyvių yra vieną iš saugesniu.
-Automobilio vairuotojas tampa atidesniu, kelio ženklų ir juostų nėra, jam tenka tartis su kitais eismo dalyviais (dviratininkais, pėsčiaisiais), 
+Automobilio vairuotojas tampa atidesnis, kai nėra kelio ženklų ir juostų, jam tenka "bendrauti" su kitais eismo dalyviais (dviratininkais, pėsčiaisiais), 
 padidėja vairuotojo atsakomybė.
 
 ![Shared space]( {{ site.url }}/assets/movement/judejimas-2.jpg)
