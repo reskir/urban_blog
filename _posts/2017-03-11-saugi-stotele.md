@@ -4,8 +4,8 @@ title:  "Kaip apsaugoti miestiečius nuo greito eismo pasekmių"
 date:   2017-03-11 10:10 +0200
 categories: Supratimas
 ---
-Lėtas judėjimas mieste - vieną iš saugiausių ir efektyviausių 
-priemonių gelbėjanti daugybę gyvybių. Lėtai judėti automobiliaus 
+Lėtas judėjimas mieste - viena iš saugiausių ir efektyviausių 
+priemonių gelbėjanti daugybę gyvybių. Lėtai judėti automobilio 
 vairuotoją gali priversti skirtingi būdai.
 
 ![Kelias su kliutim]( {{ site.url }}/assets/movement/avarija-2.jpg)
@@ -14,7 +14,7 @@ vairuotoją gali priversti skirtingi būdai.
 # Siauras ir vingiuotas kelias
 
 Judant tiesiai visada galima pasigreitint ir paspausti akceleratoriaus pedalą, bet jeigu vairuotojui
-teks važiuoti vingiuotų kelių - įsibėgėjimui nebeliks erdvės. Vairuotojas atidžiau vairuos ir mažins savo greitį.
+teks važiuoti vingiuotu keliu - įsibėgėjimui nebeliks erdvės. Vairuotojas atidžiau vairuos ir mažins savo greitį.
 
 ![Vingiuota gatvė]( {{ site.url }}/assets/movement/judejimas-1.jpg)
 <div class="lighter smaller" style="margin:0 0 24px;">Vingiuota gatvė</div>
