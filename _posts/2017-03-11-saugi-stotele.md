@@ -13,11 +13,25 @@ vairuotoją gali priversti skirtingi būdai.
 
 # Siauras ir vingiuotas kelias
 
+
 Judant tiesiai visada galima pasigreitint ir paspausti akceleratoriaus pedalą, bet jeigu vairuotojui
 teks važiuoti vingiuotu keliu - įsibėgėjimui nebeliks erdvės. Vairuotojas atidžiau vairuos ir mažins savo greitį.
 
 ![Vingiuota gatvė]( {{ site.url }}/assets/movement/judejimas-1.jpg)
 <div class="lighter smaller" style="margin:0 0 24px;">Vingiuota gatvė</div>
+
+# Saugumo salelė
+
+Saugumo salėlės taip pat padeda sumažinti eismo greitį.
+
+![Saugumo salelė]( {{ site.url }}/assets/movement/judejimas-3.jpg)
+<div class="lighter smaller" style="margin:0 0 24px;">Saugumo salelė Prahoje / Nuotrauka varlamov.ru</div>
+
+Štai kaip turi atrodyti teisingas perėjimas.
+![Saugumo salelė]( {{ site.url }}/assets/movement/judejimas-4.jpg)
+<div class="lighter smaller" style="margin:0 0 24px;">Nuotrauka varlamov.ru</div>
+
+
 
 # Gatvės be ženklų ir reguliavimo (shared space)
 Pasirodo gatvė kurioje nėra šaligatvio ir jos plotas dalinamas tarp visų eismo dalyvių yra vieną iš saugesniu.
