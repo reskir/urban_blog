@@ -10,7 +10,12 @@ layout: default
                     </h2>
                     <div class="posts_post_info" >
                         <p class="posts_post_cat">
-                            {{ post.categories }} 
+                            {% assign cat = post.categories %}
+                                {% if cat contains "Erdves" %}
+                                    Erdvės
+                                {% else %}
+                                    {{cat}}
+                                {% endif %} 
                             /
                             {% assign m = post.date | date: "%-m" %}
                                 {{ post.date | date: "%-d" }}
