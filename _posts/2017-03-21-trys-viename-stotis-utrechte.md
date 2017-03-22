@@ -23,4 +23,4 @@ Po pačiu didžiausiu stogo bangos keteru yra traukiniai, po mažesniu - tramvaj
 Nuotrauka: Jannes Linders
 </div>
 
-Stoties projektą pradėjo kurti dar 2003 metais kai tapo aišku, jog senas pastatas negalėjo atlaikyti didėjančio keleivių srauto. Naujas pastatas didesnis seno beveik trys kartus ir jungia savyje ne tik skirtingus transporto rūsys, bet ir skirtingus transporto modelius ir logistikos tipus. Bangos formos stoties stoge yra liukai, kurie padeda dienos šviesai papulti į vidų ir padeda ventiliuoti patalpas.
+Stoties projektą pradėjo kurti dar 2003 metais kai tapo aišku, jog senas pastatas negalėjo atlaikyti didėjančio keleivių srauto. Naujas pastatas didesnis seno beveik trys kartus ir jungia savyje ne tik skirtingas transporto rūšys, bet ir skirtingus transporto modelius ir logistikos tipus. Bangos formos stoties stoge yra liukai, kurie leidžia dienos šviesai papulti į vidų ir padeda ventiliuoti patalpas.
