@@ -4,6 +4,7 @@ title:  "Trys viename: traukiniai, tramvajai ir autobusai po vienu stogu Utrecht
 date:   2017-03-21 10:10 +0200
 categories: Erdves
 slides:  ['/assets/utrecht_station/4.jpg', '/assets//utrecht_station/5.jpg', '/assets/utrecht_station/6.jpg', '/assets/utrecht_station/13.jpg']
+image: /assets/utrecht_station/31.jpg
 ---
 
 Bendra olandų ir vokiečių architektūrinė studija <a href="http://benthemcrouwel.com/"> Benthem Crouwel Architects </a> specializuojasi stočių ir įvairių transporto architektūros projektų, pvz. jie suprojektavo <a href="/dizainas/2016/11/23/cuyperspassage-pati-maloniausia-pozemine-pereja.html">"pačią maloniausią požeminę perėją"</a>.
