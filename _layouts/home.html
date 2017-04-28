@@ -1,138 +1,86 @@
 ---
 layout: default
 ---
-    <div class="row posts x--pt">
-          {% for post in site.posts %}
-              <article class="posts_post col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <a class="" href="{{ site.url }}{{ post.url }}">
-                    <h2 class="posts_post_title">
-                        {{ post.title }}
-                    </h2>
-                    <div class="posts_post_info" >
-                        <p class="posts_post_cat">
-                            {{ post.categories }} 
-                            /
-                            {% assign m = post.date | date: "%-m" %}
-                                {{ post.date | date: "%-d" }}
-                                    {% case m %}
-                                {% when '1' %}Sausio
-                                {% when '2' %}Vasario
-                                {% when '3' %}Kovo
-                                {% when '4' %}Balandžio
-                                {% when '5' %}Gegužės
-                                {% when '6' %}Birželio
-                                {% when '7' %}Liepos
-                                {% when '8' %}Rugpjūčio
-                                {% when '9' %}Rugsėjo
-                                {% when '10' %}Spalio
-                                {% when '11' %}Lapkričio
-                                {% when '12' %}Gruodžio
+
+<div class="row posts x--pt">
+      {% for post in site.posts limit:3 %}
+          <article class="posts_post col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <a class="" href="{{ site.url }}{{ post.url }}">
+                <h2 class="posts_post_title">
+                    {{ post.title }}
+                </h2>
+                <div class="col-lg-12" style="background: url('{{ site.url }}{{post.image}}'); background-position: center; background-size:cover; height: 300px; width: auto; margin: 12px 0;">
+                </div>
+                <div class="posts_post_info" >
+                    <p class="posts_post_cat">
+                        {% assign cat = post.categories %}
+                            {% if cat contains "Erdves" %}
+                                Erdvės
+                            {% else %}
+                                {{cat}}
+                            {% endif %}
+                        /
+                        {% assign m = post.date | date: "%-m" %}
+                            {{ post.date | date: "%-d" }}
+                                {% case m %}
+                                    {% when '1' %}Sausio
+                                    {% when '2' %}Vasario
+                                    {% when '3' %}Kovo
+                                    {% when '4' %}Balandžio
+                                    {% when '5' %}Gegužės
+                                    {% when '6' %}Birželio
+                                    {% when '7' %}Liepos
+                                    {% when '8' %}Rugpjūčio
+                                    {% when '9' %}Rugsėjo
+                                    {% when '10' %}Spalio
+                                    {% when '11' %}Lapkričio
+                                    {% when '12' %}Gruodžio
                                 {% endcase %}
-                            {{ post.date | date: "%Y" }}
-                        </p>
-                    </div>
-                </a>
-            </article>
-          {% endfor %}
+                        {{ post.date | date: "%Y" }}
+                    </p>
+                </div>
+            </a>
+        </article>
+      {% endfor %}
+</div>
 
-    </div>
+<div class="row posts x--pt">
+    {% for post in site.posts offset:3 %}
+    <article class="posts_post col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <a class="" href="{{ site.url }}{{ post.url }}">
+            <h2 class="posts_post_title">
+                {{ post.title }}
+            </h2>
+            <div class="posts_post_info" >
+                <p class="posts_post_cat">
+                    {% assign cat = post.categories %}
+                    {% if cat contains "Erdves" %}
+                    Erdvės
+                    {% else %}
+                    {{cat}}
+                    {% endif %}
+                    /
+                    {% assign m = post.date | date: "%-m" %}
+                    {{ post.date | date: "%-d" }}
+                    {% case m %}
+                    {% when '1' %}Sausio
+                    {% when '2' %}Vasario
+                    {% when '3' %}Kovo
+                    {% when '4' %}Balandžio
+                    {% when '5' %}Gegužės
+                    {% when '6' %}Birželio
+                    {% when '7' %}Liepos
+                    {% when '8' %}Rugpjūčio
+                    {% when '9' %}Rugsėjo
+                    {% when '10' %}Spalio
+                    {% when '11' %}Lapkričio
+                    {% when '12' %}Gruodžio
+                    {% endcase %}
+                    {{ post.date | date: "%Y" }}
+                </p>
+            </div>
+        </a>
+    </article>
+    {% endfor %}
 
-
-          <!--{% for post in site.posts offset:1 limit:1 %}
-            <article class="posts_post col-lg-4 col-md-4 col-sm-12 col-xs-12">
-              <a class="card" href="{{ site.url }}{{ post.url }}">
-                  <div class="posts_post_info" >
-                        <p class="posts_post_cat">{{ post.categories }} </p>
-                  </div>
-                  <h2 class="posts_post_title">
-                     {{ post.title }}
-                   </h2>
-
-              </a>
-          </article>
-          {% endfor %}
-
-          {% for post in site.posts offset:2 limit:2 %}
-            <article class="posts_post col-lg-6 col-md-4 col-sm-6 col-xs-12">
-              <a class="card" href="{{ site.url }}{{ post.url }}">
-                  <div class="posts_post_info" >
-                        <p class="posts_post_cat">{{ post.categories }} </p>
-                  </div>
-                  <h2 class="posts_post_title">
-                     {{ post.title }}
-                   </h2>
-
-              </a>
-          </article>
-          {% endfor %}
-        </div>
-
-        <div class="row">
-
-              <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                  {% for post in site.posts offset:4 limit:5 %}
-                        <article class="posts_post">
-                          <a class="card" href="{{ site.url }}{{ post.url }}">
-                              <div class="posts_post_info" >
-                                    <p class="posts_post_cat">{{ post.categories }} </p>
-                              </div>
-                              <h2 class="posts_post_title">
-                                 {{ post.title }}
-                               </h2>
-
-                          </a>
-                        </article>
-                  {% endfor %}
-              </div>
-
-              <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                  {% for post in site.posts offset:9 limit:5 %}
-                        <article class="posts_post">
-                          <a class="card" href="{{ site.url }}{{ post.url }}">
-                              <div class="posts_post_info">
-                                    <p class="posts_post_cat">{{ post.categories }} </p>
-                              </div>
-                              <h2 class="posts_post_title">
-                                 {{ post.title }}
-                               </h2>
-
-                          </a>
-                        </article>
-                  {% endfor %}
-              </div>
-
-              <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-                  {% for post in site.posts offset:14 limit:5 %}
-                        <article class="posts_post">
-                          <a class="card" href="{{ site.url }}{{ post.url }}">
-                              <div class="posts_post_info">
-                                    <p class="posts_post_cat">{{ post.categories }} </p>
-                              </div>
-                              <h2 class="posts_post_title">
-                                 {{ post.title }}
-                               </h2>
-
-                          </a>
-                        </article>
-                  {% endfor %}
-             </div>
-     </div>-->
-
-    <!-- <div class="row center-xs">
-        <button class="btn show-more x--mv"> Parodyti dar straipsnius </button>
-    </div>
-
-    <script>
-        (function(){
-
-            var posts = document.querySelectorAll('.hide'); //query hidden posts
-            var btn = document.querySelector('button.show-more'); //select button
-
-            btn.addEventListener('click', function(){
-                posts.forEach(function(element){
-                    element.classList.toggle('hide'); //show all hidden posts
-                })
-                this.classList.add('hide'); //hide button
-            });
-        })();
-    </script> -->
+</div>

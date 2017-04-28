@@ -3,6 +3,7 @@ layout: post
 title:  "Vaikų žaidimo aikštelės"
 date:   2017-02-23 10:10 +0200
 categories: Supratimas
+image: /assets/zaidimu_aiskteles/london_2.jpg
 ---
 
 ## 💩 žaidimų aikštelės Lietuvoje

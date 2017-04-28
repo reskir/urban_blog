@@ -3,6 +3,7 @@ layout: post
 title:  "Kaip apsaugoti miestiečius nuo greito eismo pasekmių"
 date:   2017-03-11 10:10 +0200
 categories: Supratimas
+image: /assets/movement/avarija-2.jpg
 ---
 Lėtas judėjimas mieste - viena iš saugiausių ir efektyviausių 
 priemonių gelbėjanti daugybę gyvybių. Lėtai judėti automobilio 

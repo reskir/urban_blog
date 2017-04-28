@@ -30,7 +30,12 @@ title: This is just a placeholder post
               {% when '12' %}Gruodžio
             {% endcase %}
         {{ page.date | date: "%Y" }} <br>
-        Kategorijos: {{ page.categories }}
+        Kategorijos: {% assign cat = page.categories %}
+                        {% if cat contains "Erdves" %}
+                            Erdvės
+                        {% else %}
+                            {{cat}}
+                        {% endif %}
         </p>
 
 
