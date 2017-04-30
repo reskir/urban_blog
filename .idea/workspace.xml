@@ -22,11 +22,13 @@
       <file leaf-file-name="nosubway.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/nosubway.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="347" column="39" lean-forward="false" selection-start-line="347" selection-start-column="39" selection-end-line="347" selection-end-column="39" />
+            <state relative-caret-position="226">
+              <caret line="344" column="47" lean-forward="false" selection-start-line="344" selection-start-column="47" selection-end-line="344" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#section#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+                <element signature="n#section#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -55,8 +57,8 @@
       <file leaf-file-name="helpers.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/helpers.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="135" column="10" lean-forward="false" selection-start-line="135" selection-start-column="10" selection-end-line="135" selection-end-column="10" />
+            <state relative-caret-position="424">
+              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -109,6 +111,9 @@
       </GulpfileState>
     </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -267,12 +272,12 @@
       <workItem from="1489262227077" duration="4304000" />
       <workItem from="1489266579397" duration="1831000" />
       <workItem from="1489332952057" duration="4317000" />
-      <workItem from="1493581151644" duration="3461000" />
+      <workItem from="1493581151644" duration="3994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13913000" />
+    <option name="totallyTimeSpent" value="14446000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,14 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/helpers.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="135" column="10" lean-forward="false" selection-start-line="135" selection-start-column="10" selection-end-line="135" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/legacy.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -481,13 +478,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/helpers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/nosubway.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="347" column="39" lean-forward="false" selection-start-line="347" selection-start-column="39" selection-end-line="347" selection-end-column="39" />
+        <state relative-caret-position="226">
+          <caret line="344" column="47" lean-forward="false" selection-start-line="344" selection-start-column="47" selection-end-line="344" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
