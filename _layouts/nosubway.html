@@ -123,112 +123,10 @@ layout: default
 	.tabs nav a:before {
 		margin-right: 0;
 	}
-}
-/*****************************/
-/* Circle */
-/*****************************/
-
-.tabs-style-circle {
-	overflow: visible;
-}
-
-.tabs-style-circle nav li::before {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	margin: -70px 0 0 -70px;
-	width: 140px;
-	height: 140px;
-	border: 1px solid red;
-	border-radius: 50%;
-	content: '';
-	opacity: 0;
-	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
-	transition: transform 0.2s, opacity 0.2s;
-	-webkit-transition-timing-function: cubic-bezier(0.7,0,0.3,1);
-	transition-timing-function: cubic-bezier(0.7,0,0.3,1);
-}
-
-@media screen and (max-width: 58em) {
-	.tabs-style-circle nav li::before {
-		margin: -40px 0 0 -40px;
-		width: 80px;
-		height: 80px;
-        border-radius: 0%;
-        border:0;
-        border-bottom: 1px solid red;
-	}
-
-    .tabs-style-circle nav li a h4 {
+    .tabs-style-iconbox nav ul li a h4 {
         display: none;
-	}
-
-    .tabs-style-circle nav a img {
-        text-align: center;
-        width: 40px;
-        height: 40px;
     }
 }
-
-.tabs-style-circle nav li.tab-current::before {
-	opacity: 1;
-	-webkit-transform: scale3d(1,1,1);
-	transform: scale3d(1,1,1);
-}
-
-.tabs-style-circle nav a {
-	overflow: visible;
-	color: #74777b;
-	font-weight: 700;
-	font-size: 0.9em;
-	line-height: 1.1;
-    text-decoration: none;
-	-webkit-transition: color 0.3s cubic-bezier(0.7,0,0.3,1); 
-	transition: color 0.3s cubic-bezier(0.7,0,0.3,1);
-}
-
-.tabs-style-circle nav a h4, .tabs-style-circle nav a img  {
-	display: block;
-}
-
-.tabs-style-circle nav a img {
-    text-align: center;
-    width: 60px;
-    height: 60px;
-}
-
-.tabs-style-circle nav a h4,
-.tabs-style-circle .icon::before {
-	-webkit-transition: -webkit-transform 0.3s cubic-bezier(0.7,0,0.3,1);
-	transition: transform 0.3s cubic-bezier(0.7,0,0.3,1);
-}
-
-.tabs-style-circle nav a:hover,
-.tabs-style-circle nav a:focus {
-    text-decoration: none;
-	color: #4a4a4b;
-}
-
-.tabs-style-circle nav li.tab-current a {
-	color: red;
-}
-
-.tabs-style-circle nav li.tab-current a h4 {
-	-webkit-transform: translate3d(0,4px,0);
-	transform: translate3d(0,4px,0);
-}
-
-.tabs-style-circle .icon::before {
-	display: block;
-	margin: 0;
-	pointer-events: none;
-}
-
-.tabs-style-circle nav li.tab-current .icon::before {
-	-webkit-transform: translate3d(0,-4px,0);
-	transform: translate3d(0,-4px,0);
-}
-
 /*****************************/
 /* Icon box */
 /*****************************/
@@ -251,7 +149,8 @@ layout: default
 
 .tabs-style-iconbox nav ul li a h4 {
 	font-weight: 700;
-	font-size: 0.7em;	
+	font-size: 1em;
+    word-wrap: break-word;
 }
 
 .tabs-style-iconbox nav a img {
@@ -307,36 +206,38 @@ layout: default
 
 </style>
 
-<img src="/assets/nosubway/nosubway_header.jpg" />
+<div style="margin:0 auto; max-width: 1340px;">
+    <img src="/assets/nosubway/nosubway_header.jpg" />
+</div>
 <div class="wrapper">
     <div class="row">
         <section class="mt40 mb40 col-lg-12 col-xs-12">
-                <p class="lighter mb40" style="font-size: 4vw;font-weight: 900;">Mitai apie požemines perėjas arba kodėl jas reikia užkasti</p>                    
+                <p class="lighter mb40" style="font-size: calc(3vw + 10px);font-weight: 900;">Mitai apie požemines perėjas arba kodėl užkasinėjami vilniečių pinigai 💰</p>
 				<div class="tabs tabs-style-iconbox">
 					<nav>
 						<ul>
 							<li class="tab-current">
                                 <a href="#section-circle-1">
                                     <img src="/assets/nosubway/fast.png" />
-                                    <h4>Greita</h4>
+                                    <h4>Tai greita</h4>
                                 </a>
                             </li>
 							<li class="">
                               <a href="#section-circle-1">
                                     <img src="/assets/nosubway/safety.png" />
-                                    <h4>Saugu</h4>
+                                    <h4>Tai saugu</h4>
                                 </a>
                             </li>
                             <li class="">
                                 <a href="#section-circle-1">
                                     <img src="/assets/nosubway/ramp.png" />
-                                    <h4>Patogu</h4>
+                                    <h4>Tai patogu</h4>
                                 </a>
                             </li>
 							<li class="">
                                 <a href="#section-circle-1">
                                     <img src="/assets/nosubway/light.png" />
-                                    <h4>Mažina kamščius</h4>
+                                    <h4>Tai mažina kamščius</h4>
                                 </a>
                             </li>
 						</ul>
@@ -376,13 +277,13 @@ layout: default
 				</div><!-- /tabs -->
 			</section>
         <div class="col-lg-8 col-xs-12">
-            <section class="mb40 mt60"> 
+            <section class="mt60">
                 <div>
                     <img src="/assets/nosubway/nepatogi_stats.png" />
                 </div>
             </section>
             <section id="myth1">
-                <h3 class="mt10 bolder">Mitas #1 - Požeminės perėjos yra saugios 🚑</h3>
+                <h3 class="mt80 bolder">Mitas #1 - Požeminės perėjos yra saugios 🚑</h3>
                 <div class="row top-xs">
                     <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                         <p class="fs-14">
@@ -422,8 +323,8 @@ layout: default
                 </p>
             </section>
             <section id="myth2">
-                <h3 class="bolder">Mitas #2 - Požeminės perėjos yra patogios </h3>
-                <div class="col-lg-12 col-xs-12">
+                <h3 class="bolder mt40">Mitas #2 - Požeminės perėjos yra patogios </h3>
+                <div class="row">
                     <figure class="mb20 mt10">
                         <img src="/assets/nosubway/comfort.jpg" alt="Mitas apie požeminių perėjų patogumą" /> 
                         <figcaption> Mitas apie patogumą </figcaption>
@@ -441,13 +342,14 @@ layout: default
                         </p>
                     </div>
             </section>
-            <section id="myth3">
+            <section id="myth3" class="mt40">
                 <h3 class="bolder">Mitas #3 - Požeminės perėjos didina automobilių pralaidumą</h3>
-
-                <p class="fs-14 col-lg-9">
-                    Požeminės perėjos - valdžios bejėgiškumo požymis. Kiekvienas požeminis perėjimas ne magistraliniuose keliuose - pripažinimas, jog susidoroti su dabartiniu automobilių srautu savivaldybė ne gali ir dėl menkiausio pralaidumo didinimo atskiruose sankryžose pasiruošę išleisti neadekvačius biudžetus požeminių perėjų statybai (kelių požeminių perėjų kaina gali prilygti Vilniaus gatvės rekonstrukcijos biudžetui), pagrįsdami tai rūpesčiu apie pėstijį. Be to, požeminių perėjų statyba atideda realų transporto problemos sprendimą. Pralaidumas konkrečioje vietoje padidėja, užduotį galima laikyti išspręsta, bent jau artimiausius kelerius metus, kol didėjanti automobilizacija nepareikalaus dar daugiau. O apie tai, kaip pralaidumo didinimas įtakojo sistemą bendrai ir kas bus, kai pralaidumo rezervas bus išsemtas, galvoti nepriimta. Kiek dar reikia laiko vaikštant ant grėblių, kad suprast, jog ne pėsčiuose reikalas?
-                </p>
-                <img class="mt10 mb20" src="/assets/nosubway/traffic_jams.jpg" alt="Požeminės perėjos neišsprendžia spusčių problemos" />
+                <div class="row">
+                    <p class="fs-14 col-lg-9 ">
+                        Požeminės perėjos - valdžios bejėgiškumo požymis. Kiekvienas požeminis perėjimas ne magistraliniuose keliuose - pripažinimas, jog susidoroti su dabartiniu automobilių srautu savivaldybė ne gali ir dėl menkiausio pralaidumo didinimo atskiruose sankryžose pasiruošę išleisti neadekvačius biudžetus požeminių perėjų statybai (kelių požeminių perėjų kaina gali prilygti Vilniaus gatvės rekonstrukcijos biudžetui), pagrįsdami tai rūpesčiu apie pėstijį. Be to, požeminių perėjų statyba atideda realų transporto problemos sprendimą. Pralaidumas konkrečioje vietoje padidėja, užduotį galima laikyti išspręsta, bent jau artimiausius kelerius metus, kol didėjanti automobilizacija nepareikalaus dar daugiau. O apie tai, kaip pralaidumo didinimas įtakojo sistemą bendrai ir kas bus, kai pralaidumo rezervas bus išsemtas, galvoti nepriimta. Kiek dar reikia laiko vaikštant ant grėblių, kad suprast, jog ne pėsčiuose reikalas?
+                    </p>
+                    <img class="mt10 mb20" src="/assets/nosubway/traffic_jams.jpg" alt="Požeminės perėjos neišsprendžia spusčių problemos" />
+                </div>
             </section>
         </div>
     </div>
