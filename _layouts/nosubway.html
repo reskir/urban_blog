@@ -1,13 +1,290 @@
 ---
 layout: default
 ---
+<style>
+
+.tabs {
+	position: relative;
+	overflow: hidden;
+	margin: 0 auto;
+	width: 100%;
+	font-weight: 300;
+	font-size: 1.25em;
+}
+
+/* Nav */
+.tabs nav {
+	text-align: center;
+}
+
+.tabs nav ul {
+	position: relative;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: flex;
+	margin: 0 auto;
+	padding: 0;
+	max-width: 1200px;
+	list-style: none;
+	-ms-box-orient: horizontal;
+	-ms-box-pack: center;
+	-webkit-flex-flow: row wrap;
+	-moz-flex-flow: row wrap;
+	-ms-flex-flow: row wrap;
+	flex-flow: row wrap;
+	-webkit-justify-content: center;
+	-moz-justify-content: center;
+	-ms-justify-content: center;
+	justify-content: center;
+}
+
+.tabs nav ul li {
+	position: relative;
+	z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	margin: 0;
+	text-align: center;
+	-webkit-flex: 1;
+	-moz-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+}
+
+.tabs nav a {
+	position: relative;
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	line-height: 2.5;
+}
+
+.tabs nav a h4 {
+	vertical-align: middle;
+    margin-top: 12px;
+}
+
+.tabs nav li.tab-current a {
+	color: #74777b;
+}
+
+.tabs nav a:focus {
+	outline: none;
+}
+
+/* Icons */
+.icon::before {
+	z-index: 10;
+	display: inline-block;
+	margin: 0 0.4em 0 0;
+	vertical-align: middle;
+	text-transform: none;
+	font-weight: normal;
+	font-variant: normal;
+	font-size: 1.3em;
+	font-family: 'stroke7pixeden';
+	line-height: 1;
+	speak: none;
+	-webkit-backface-visibility: hidden;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Content */
+.content-wrap {
+	position: relative;
+}
+
+.content-wrap section {
+	display: none;
+	margin: 0 auto;
+	padding: 1em;
+	max-width: 1200px;
+	text-align: center;
+}
+
+.content-wrap section.content-current {
+	display: block;
+}
+
+.content-wrap section p {
+	margin: 0;
+	padding: 0.75em 0;
+	color: rgba(40,44,42,0.05);
+	font-weight: 900;
+	font-size: 4em;
+	line-height: 1;
+}
+
+@media screen and (max-width: 58em) {
+	.tabs nav a.icon span {
+		display: none;
+	}
+	.tabs nav a:before {
+		margin-right: 0;
+	}
+}
+/*****************************/
+/* Circle */
+/*****************************/
+
+.tabs-style-circle {
+	overflow: visible;
+}
+
+.tabs-style-circle nav li::before {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -70px 0 0 -70px;
+	width: 140px;
+	height: 140px;
+	border: 1px solid red;
+	border-radius: 50%;
+	content: '';
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+	transition: transform 0.2s, opacity 0.2s;
+	-webkit-transition-timing-function: cubic-bezier(0.7,0,0.3,1);
+	transition-timing-function: cubic-bezier(0.7,0,0.3,1);
+}
+
+@media screen and (max-width: 58em) {
+	.tabs-style-circle nav li::before {
+		margin: -40px 0 0 -40px;
+		width: 80px;
+		height: 80px;
+	}
+
+    .tabs-style-circle nav li a h4 {
+        display: none;
+	}
+
+    .tabs-style-circle nav a img {
+        text-align: center;
+        width: 40px;
+        height: 40px;
+    }
+}
+
+.tabs-style-circle nav li.tab-current::before {
+	opacity: 1;
+	-webkit-transform: scale3d(1,1,1);
+	transform: scale3d(1,1,1);
+}
+
+.tabs-style-circle nav a {
+	overflow: visible;
+	color: #74777b;
+	font-weight: 700;
+	font-size: 0.9em;
+	line-height: 1.1;
+    text-decoration: none;
+	-webkit-transition: color 0.3s cubic-bezier(0.7,0,0.3,1); 
+	transition: color 0.3s cubic-bezier(0.7,0,0.3,1);
+}
+
+.tabs-style-circle nav a h4, .tabs-style-circle nav a img  {
+	display: block;
+}
+
+.tabs-style-circle nav a img {
+    text-align: center;
+    width: 60px;
+    height: 60px;
+}
+
+.tabs-style-circle nav a h4,
+.tabs-style-circle .icon::before {
+	-webkit-transition: -webkit-transform 0.3s cubic-bezier(0.7,0,0.3,1);
+	transition: transform 0.3s cubic-bezier(0.7,0,0.3,1);
+}
+
+.tabs-style-circle nav a:hover,
+.tabs-style-circle nav a:focus {
+    text-decoration: none;
+	color: #4a4a4b;
+}
+
+.tabs-style-circle nav li.tab-current a {
+	color: red;
+}
+
+.tabs-style-circle nav li.tab-current a h4 {
+	-webkit-transform: translate3d(0,4px,0);
+	transform: translate3d(0,4px,0);
+}
+
+.tabs-style-circle .icon::before {
+	display: block;
+	margin: 0;
+	pointer-events: none;
+}
+
+.tabs-style-circle nav li.tab-current .icon::before {
+	-webkit-transform: translate3d(0,-4px,0);
+	transform: translate3d(0,-4px,0);
+}
+</style>
 
 <img src="/assets/nosubway/nosubway_header.jpg" />
 <div class="wrapper">
     <div class="row">
+        <section class="mt40 mb40 col-lg-12 col-xs-12">
+                <p class="lighter mb40" style="font-size: 4vw;font-weight: 900;">Mitai apie požemines perėjas arba kodėl jas reikia užkasti</p>                    
+				<div class="tabs tabs-style-circle">
+					<nav>
+						<ul>
+							<li class="tab-current">
+                                <a href="#section-circle-1">
+                                    <img src="/assets/nosubway/fast.png" />
+                                    <h4>Greita</h4>
+                                </a>
+                            </li>
+							<li class="">
+                              <a href="#section-circle-1">
+                                    <img src="/assets/nosubway/safety.png" />
+                                    <h4>Saugu</h4>
+                                </a>
+                            </li>
+                            <li class="">
+                                <a href="#section-circle-1">
+                                    <img src="/assets/nosubway/ramp.png" />
+                                    <h4>Patogu</h4>
+                                </a>
+                            </li>
+							<li class="">
+                                <a href="#section-circle-1">
+                                    <img src="/assets/nosubway/light.png" />
+                                    <h4>Mažina <br /> kamščius</h4>
+                                </a>
+                            </li>
+						</ul>
+					</nav>
+					<div class="content-wrap">
+						<section id="section-circle-1" class="content-current">
+                            <p>Negreita</p>
+                        </section>
+						<section id="section-circle-2" class="">
+                            <p>Nesaugu</p>
+                        </section>
+						<section id="section-circle-3" class="">
+                            <p>Nepatogu</p>
+                        </section>
+						<section id="section-circle-4" class="">
+                            <p>Nemažina kamščių</p>
+                        </section>
+					</div><!-- /content -->
+				</div><!-- /tabs -->
+			</section>
         <div class="col-lg-8 col-xs-12">
-            <h2 class="lighter mt40 mb40">Mitai apie požemines perėjas arba kodėl jas reikia užkasti</h2>
-            <section>
+            <section id="myth1">
                 <h3 class="mt10 bolder">Mitas #1 - Požeminės perėjos yra saugios 🚑</h3>
                 <div class="row top-xs">
                     <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
@@ -47,7 +324,7 @@ layout: default
 
                 </p>
             </section>
-            <section>
+            <section id="myth2">
                 <h3 class="bolder">Mitas #2 - Požeminės perėjos yra patogios </h3>
                 <div class="col-lg-12 col-xs-12">
                     <figure class="mb20 mt10">
@@ -67,7 +344,7 @@ layout: default
                         </p>
                     </div>
             </section>
-            <section>
+            <section id="myth3">
                 <h3 class="bolder">Mitas #3 - Požeminės perėjos didina automobilių pralaidumą</h3>
 
                 <p class="fs-14 col-lg-9">
@@ -75,7 +352,89 @@ layout: default
                 </p>
                 <img class="mt10 mb20" src="/assets/nosubway/traffic_jams.jpg" alt="Požeminės perėjos neišsprendžia spusčių problemos" />
             </section>
-
         </div>
     </div>
 </div>
+
+<script>
+/**
+ * cbpFWTabs.js v1.0.0
+ * http://www.codrops.com
+ *
+ * Licensed under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ * 
+ * Copyright 2014, Codrops
+ * http://www.codrops.com
+ */
+;( function( window ) {
+	
+	'use strict';
+
+	function extend( a, b ) {
+		for( var key in b ) { 
+			if( b.hasOwnProperty( key ) ) {
+				a[key] = b[key];
+			}
+		}
+		return a;
+	}
+
+	function CBPFWTabs( el, options ) {
+		this.el = el;
+		this.options = extend( {}, this.options );
+  		extend( this.options, options );
+  		this._init();
+	}
+
+	CBPFWTabs.prototype.options = {
+		start : 0
+	};
+
+	CBPFWTabs.prototype._init = function() {
+		// tabs elems
+		this.tabs = [].slice.call( this.el.querySelectorAll( 'nav > ul > li' ) );
+		// content items
+		this.items = [].slice.call( this.el.querySelectorAll( '.content-wrap > section' ) );
+		// current index
+		this.current = -1;
+		// show current content item
+		this._show();
+		// init events
+		this._initEvents();
+	};
+
+	CBPFWTabs.prototype._initEvents = function() {
+		var self = this;
+		this.tabs.forEach( function( tab, idx ) {
+			tab.addEventListener( 'click', function( ev ) {
+				ev.preventDefault();
+				self._show( idx );
+			} );
+		} );
+	};
+
+	CBPFWTabs.prototype._show = function( idx ) {
+		if( this.current >= 0 ) {
+			this.tabs[ this.current ].className = this.items[ this.current ].className = '';
+		}
+		// change current
+		this.current = idx != undefined ? idx : this.options.start >= 0 && this.options.start < this.items.length ? this.options.start : 0;
+		this.tabs[ this.current ].className = 'tab-current';
+		this.items[ this.current ].className = 'content-current';
+	};
+
+	// add to global namespace
+	window.CBPFWTabs = CBPFWTabs;
+
+})( window );
+</script>
+<script>
+    (function() {
+
+        [].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {
+            new CBPFWTabs( el );
+        });
+
+    })();
+</script>
