@@ -2,6 +2,8 @@
 layout: default
 title: This is just a placeholder post
 ---
+<div class="wrapper">
+
     <div class="single-post row top-xs">
 
     <article class="col-lg-6 col-md-6 col-sm-8 col-xs-12">
@@ -9,25 +11,25 @@ title: This is just a placeholder post
         <p class="post-meta">
         {% if page.location %}
             <span class="post-meta--location">
-              <img src="{{site.url}}/assets/location.svg"> {{page.location}}
+                <img src="{{site.url}}/assets/location.svg"> {{page.location}}
             </span>
         {% endif %}
 
         {% assign m = page.date | date: "%-m" %}
             {{ page.date | date: "%-d" }}
                 {% case m %}
-              {% when '1' %}Sausio
-              {% when '2' %}Vasario
-              {% when '3' %}Kovo
-              {% when '4' %}Balandžio
-              {% when '5' %}Gegužės
-              {% when '6' %}Birželio
-              {% when '7' %}Liepos
-              {% when '8' %}Rugpjūčio
-              {% when '9' %}Rugsėjo
-              {% when '10' %}Spalio
-              {% when '11' %}Lapkričio
-              {% when '12' %}Gruodžio
+                {% when '1' %}Sausio
+                {% when '2' %}Vasario
+                {% when '3' %}Kovo
+                {% when '4' %}Balandžio
+                {% when '5' %}Gegužės
+                {% when '6' %}Birželio
+                {% when '7' %}Liepos
+                {% when '8' %}Rugpjūčio
+                {% when '9' %}Rugsėjo
+                {% when '10' %}Spalio
+                {% when '11' %}Lapkričio
+                {% when '12' %}Gruodžio
             {% endcase %}
         {{ page.date | date: "%Y" }} <br>
         Kategorijos: {% assign cat = page.categories %}
@@ -45,5 +47,7 @@ title: This is just a placeholder post
 
     </article>
 
+    </div>
+    {% include more_posts.html %}
+    
 </div>
-{% include more_posts.html %}
