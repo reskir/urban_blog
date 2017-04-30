@@ -103,10 +103,8 @@ layout: default
 
 .content-wrap section {
 	display: none;
-	margin: 0 auto;
 	padding: 1em;
-	max-width: 1200px;
-	text-align: center;
+    background-color: #e7ecea;
 }
 
 .content-wrap section.content-current {
@@ -115,11 +113,7 @@ layout: default
 
 .content-wrap section p {
 	margin: 0;
-	padding: 0.75em 0;
-	color: rgba(40,44,42,0.05);
-	font-weight: 900;
-	font-size: 4em;
-	line-height: 1;
+	padding: 2em;
 }
 
 @media screen and (max-width: 58em) {
@@ -234,6 +228,83 @@ layout: default
 	-webkit-transform: translate3d(0,-4px,0);
 	transform: translate3d(0,-4px,0);
 }
+
+/*****************************/
+/* Icon box */
+/*****************************/
+
+.tabs-style-iconbox nav {
+	background: rgba(255,255,255,0.4);
+}
+
+.tabs-style-iconbox nav ul li a {
+	overflow: visible;
+	padding: 2em 0;
+	line-height: 1;
+	-webkit-transition: color 0.2s;
+	transition: color 0.2s;
+}
+
+.tabs-style-iconbox nav ul li a {
+    text-decoration: none;
+}
+
+.tabs-style-iconbox nav ul li a h4 {
+	font-weight: 700;
+	font-size: 0.7em;	
+}
+
+.tabs-style-iconbox nav a img {
+    text-align: center;
+    width: 60px;
+    height: 60px;
+}
+
+.tabs-style-iconbox nav ul li.tab-current {
+	z-index: 100;
+}
+
+.tabs-style-iconbox nav ul li.tab-current a {
+	background: #fff;
+	box-shadow: -1px 0 0 #fff;
+}
+
+.tabs-style-iconbox nav ul li.tab-current a::after {
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	margin-left: -10px;
+	width: 0;
+	height: 0;
+	border: solid transparent;
+	border-width: 10px;
+	border-top-color: #fff;
+	content: '';
+	pointer-events: none;
+}
+
+.tabs-style-iconbox nav ul li:first-child::before,
+.tabs-style-iconbox nav ul li::after {
+	position: absolute;
+	top: 20%;
+	right: 0;
+	z-index: -1;
+	width: 1px;
+	height: 60%;
+	background: rgba(0,0,0,0.07);
+	content: '';
+}
+
+.tabs-style-iconbox nav ul li:first-child::before {
+	right: auto;
+	left: 0;
+}
+
+.tabs-style-iconbox .icon::before {
+	display: block;
+	margin: 0 0 0.25em 0;
+}
+
 </style>
 
 <img src="/assets/nosubway/nosubway_header.jpg" />
@@ -241,7 +312,7 @@ layout: default
     <div class="row">
         <section class="mt40 mb40 col-lg-12 col-xs-12">
                 <p class="lighter mb40" style="font-size: 4vw;font-weight: 900;">Mitai apie požemines perėjas arba kodėl jas reikia užkasti</p>                    
-				<div class="tabs tabs-style-circle">
+				<div class="tabs tabs-style-iconbox">
 					<nav>
 						<ul>
 							<li class="tab-current">
@@ -265,14 +336,26 @@ layout: default
 							<li class="">
                                 <a href="#section-circle-1">
                                     <img src="/assets/nosubway/light.png" />
-                                    <h4>Mažina <br /> kamščius</h4>
+                                    <h4>Mažina kamščius</h4>
                                 </a>
                             </li>
 						</ul>
 					</nav>
 					<div class="content-wrap">
 						<section id="section-circle-1" class="content-current">
-                            <p>Negreita</p>
+                            <div class="row">
+                                <div class="col-lg-4 ">
+                                    <p class="mt20 fs-13">
+                                        Manoma, kad pereiti požemine perėja yra greičiau negu laukti žaliojo šviesoforo signalo, bet iš tiesų tai yra netiesa.
+                                        <br />
+                                        <br />
+                                        Įskaitaint pėsčiojo nusileidimą, pakelimą arba lifto, keltuvo laukimo laiką, pereiti gatvę per "zebrą" užtrunka žymiai greičiau.
+                                    </p>
+                                </div>
+                                <div class="col-lg-8">
+                                    <img src="/assets/nosubway/efficiency_scheme.png" alt="zebra">
+                                </div>
+                            </div>
                         </section>
 						<section id="section-circle-2" class="">
                             <p>Nesaugu</p>
