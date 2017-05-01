@@ -3,7 +3,7 @@ layout: post
 title:  "La Belle Electrique - daug šviesos ir medžio naujame elektroninės muzikos klube Prancūzijoje"
 date:   2017-01-04 20:00 +0200
 image: /assets/grenoble-1.jpg
-categories: Miestas
+categories: Erdves
 location: Grenoblis
 slides:  ['/assets/grenoble-1.jpg', '/assets/grenoble-2.jpg', '/assets/grenoble-3.jpg', '/assets/grenoble-4.jpg', '/assets/grenoble-5.jpg','/assets/grenoble-6.jpg']
 ---
