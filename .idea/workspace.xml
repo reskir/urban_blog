@@ -4,7 +4,6 @@
     <list default="true" id="6b0bede0-ec06-49e6-b04a-e9322b1b98cf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/nosubway.html" afterPath="$PROJECT_DIR$/_layouts/nosubway.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/helpers.scss" afterPath="$PROJECT_DIR$/_sass/helpers.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,13 +21,14 @@
       <file leaf-file-name="nosubway.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/nosubway.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="344" column="47" lean-forward="false" selection-start-line="344" selection-start-column="47" selection-end-line="344" selection-end-column="47" />
+            <state relative-caret-position="-1047">
+              <caret line="246" column="53" lean-forward="false" selection-start-line="246" selection-start-column="53" selection-end-line="246" selection-end-column="53" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#div#1;n#!!top" expanded="true" />
                 <element signature="n#section#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
                 <element signature="n#section#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#section#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -82,6 +82,7 @@
       <find>full-width</find>
       <find>.wrapper</find>
       <find>fs-</find>
+      <find>fs-13</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -272,12 +273,12 @@
       <workItem from="1489262227077" duration="4304000" />
       <workItem from="1489266579397" duration="1831000" />
       <workItem from="1489332952057" duration="4317000" />
-      <workItem from="1493581151644" duration="3994000" />
+      <workItem from="1493581151644" duration="4582000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14446000" />
+    <option name="totallyTimeSpent" value="15034000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -488,13 +489,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/nosubway.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="344" column="47" lean-forward="false" selection-start-line="344" selection-start-column="47" selection-end-line="344" selection-end-column="47" />
+        <state relative-caret-position="-1047">
+          <caret line="246" column="53" lean-forward="false" selection-start-line="246" selection-start-column="53" selection-end-line="246" selection-end-column="53" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#div#1;n#!!top" expanded="true" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
             <element signature="n#section#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
