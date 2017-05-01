@@ -20,15 +20,13 @@
       <file leaf-file-name="nosubway.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/nosubway.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="488" column="126" lean-forward="false" selection-start-line="488" selection-start-column="125" selection-end-line="488" selection-end-column="126" />
+            <state relative-caret-position="304">
+              <caret line="391" column="43" lean-forward="false" selection-start-line="391" selection-start-column="43" selection-end-line="391" selection-end-column="43" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <marker date="1493633172000" expanded="false" signature="15125:16714" ph="..." />
-                <marker date="1493633172000" expanded="false" signature="15247:16704" ph="..." />
-                <marker date="1493633172000" expanded="false" signature="16769:18190" ph="..." />
-                <marker date="1493633172000" expanded="false" signature="16954:17917" ph="..." />
+                <marker date="1493633737000" expanded="false" signature="16836:18257" ph="..." />
+                <marker date="1493633737000" expanded="false" signature="17021:17984" ph="..." />
               </folding>
             </state>
           </provider>
@@ -305,12 +303,12 @@
       <workItem from="1489262227077" duration="4304000" />
       <workItem from="1489266579397" duration="1831000" />
       <workItem from="1489332952057" duration="4317000" />
-      <workItem from="1493581151644" duration="8951000" />
+      <workItem from="1493581151644" duration="9359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19403000" />
+    <option name="totallyTimeSpent" value="19811000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,15 +524,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/nosubway.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="488" column="126" lean-forward="false" selection-start-line="488" selection-start-column="125" selection-end-line="488" selection-end-column="126" />
+        <state relative-caret-position="304">
+          <caret line="391" column="43" lean-forward="false" selection-start-line="391" selection-start-column="43" selection-end-line="391" selection-end-column="43" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#section#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <marker date="1493633172000" expanded="false" signature="15125:16714" ph="..." />
-            <marker date="1493633172000" expanded="false" signature="15247:16704" ph="..." />
-            <marker date="1493633172000" expanded="false" signature="16769:18190" ph="..." />
-            <marker date="1493633172000" expanded="false" signature="16954:17917" ph="..." />
+            <marker date="1493633737000" expanded="false" signature="16836:18257" ph="..." />
+            <marker date="1493633737000" expanded="false" signature="17021:17984" ph="..." />
           </folding>
         </state>
       </provider>
