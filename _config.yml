@@ -21,7 +21,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://urbanistas.lt" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kiril_lab
 github_username:  reskir
-paginate: 4
 logo: "http://www.urbanistas.lt/assets/logo.svg"
 
 social:
@@ -46,7 +45,6 @@ gems:
   - octopress-autoprefixer
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
