@@ -1,24 +1,8 @@
 ---
 layout: default
+title: 'Title of the post'
+description: 'apie perejas'
 ---
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '1794429847536793',
-      xfbml      : true,
-      version    : 'v2.9'
-    });
-    FB.AppEvents.logPageView();
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
 
 <style>
 
@@ -303,12 +287,7 @@ layout: default
     -o-box-shadow:inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #032b3a, 1px 1px 0px 0px #264075, 2px 2px 0px 0px #264075, 2px 5px 0px 0px #152A55, 6px 4px 2px #0b698b;
     box-shadow:inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #152A55, 1px 1px 0px 0px #264075, 2px 2px 0px 0px #264075, 2px 5px 0px 0px #264075, 4px 4px 6px #264075;
 }
-
 </style>
-
-<div style="margin:0 auto; max-width: 1340px;">
-    <!--<img src="/assets/nosubway/nosubway_header.jpg" class="w100p" />-->
-</div>
 <div class="wrapper">
     <div class="row">
         <section class="mt40 mb40 col-lg-12 col-xs-12">
@@ -623,10 +602,9 @@ document.getElementById('shareBtn').onclick = function(e) {
   e.preventDefault();
   FB.ui({
     appId: '1794429847536793',
-    method: 'share',
+    method: 'feed',
     display: 'popup',
-    href: 'http://www.urbanistas.lt/nosubway/',
-    quote: 'Mitai apie požemines perėjas ir kodėl jas reikėtų užkasti'
+    link: 'http://www.urbanistas.lt/nosubway/'
   }, function(response){});
 }
 </script>
