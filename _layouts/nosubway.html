@@ -1,6 +1,25 @@
 ---
 layout: default
 ---
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1794429847536793',
+      xfbml      : true,
+      version    : 'v2.9'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
 <style>
 
 .tabs {
@@ -202,6 +221,86 @@ layout: default
 .tabs-style-iconbox .icon::before {
 	display: block;
 	margin: 0 0 0.25em 0;
+}
+
+/*FB SHARE */
+
+#button-f {
+    width:120px;
+    height:32px;
+    display:block;
+    font-size:14px;
+    font-weight:bold;
+    color:#fff;
+    left: 32px;
+    text-decoration:none;
+    text-transform:uppercase;
+    text-align:center;
+    text-shadow:1px 1px 0px #264075;
+    padding:8px 20px 4px 10px;
+    margin-top:10px;
+    margin-bottom: 32px;
+    position:relative;
+    cursor:pointer;
+    border-left:solid 1px #264075;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    background:#3b5a9b ;
+    -webkit-border-top-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    -webkit-box-shadow: inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #264075;
+    -moz-box-shadow: inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #264075;
+    -o-box-shadow: inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #264075;
+    box-shadow: inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #264075;
+}
+
+#button-f:active {
+    top:3px;
+    -webkit-box-shadow: inset 0px 1px 0px #3b5a9b , 0px 2px 0px 0px #264075;
+    -moz-box-shadow: inset 0px 1px 0px #3b5a9b , 0px 2px 0px 0px #264075;
+    -o-box-shadow: inset 0px 1px 0px #3b5a9b , 0px 2px 0px 0px #264075;
+    box-shadow: inset 0px 1px 0px #3b5a9b , 0px 2px 0px 0px #264075;
+}
+
+#button-f:before {
+    content:url(http://www.mshaefer.com/wp-content/themes/zwin/images/social_facebook.png);
+    width:18px;
+    height:22px;
+    display:block;
+    position:absolute;
+    padding:5px;
+    top:0px;
+    margin-left:-37px;
+    font-size:16px;
+    font-weight:bold;
+    color:#8fd1ea;
+    text-shadow:1px 1px 0px #264075;
+    border-right:solid 1px #264075;
+    background:#27437e;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    -webkit-box-shadow:inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #152a55;
+    -moz-box-shadow:inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #152a55;
+    -o-box-shadow:inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #152a55;
+    box-shadow:inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #152a55;
+}
+
+#button-f:active:before {
+    top:-3px;
+    -webkit-box-shadow:inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #152A55, 1px 1px 0px 0px #264075, 2px 2px 0px 0px #264075, 2px 5px 0px 0px #152A55, 6px 4px 2px #0b698b;
+    -moz-box-shadow:inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #152A55, 1px 1px 0px 0px #264075, 2px 2px 0px 0px #264075, 2px 5px 0px 0px #152A55, 6px 4px 2px #0b698b;
+    -o-box-shadow:inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #032b3a, 1px 1px 0px 0px #264075, 2px 2px 0px 0px #264075, 2px 5px 0px 0px #152A55, 6px 4px 2px #0b698b;
+    box-shadow:inset 0px 1px 0px #3b5a9b , 0px 5px 0px 0px #152A55, 1px 1px 0px 0px #264075, 2px 2px 0px 0px #264075, 2px 5px 0px 0px #264075, 4px 4px 6px #264075;
 }
 
 </style>
@@ -505,17 +604,30 @@ layout: default
 
             </section>
             <section class="mt40 mb40 col-xs-12">
-                <h1 class="bolder">Kiti straipsniai</h1>
-                <h1>
-                    <a href="/supratimas/2017/02/16/pirmas-totalitarines-valstybes-pozymis.html">Pirmas totalitarinės valstybės požymis</a>
-                    <br />
-                    <a href="http://zebra.city4people.ru/">Городские проекты - подземные переходы зло</a>
-                </h1>
+                <h3 class="bolder">Kiti straipsniai</h3>
+                    <h4><a href="/supratimas/2017/02/16/pirmas-totalitarines-valstybes-pozymis.html">Pirmas totalitarinės valstybės požymis</a></<h4>
+                    <h4><a href="http://zebra.city4people.ru/">Miesto projektai - požeminės perėjos blogis (rusų kalba)</a></h4>
+            </section>
+            <section class="mt10">
+                <div id="shareBtn">
+                    <a id="button-f" href="#">Pasidalinti</a>
+                </div>
             </section>
         </div>
     </div>
 </div>
 
+<script>
+document.getElementById('shareBtn').onclick = function(e) {
+  e.preventDefault();
+  FB.ui({
+    appId: '1794429847536793',
+    method: 'share',
+    display: 'popup',
+    href: 'http://www.urbanistas.lt/nosubway/',
+  }, function(response){});
+}
+</script>
 <script>
 /**
  * cbpFWTabs.js v1.0.0
