@@ -602,9 +602,9 @@ document.getElementById('shareBtn').onclick = function(e) {
   e.preventDefault();
   FB.ui({
     appId: '1794429847536793',
-    method: 'feed',
+    method: 'share',
     display: 'popup',
-    link: 'http://www.urbanistas.lt/nosubway/'
+    href: 'http://www.urbanistas.lt/nosubway/'
   }, function(response){});
 }
 </script>
