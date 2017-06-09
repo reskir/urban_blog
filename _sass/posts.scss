@@ -72,12 +72,13 @@
     }
 
     .post-meta {
-        font-size: 10px;
+        font-size: 13px;
         color: $text-secondary;
+        margin-bottom: 12px;
         &--location {
             display:-ms-flexbox;
             display:flex;
-            margin:6px 0;
+            margin:12px 0;
             font-size: 12px;
             -ms-flex-align: center;
             align-items: center;

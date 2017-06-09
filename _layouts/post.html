@@ -2,43 +2,32 @@
 layout: default
 title: This is just a placeholder post
 ---
+
 <div class="wrapper">
 
     <div class="single-post row top-xs">
 
     <article class="col-lg-6 col-md-6 col-sm-8 col-xs-12">
         <h2>{{ page.title }}</h2>
-        <p class="post-meta">
-        {% if page.location %}
-            <span class="post-meta--location">
-                <img src="{{site.url}}/assets/location.svg"> {{page.location}}
-            </span>
-        {% endif %}
+        <div class="post-meta">
+            {% if page.location %}
+                <span class="post-meta--location">
+                    <img src="{{site.url}}/assets/location.svg"> {{page.location}}
+                </span>
+            {% endif %}
 
-        {% assign m = page.date | date: "%-m" %}
-            {{ page.date | date: "%-d" }}
-                {% case m %}
-                {% when '1' %}Sausio
-                {% when '2' %}Vasario
-                {% when '3' %}Kovo
-                {% when '4' %}Balandžio
-                {% when '5' %}Gegužės
-                {% when '6' %}Birželio
-                {% when '7' %}Liepos
-                {% when '8' %}Rugpjūčio
-                {% when '9' %}Rugsėjo
-                {% when '10' %}Spalio
-                {% when '11' %}Lapkričio
-                {% when '12' %}Gruodžio
-            {% endcase %}
-        {{ page.date | date: "%Y" }} <br>
-        Kategorijos: {% assign cat = page.categories %}
-                        {% if cat contains "Erdves" %}
-                            Erdvės
-                        {% else %}
-                            {{cat}}
-                        {% endif %}
-        </p>
+            <span id="date">
+                {{page.date}}
+            </span>
+             <br>
+            Kategorijos: {% assign cat = page.categories %}
+                            {% if cat contains "Erdves" %}
+                                Erdvės
+                            {% else %}
+                                {{cat}}
+                            {% endif %}
+
+        </div>
 
 
         {{ content }}
@@ -51,3 +40,12 @@ title: This is just a placeholder post
     {% include more_posts.html %}
     
 </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/locale/lt.js"></script>
+<script>
+    moment().format();
+    moment.updateLocale('lt');
+    var date = document.getElementById('date');
+    var time = moment(date.innerHTML).fromNow();
+    date.innerHTML = time;
+</script>
