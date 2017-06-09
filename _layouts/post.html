@@ -17,7 +17,7 @@ title: This is just a placeholder post
             {% endif %}
 
             <span id="date">
-                {{page.date}}
+                {{ page.date | date: "%Y/%m/%d" }}
             </span>
              <br>
             Kategorijos: {% assign cat = page.categories %}
@@ -43,9 +43,8 @@ title: This is just a placeholder post
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/locale/lt.js"></script>
 <script>
-    moment().format();
-    moment.updateLocale('lt');
     var date = document.getElementById('date');
-    var time = moment(date.innerHTML).fromNow();
+    var timeString = new Date(date.textContent).toISOString();
+    var time = moment(Date.parse(timeString, "yyyy-MM-dd")).fromNow();
     date.innerHTML = time;
 </script>
