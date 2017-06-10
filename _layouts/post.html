@@ -15,11 +15,12 @@ title: This is just a placeholder post
                     <img src="{{site.url}}/assets/location.svg"> {{page.location}}
                 </span>
             {% endif %}
-
-            <span id="date">
-                {{ page.date | date: "%Y/%m/%d" }}
-            </span>
-             <br>
+            <div>
+                <span>Paskelbta:</span>
+                <span id="date">
+                    {{ page.date | date: "%Y/%m/%d" }}
+                </span>
+            </div>
             Kategorijos: {% assign cat = page.categories %}
                             {% if cat contains "Erdves" %}
                                 Erdvės
