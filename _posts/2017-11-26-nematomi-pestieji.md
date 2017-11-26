@@ -28,7 +28,7 @@ pėstįjį, o ne ženklus ar nuspalvinta zebra.
 ![Naktinė perėja]( {{ site.url }}/assets/pesciuju_pereja_nakti-2.jpg)
 <div class="lighter smaller" style="margin:12px 0;">Pėsčiųjų perėja naktį</div>
 
-Teisingai įrengta perėja turi apšviesti pėstįjį, o ne perėjos elemntus.
+Teisingai įrengta perėja turi apšviesti pėstįjį, o ne perėjos elementus.
 
 ### Greitis mieste
 
