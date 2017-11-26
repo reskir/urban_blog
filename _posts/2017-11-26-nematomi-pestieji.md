@@ -17,18 +17,18 @@ Pabandžiau išsiaiškinti, kodėl mūsų perėjose iki šiol žmonės yra nutre
 ![Ryški ir neteisinga perėja mieste]( {{ site.url }}/assets/neteisinga-pereja.jpg)
 <div class="lighter smaller" style="margin:12px 0;">Ryškios spalvos atkreipia dėmesį nuo pesčiųjų</div>
 
-Kažkodėl mūsų žmonėms atrodo, kad ryškus elementai ir detalės gali padėti apsaugojant pėstyjį perėjoje. 
+Kažkodėl mūsų žmonėms atrodo, kad ryškus elementai ir detalės gali padėti apsaugojant pėstįjį perėjoje. 
 Dažnai manoma, kad ženklai geltonam/žaliam fone, raudona zebra ar kiti elementai kurie išryškina perėja turi padėti vairuotojui
-pastebėti pėstyjį.
+pastebėti pėstįjį.
 Dėja, visi šitie elementai tik blaško vairuotojo dėmesį ir pagrindinis perėjos naudotojas tampa nematomu.
 
 Iš tiesu, taisyklinga perėja turi turėtų minimumą elementų (ypač spalvingų), tam kad vairuotojas galėtų pastebėti
-pėstyjį, o ne ženklus ar nuspalvinta zebra.
+pėstįjį, o ne ženklus ar nuspalvinta zebra.
 
 ![Naktinė perėja]( {{ site.url }}/assets/pesciuju_pereja_nakti-2.jpg)
 <div class="lighter smaller" style="margin:12px 0;">Pėsčiųjų perėja naktį</div>
 
-Teisingai įrengta perėja turi apšviesti pėstyjį, o ne perėjos elemntus.
+Teisingai įrengta perėja turi apšviesti pėstįjį, o ne perėjos elemntus.
 
 ### Greitis mieste
 
