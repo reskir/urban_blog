@@ -7,7 +7,7 @@ image: /assets/pesciuju_pereja_nakti-2.jpg
 ---
 
 Kasmet Lietuvoje įvykių su partrentkais perėjose, kelkraščiuose žmonėmis nemažėja.
-Valdžia bando pripratinti gyventojus neišinti iš namų be atšvaito, netgi tokiuose miestuose kaip Vilnius ir Kaunas
+Valdžia bando pratinti gyventojus neišeiti iš namų be atšvaito, netgi tokiuose miestuose kaip Vilnius ir Kaunas
 XXI amžiuje. Atrodo, kad problemos sprendimas turėtų būti šiek tiek kitoks, 
 pradedant nuo saugios pėsčiųjų infrastrūkturos iki prevencinių priemonių greičiui mažinti mieste.
 Pabandžiau išsiaiškinti, kodėl mūsų perėjose iki šiol žmonės yra nutrenkami ir žudomi kasdien?
