@@ -2,10 +2,7 @@
     display: block;
     &_post {
         position: relative;
-        border-bottom: 1px dashed #cacaca;
-        &:last-child {
-            border-bottom: 0;
-        }
+        // border-bottom: 1px dashed #cacaca;
 
         &--hero {
             .posts_post_title {

@@ -4,3 +4,4 @@ _site
 node_modules
 images
 .idea
+s3_website.yml
