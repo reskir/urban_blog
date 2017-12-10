@@ -1,96 +1,95 @@
 ---
 layout: default
 ---
-<div class="wrapper" style="background:#d02432; color:#e8e7e7; text-align:center; padding: 12px;">
+<div class="wrapper bgc-white" style="background:#d02432; color:#e8e7e7; text-align:center; padding: 12px;">
     <a href="/nosubway" style="color:white;">
         <h1 class="m0" style="font-size: calc(1.2vw + 10px);">Vilnius be požeminių perėjų [Manifestas]</h1>
     </a>
 </div>
-<div class="wrapper">
-    <div class="row posts x--pt">
-        {% for post in site.posts limit:1 %}
-            <article class="posts_post posts_post--hero  col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <a class="" href="{{ site.url }}{{ post.url }}">
-                    <div class="imageWrapper">
-                        <img class="image" src='{{ site.url }}{{post.image}}' alt='{{post.title}}' />
-                    </div>
-                    <h2 class="posts_post_title">
-                        {{ post.title }}
-                    </h2>
-                    <div class="posts_post_info" >
-                        <p class="posts_post_cat">
-                            {% assign cat = post.categories %}
-                                {% if cat contains "Erdves" %}
-                                    Erdvės
-                                {% else %}
-                                    {{cat}}
-                                {% endif %}
-                            /
-                            {% assign m = post.date | date: "%-m" %}
-                                {{ post.date | date: "%-d" }}
-                                    {% case m %}
-                                        {% when '1' %}Sausio
-                                        {% when '2' %}Vasario
-                                        {% when '3' %}Kovo
-                                        {% when '4' %}Balandžio
-                                        {% when '5' %}Gegužės
-                                        {% when '6' %}Birželio
-                                        {% when '7' %}Liepos
-                                        {% when '8' %}Rugpjūčio
-                                        {% when '9' %}Rugsėjo
-                                        {% when '10' %}Spalio
-                                        {% when '11' %}Lapkričio
-                                        {% when '12' %}Gruodžio
-                                    {% endcase %}
-                            {{ post.date | date: "%Y" }}
-                        </p>
-                    </div>
-                </a>
-            </article>
-        {% endfor %}
-    </div>
-
-    <div class="row posts x--pt">
-        {% for post in site.posts offset:1 %}
-        <article class="posts_post posts_post--home col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="row posts x--pt wrapper bgc-white">
+    {% for post in site.posts limit:1 %}
+        <article class="posts_post posts_post--hero  col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <a class="" href="{{ site.url }}{{ post.url }}">
                 <div class="imageWrapper">
-                        <img class="image" src='{{ site.url }}{{post.image}}' alt='{{post.title}}' />
-                 </div>
+                    <img class="image" src='{{ site.url }}{{post.image}}' alt='{{post.title}}' />
+                </div>
                 <h2 class="posts_post_title">
                     {{ post.title }}
                 </h2>
                 <div class="posts_post_info" >
                     <p class="posts_post_cat">
                         {% assign cat = post.categories %}
-                        {% if cat contains "Erdves" %}
-                        Erdvės
-                        {% else %}
-                        {{cat}}
-                        {% endif %}
+                            {% if cat contains "Erdves" %}
+                                Erdvės
+                            {% else %}
+                                {{cat}}
+                            {% endif %}
                         /
                         {% assign m = post.date | date: "%-m" %}
-                        {{ post.date | date: "%-d" }}
-                        {% case m %}
-                        {% when '1' %}Sausio
-                        {% when '2' %}Vasario
-                        {% when '3' %}Kovo
-                        {% when '4' %}Balandžio
-                        {% when '5' %}Gegužės
-                        {% when '6' %}Birželio
-                        {% when '7' %}Liepos
-                        {% when '8' %}Rugpjūčio
-                        {% when '9' %}Rugsėjo
-                        {% when '10' %}Spalio
-                        {% when '11' %}Lapkričio
-                        {% when '12' %}Gruodžio
-                        {% endcase %}
+                            {{ post.date | date: "%-d" }}
+                                {% case m %}
+                                    {% when '1' %}Sausio
+                                    {% when '2' %}Vasario
+                                    {% when '3' %}Kovo
+                                    {% when '4' %}Balandžio
+                                    {% when '5' %}Gegužės
+                                    {% when '6' %}Birželio
+                                    {% when '7' %}Liepos
+                                    {% when '8' %}Rugpjūčio
+                                    {% when '9' %}Rugsėjo
+                                    {% when '10' %}Spalio
+                                    {% when '11' %}Lapkričio
+                                    {% when '12' %}Gruodžio
+                                {% endcase %}
                         {{ post.date | date: "%Y" }}
                     </p>
                 </div>
             </a>
         </article>
-        {% endfor %}
+    {% endfor %}
+</div>
 
-    </div>
+<div class="row posts bgc-10ffd3 wrapper">
+    {% for post in site.posts offset:1 %}
+    <article class="posts_post posts_post--home col-lg-4 col-md-6 col-sm-12 col-xs-12">
+        <a class="" href="{{ site.url }}{{ post.url }}">
+            <div class="card">
+                <div class="card-image">
+                    <div class="card-image--bg" style="background-image: url('{{ site.url }}{{post.image}}')">
+                    </div>
+                </div>
+                <div class="card-tag">
+                                            {% assign cat = post.categories %}
+                    {% if cat contains "Erdves" %}
+                    Erdvės
+                    {% else %}
+                    {{cat}}
+                    {% endif %}
+                    /
+                    {% assign m = post.date | date: "%-m" %}
+                    {{ post.date | date: "%-d" }}
+                    {% case m %}
+                    {% when '1' %}Sausio
+                    {% when '2' %}Vasario
+                    {% when '3' %}Kovo
+                    {% when '4' %}Balandžio
+                    {% when '5' %}Gegužės
+                    {% when '6' %}Birželio
+                    {% when '7' %}Liepos
+                    {% when '8' %}Rugpjūčio
+                    {% when '9' %}Rugsėjo
+                    {% when '10' %}Spalio
+                    {% when '11' %}Lapkričio
+                    {% when '12' %}Gruodžio
+                    {% endcase %}
+                    {{ post.date | date: "%Y" }}
+                </div>
+                <div class="card-title">
+                    {{ post.title }}
+                </div>
+            </div>
+        </a>
+    </article>
+    {% endfor %}
+
 </div>
