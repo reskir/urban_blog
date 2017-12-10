@@ -2,11 +2,42 @@
     display: block;
     &_post {
         position: relative;
-        // border-bottom: 1px dashed #cacaca;
 
+        &--article {
+            .imageWrapper {
+                overflow: hidden;
+                max-height: 150px;
+                max-width: 100%;
+            }
+            .image {
+                width: 100%; 
+                margin: 12px 0;
+            }
+        }
+
+        &--home {
+            .imageWrapper {
+                overflow: hidden;
+                max-height: 150px;
+                max-width: 100%;
+            }
+            .image {
+                width: 100%; 
+                margin: 12px 0;
+            }
+        }
         &--hero {
             .posts_post_title {
                 font-size: calc( 1.3vw + 15px );
+            }
+            .imageWrapper {
+                overflow: hidden;
+                max-height: 300px;
+                max-width: 100%;
+            }
+            .image {
+                width: 100%; 
+                margin: 12px 0;
             }
         }
 

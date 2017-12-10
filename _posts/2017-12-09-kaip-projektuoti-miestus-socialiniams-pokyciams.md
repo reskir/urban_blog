@@ -3,7 +3,7 @@ layout: post
 title:  "Kaip projektuoti miestus socialiniams pokyčiams - trys principai"
 date:   2017-12-09 10:10 +0200
 categories: Supratimas
-image: /assets/social_changes.jpg
+image: /assets/social_changes_2.jpg
 ---
 
 Tam, kad miestas ir miesto bendruomenės aktyviai ir produktyviai 
