@@ -7,7 +7,7 @@ image: /assets/social_changes_2.jpg
 ---
 
 Tam, kad miestas ir miesto bendruomenės aktyviai ir produktyviai 
-vystytųsi miestas turėtų būti pritaikytas socialiniams pokyčiams. Kartais - tai tiesiog erdvė kurį pritaikytą
+vystytųsi miestas turėtų būti pritaikytas socialiniams pokyčiams. Kartais - tai tiesiog erdvė kuri pritaikyta
 protesto akcijoms arba mitingams. Pasaulio istorija ir įvykiai parodė, kad kartais tokios žmonių
 iniciatyvos yra būtinos ir labai svarbios visuomenės raidai. Masuma Henry, buvusi vykdančioji konsultavimo ir UX (vartotojo potyrio)
 agentūros <a href="https://www.artefactgroup.com/">Artefact</a> direktorė, išskyrė trys pagrindinius principus,
