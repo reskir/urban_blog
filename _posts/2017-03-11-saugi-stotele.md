@@ -12,7 +12,7 @@ vairuotoją gali priversti skirtingi būdai.
 ![Kelias su kliutim]( {{ site.url }}/assets/movement/avarija-2.jpg)
 <div class="lighter smaller" style="margin:0 0 24px;">Sostinėje automobilis įlėkė į stotelę / Nuotrauka: <a href="http://www.delfi.lt/news/daily/crime/sostineje-automobilis-ileke-i-stotele-suzalotuosius-gelbejo-vyriausybes-rumus-saugantys-pareigunai.d?id=69311086">delfi.lt</a></div>
 
-### Siauras ir vingiuotas kelias
+## Siauras ir vingiuotas kelias
 
 
 Judant tiesiai visada galima pasigreitint ir paspausti akceleratoriaus pedalą, bet jeigu vairuotojui
@@ -21,7 +21,7 @@ teks važiuoti vingiuotu keliu - įsibėgėjimui nebeliks erdvės. Vairuotojas a
 ![Vingiuota gatvė]( {{ site.url }}/assets/movement/judejimas-1.jpg)
 <div class="lighter smaller" style="margin:0 0 24px;">Vingiuota gatvė</div>
 
-### Saugumo salelė
+## Saugumo salelė
 
 Saugumo salėlės taip pat padeda sumažinti eismo greitį.
 
@@ -34,7 +34,7 @@ Saugumo salėlės taip pat padeda sumažinti eismo greitį.
 
 
 
-### Gatvės be ženklų ir reguliavimo (shared space)
+## Gatvės be ženklų ir reguliavimo (shared space)
 Pasirodo gatvė kurioje nėra šaligatvio ir jos plotas dalinamas tarp visų eismo dalyvių yra vieną iš saugesniu.
 Automobilio vairuotojas tampa atidesnis, kai nėra kelio ženklų ir juostų, jam tenka "bendrauti" su kitais eismo dalyviais (dviratininkais, pėsčiaisiais), 
 padidėja vairuotojo atsakomybė.

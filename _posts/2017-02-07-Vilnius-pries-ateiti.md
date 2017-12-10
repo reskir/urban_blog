@@ -14,7 +14,7 @@ Daugelis miestų Europoje, JAV, Azijoje jau seniai suprato, kad miestas turi pl�
 </div>
 
 
-### Troleibusas prieš autobusą
+## Troleibusas prieš autobusą
 
 Taigi, pažiūrėkime kokie yra troleibuso pliusai ir minusai ir palyginsime juos su autobusu.
 

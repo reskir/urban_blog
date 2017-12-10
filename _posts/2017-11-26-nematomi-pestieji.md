@@ -12,7 +12,7 @@ XXI amžiuje. Atrodo, kad problemos sprendimas turėtų būti šiek tiek kitoks,
 pradedant nuo saugios pėsčiųjų infrastrūkturos iki prevencinių priemonių greičiui mažinti mieste.
 Pabandžiau išsiaiškinti, kodėl mūsų perėjose iki šiol žmonės yra nutrenkami ir žudomi kasdien?
 
-### Nereikalingi elementai ir ryškios spalvos
+## Nereikalingi elementai ir ryškios spalvos
 
 ![Ryški ir neteisinga perėja mieste]( {{ site.url }}/assets/neteisinga-pereja.jpg)
 <div class="lighter smaller" style="margin:12px 0;">Ryškios spalvos atkreipia dėmesį nuo pesčiųjų</div>
@@ -30,7 +30,7 @@ pėstįjį, o ne ženklus ar nuspalvinta zebra.
 
 Teisingai įrengta perėja turi apšviesti pėstįjį, o ne perėjos elementus.
 
-### Greitis mieste
+## Greitis mieste
 
 Aš jau <a href="supratimas/2017/03/11/saugi-stotele.html">rašiau</a> apie butinybę mažinti greitį mieste - ribojant pagreitijimo zonas, įrenginėjant siauras gatves, 
 mažinant eismo juostų kiekį. Pridursiu, kad greitis prieš perėja (nesvarbu koks yra leistinas greitis gatvėje)
