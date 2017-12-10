@@ -27,8 +27,16 @@
             height: 20px;
         }
 
-        a {
+        &_link{
             display: block;
+            color: white;
+            font-family: 'Merriweather', Georgia, serif;
+            &:visited {
+                color: inherit;
+            }
+            &:hover {
+                text-decoration: none;
+            }
         }
     }
 
