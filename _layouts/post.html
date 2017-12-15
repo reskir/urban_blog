@@ -3,39 +3,39 @@ layout: default
 title: This is just a placeholder post
 ---
 
-<div class="wrapper bgc-white">
+<div class="bgc-white">
 
-    <div class="single-post row top-xs">
+    <div class="single-post wrapper row top-xs">
 
-    <article class="col-lg-6 col-md-6 col-sm-8 col-xs-12">
-        <h1>{{ page.title }}</h1>
-        <div class="post-meta">
-            {% if page.location %}
-                <span class="post-meta--location">
-                    <img src="{{site.url}}/assets/location.svg"> {{page.location}}
-                </span>
-            {% endif %}
-            <div>
-                <span>Paskelbta:</span>
-                <span id="date">
-                    {{ page.date | date: "%Y/%m/%d" }}
-                </span>
+        <article class="col-lg-6 col-md-6 col-sm-8 col-xs-12">
+            <h1>{{ page.title }}</h1>
+            <div class="post-meta">
+                {% if page.location %}
+                    <span class="post-meta--location">
+                        <img src="{{site.url}}/assets/location.svg"> {{page.location}}
+                    </span>
+                {% endif %}
+                <div>
+                    <span>Paskelbta:</span>
+                    <span id="date">
+                        {{ page.date | date: "%Y/%m/%d" }}
+                    </span>
+                </div>
+                Kategorijos: {% assign cat = page.categories %}
+                                {% if cat contains "Erdves" %}
+                                    Erdvės
+                                {% else %}
+                                    {{cat}}
+                                {% endif %}
+
             </div>
-            Kategorijos: {% assign cat = page.categories %}
-                            {% if cat contains "Erdves" %}
-                                Erdvės
-                            {% else %}
-                                {{cat}}
-                            {% endif %}
-
-        </div>
 
 
-        {{ content }}
+            {{ content }}
 
-        {% include fb_share.html %}
+            {% include fb_share.html %}
 
-    </article>
+        </article>
 
     </div>
     {% include more_posts.html %}

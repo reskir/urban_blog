@@ -1,11 +1,9 @@
 .header {
     color: white;
     z-index:2;
+    background: $header-bg;
 
     .wrapper {
-        // @include bg;
-        background: $header-bg;
-        background: black;
         color: white;
         position: relative;
         padding:12px;

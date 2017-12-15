@@ -1,17 +1,10 @@
 .footer {
-  position: absolute;
-  bottom: 0;
-  left: 0;
   width: 100%;
   min-height: 100px;
   height: auto;
   padding: 24px;
-
-  &.wrapper {
-    background: #f6f6f6;
-  }
-
-
+  background: #f6f6f6;
+  
   .heart {
       background-color: #fb6d6d;
       display: inline-block;
