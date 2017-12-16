@@ -78,10 +78,13 @@
         }
         &--hero {
              padding: 12px;
+
             .posts_post_title {
                 font-size: calc( 1.3vw + 15px );
                 font-weight: bolder;
+                color: white;
             }
+            
             .imageWrapper {
                 overflow: hidden;
                 max-height: 300px;
