@@ -53,3 +53,38 @@ layout: default
 {{ content }}
 
 {% include footer.html %}
+
+<script>
+    // header scripts
+
+    (function() {
+        var header = document.querySelector('.header'),
+            btn = document.querySelector('.toggle-nav'),
+            menu = document.querySelector('#nav-icon1'),
+            content = document.querySelector('.content'),
+            banner = document.querySelector('.marketing-banner');
+
+        btn.addEventListener('click', function() {
+            menu.classList.toggle('open');
+            header.classList.toggle('active');
+        });
+
+        var scrollPos = 0;
+
+        window.addEventListener('scroll', function(e) {
+            if (window.scrollY > scrollPos) {
+                header.classList.add('header_fixed');
+                header.classList.add('hidden');
+                content.style = 'margin-top: ' + header.clientHeight + 'px';
+                scrollPos = window.scrollY;
+            } else if (window.scrollY === 0 ) {
+                header.classList.remove('hidden');
+            } else if (window.scrollY < scrollPos) {
+                header.classList.remove('hidden');
+                scrollPos = window.scrollY;
+            }
+        });
+        
+    })();
+</script>
+

@@ -30,7 +30,6 @@
                 </ul>
             </nav>
         </div>
-
         <nav class="mobile">
             <ul class="nav">
                 {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}
@@ -42,18 +41,10 @@
                 {% endif %} {% endfor %}
             </ul>
         </nav>
-
-
     </div>
+    <!--<div class="bgc-white marketing-banner">-->
+        <!--<a href="/nosubway" style="color:white;">-->
+            <!--<h1 class="m0" style="font-size: calc(0.5vw + 10px);">Vilnius be požeminių perėjų [Manifestas]</h1>-->
+        <!--</a>-->
+    <!--</div>-->
 </header>
-<script>
-    (function() {
-        var header = document.querySelector('.header'),
-            btn = document.querySelector('.toggle-nav'),
-            menu = document.querySelector('#nav-icon1');
-        btn.addEventListener('click', function() {
-            menu.classList.toggle('open');
-            header.classList.toggle('active');
-        });
-    })();
-</script>

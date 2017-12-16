@@ -1,7 +1,34 @@
 .header {
+    position: relative;
     color: white;
     z-index:2;
     background: $header-bg;
+    transition: position 0.4s ease;
+
+    .marketing-banner {
+      background:#d02432;
+      color:#e8e7e7;
+      text-align: center;
+      padding: 12px;
+    }
+
+    &_fixed {
+      position: fixed;
+      top: 0px;
+      width: 100%;
+      margin-bottom: 100px;
+      transition: transform 0.8s ease;
+      transform: translateY(0px);
+      &.hidden {
+        transform: translateY(-180px);
+      }
+    }
+
+    &_compact {
+        .wrapper {
+          padding: 6px;
+        }
+    }
 
     .wrapper {
         color: white;
