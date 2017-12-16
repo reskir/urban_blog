@@ -69,22 +69,20 @@ layout: default
             header.classList.toggle('active');
         });
 
-        var scrollPos = 0;
+        var scrollPos = 200;
 
         window.addEventListener('scroll', function(e) {
             if (window.scrollY > scrollPos) {
-                header.classList.add('header_fixed');
                 header.classList.add('hidden');
-                content.style = 'margin-top: ' + header.clientHeight + 'px';
                 scrollPos = window.scrollY;
             } else if (window.scrollY === 0 ) {
                 header.classList.remove('hidden');
-            } else if (window.scrollY < scrollPos) {
+            } else if (window.scrollY < scrollPos && window.scrollY > 200) {
                 header.classList.remove('hidden');
                 scrollPos = window.scrollY;
             }
         });
-        
+
     })();
 </script>
 

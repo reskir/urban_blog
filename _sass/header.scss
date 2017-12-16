@@ -1,9 +1,19 @@
 .header {
-    position: relative;
+
     color: white;
     z-index:2;
     background: $header-bg;
     transition: position 0.4s ease;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    margin-bottom: 100px;
+    transition: transform 0.8s ease;
+    transform: translateY(0px);
+
+    &.hidden {
+      transform: translateY(-180px);
+    }
 
     .marketing-banner {
       background:#d02432;
@@ -13,15 +23,7 @@
     }
 
     &_fixed {
-      position: fixed;
-      top: 0px;
-      width: 100%;
-      margin-bottom: 100px;
-      transition: transform 0.8s ease;
-      transform: translateY(0px);
-      &.hidden {
-        transform: translateY(-180px);
-      }
+
     }
 
     &_compact {
