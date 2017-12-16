@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b0bede0-ec06-49e6-b04a-e9322b1b98cf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/fb_share.html" afterPath="$PROJECT_DIR$/_includes/fb_share.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/legacy.scss" afterPath="$PROJECT_DIR$/_sass/legacy.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/posts.scss" afterPath="$PROJECT_DIR$/_sass/posts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/tiny-slider.scss" afterPath="$PROJECT_DIR$/_sass/tiny-slider.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/video.scss" afterPath="$PROJECT_DIR$/_sass/video.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="$PROJECT_DIR$/css/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,7 +53,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_includes/footer.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="58">
@@ -76,6 +68,16 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="174">
                   <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="265">
+                  <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -116,16 +118,6 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="230">
                   <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="video.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/_sass/video.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="145">
-                  <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
@@ -227,6 +219,7 @@
         <option value="$PROJECT_DIR$/_sass/posts.scss" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -409,12 +402,12 @@
       <workItem from="1495096593224" duration="100000" />
       <workItem from="1495889625056" duration="1163000" />
       <workItem from="1497030762965" duration="3601000" />
-      <workItem from="1513368171992" duration="3909000" />
+      <workItem from="1513368171992" duration="4053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32335000" />
+    <option name="totallyTimeSpent" value="32479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -708,14 +701,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-126">
@@ -893,6 +878,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
           <folding />
         </state>
       </provider>
