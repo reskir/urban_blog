@@ -30,7 +30,7 @@ Lietuvos miestai.</p>
 
 <h2> Mes socialiniuose tinkluose </h2>
 <div class="x--pv">
-    <div class="fb-like" data-href="https://www.facebook.com/urbanistaslt/" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
+    {% include fb_like_page.html %}
 </div>
 ![Troleibusas]( {{ site.url }}/assets/about.jpg)
 <div class="lighter smaller" style="margin:12px 0;">Nuotrauka: <br /> Liudas Parulskis					
