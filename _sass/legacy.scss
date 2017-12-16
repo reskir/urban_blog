@@ -22,18 +22,13 @@ ul {
 blockquote,
 dl,
 figure,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
 ol,
 p,
 pre,
 ul {
-    margin-bottom: 15px;
+    margin-top: 15px;
 }
+
 img {
     max-width: 100%;
     vertical-align: middle;
@@ -102,10 +97,9 @@ pre > code {
     padding-left: 0;
 }
 
-caption {
-
+.fb-share-button {
+    margin-top: 15px;
 }
-
 
 .wrapper {
     max-width: calc(800px - (30px * 2));

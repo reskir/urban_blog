@@ -72,7 +72,7 @@
                 &-title {
                     margin-bottom: 12px;
                     font-family: 'Merriweather Sans', sans-serif;
-                    font-weight: 100;
+                    font-weight: bold;
                 }
             }
         }
@@ -80,6 +80,7 @@
              padding: 12px;
             .posts_post_title {
                 font-size: calc( 1.3vw + 15px );
+                font-weight: bolder;
             }
             .imageWrapper {
                 overflow: hidden;
@@ -141,9 +142,11 @@
     margin: 0;
     padding-top:24px;
     padding-bottom: 24px;
-    h1 {
+    &_title {
+        font-weight: bold;
         line-height: 1.5;
     }
+
     h2 {
         font-weight: bolder;
     }
