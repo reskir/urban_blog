@@ -6,13 +6,14 @@ const imagemin = require('gulp-imagemin');
 const imageop = require('gulp-image-optimization');
 const image = require('gulp-image');
 const autoprefixer = require('gulp-autoprefixer');
-const smushit = require('gulp-smushit')
+const smushit = require('gulp-smushit');
+const imageminJpegtran = require('imagemin-jpegtran');
 
 
 gulp.task('images', function(cb) {
-    gulp.src(['images/**/*.png','images/**/*.jpg'])
+    gulp.src('images/**/*.jpg')
     .pipe(imageop({
-        optimizationLevel: 7,
+        optimizationLevel: 5,
         progressive: true,
         interlaced: true
     }))
@@ -20,15 +21,15 @@ gulp.task('images', function(cb) {
     .pipe(gulp.dest('assets')).on('end', cb).on('error', cb);
 });
 
-gulp.task('prefix', () =>
-    gulp.src('_sass/*.scss')
-        .pipe(autoprefixer({
-            browsers: ['last 2 versions'],
-            cascade: false,
-            minify:false
-        }))
-        .pipe(gulp.dest('_sass'))
-);
+// gulp.task('prefix', function() {
+//     gulp.src('_sass/*.scss')
+//         .pipe(autoprefixer({
+//             browsers: ['last 2 versions'],
+//             cascade: false,
+//             minify:false
+//         }))
+//         .pipe(gulp.dest('_sass'))
+// );
 
 
 gulp.task('sass', function () {
