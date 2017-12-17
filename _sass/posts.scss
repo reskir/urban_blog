@@ -1,5 +1,6 @@
 .posts {
     display: block;
+    margin-top: 12px;
     &_post {
         position: relative;
 
@@ -82,7 +83,6 @@
             .posts_post_title {
                 font-size: calc( 1.3vw + 15px );
                 font-weight: bolder;
-                color: #fff;
             }
 
             .imageWrapper {
@@ -143,11 +143,14 @@
 
 .single-post {
     margin: 0;
-    padding-top:24px;
+    padding-top: 24px;
     padding-bottom: 24px;
     &_title {
         font-weight: bold;
         line-height: 1.5;
+        font-size: 1.8em;
+        margin-top: 0;
+        margin-bottom: 12px;
     }
 
     h2 {

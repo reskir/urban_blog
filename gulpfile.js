@@ -11,7 +11,7 @@ const imageminJpegtran = require('imagemin-jpegtran');
 
 
 gulp.task('images', function(cb) {
-    gulp.src('images/**/*.jpg')
+    gulp.src('images/**/*.{jpg, png}')
     .pipe(imageop({
         optimizationLevel: 5,
         progressive: true,
