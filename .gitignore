@@ -3,5 +3,7 @@ _site
 .jekyll-metadata
 node_modules
 images
+.idea/*
+.idea/**
 .idea
 s3_website.yml
