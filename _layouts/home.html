@@ -4,7 +4,7 @@ layout: default
 <div class="content">
     <div class="wrapper row posts">
         {% for post in site.posts limit:1 %}
-        <article class="posts_post posts_post--hero  col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <article class="posts_post posts_post--hero col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <a class="" href="{{ site.url }}{{ post.url }}">
                 <div class="imageWrapper">
                     <img class="image" src='{{ site.url }}{{post.image}}' alt='{{post.title}}' />
