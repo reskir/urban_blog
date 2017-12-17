@@ -59,8 +59,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-17-Nedidelio-masto-intervencijos.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="551">
-                <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <first_editor relative-caret-position="87">
+                <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -379,12 +379,12 @@
       <workItem from="1495096593224" duration="100000" />
       <workItem from="1495889625056" duration="1163000" />
       <workItem from="1497030762965" duration="3601000" />
-      <workItem from="1513368171992" duration="18925000" />
+      <workItem from="1513368171992" duration="18959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47351000" />
+    <option name="totallyTimeSpent" value="47385000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -911,8 +911,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-17-Nedidelio-masto-intervencijos.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="551">
-            <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <first_editor relative-caret-position="87">
+            <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor />

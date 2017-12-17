@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nedidelio mąsto intervencijos Vankuveryje - kaip jie įtakoja žmonių jausmus ir elgesį?"
-date:   2017-12-09 10:10 +0200
+date:   2017-12-17 10:10 +0200
 categories: Erdves
 image: /assets/HappyStreets3-web.jpg
 ---
