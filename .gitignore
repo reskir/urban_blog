@@ -7,3 +7,4 @@ images
 .idea/**
 .idea
 s3_website.yml
+npm_debug.log
