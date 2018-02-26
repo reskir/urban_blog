@@ -7,7 +7,7 @@ categories: Patirtis
 location: Rio de Žaneiras
 ---
 <p>
-Dėka kompiuteriniams žaidimams, netgi Brazilijoje vaikai rečiau žaidžia futbolą kieme. Tam, kad vaikai išeitų į lauką pažaisti futbolą reikia naudotis inovacijomis. Taip Brazilijoje startavo kompanija Bola da Rua - "buk labiau vaiku".
+Kompiuterinių žaidimų dėka – netgi Brazilijoje vaikai rečiau spardo kamuolį kieme. Tam, kad vaikai išeitų į lauką pažaisti futbolą reikia naudotis inovacijomis. Taip Brazilijoje startavo kompanija Bola da Rua - "buk labiau vaikas".
 
 </p>
 
@@ -16,7 +16,7 @@ Dėka kompiuteriniams žaidimams, netgi Brazilijoje vaikai rečiau žaidžia fut
 Nuotrauka: <br />Bola da Rua</div>
 
 <p>
-Bola da Rua - tai reklaminė kompanija sausainių Zezé, kurį yra žinoma savo kūrybiniu požiūriu į visuomeninius projektus. Šį kartą jie pritvirtino dėžes su futbolo kamuoliais Brazilijos miestų gatvėse: noras paspardyti kamuolį atsiranda tuo pačiu metu. Kamuoliui tik reikia atsirasti gatvėje (bet kuriuo metų laiku), kaip vaikai iš aplinkinio rajono iš karto atbėga paspardyti jį.
+Bola da Rua - tai reklaminė kampanija sausainių Zezé, kurį yra žinoma savo kūrybiniu požiūriu į visuomeninius projektus. Šį kartą jie pritvirtino dėžes su futbolo kamuoliais Brazilijos miestų gatvėse: noras paspardyti kamuolį atsirado tuo pačiu metu. Dėžei su kamuoliu reikia tik atsirasti gatvėje (bet kuriuo metų laiku), kaip vaikai iš aplinkinio gatvių iš karto atbėga paspardyti jį.
 </p>
 
 <div class="video-container">
