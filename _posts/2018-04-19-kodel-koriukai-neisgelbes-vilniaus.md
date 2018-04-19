@@ -8,7 +8,7 @@ image: /assets/koriai.jpg
 
 ## Keturi ratai ant žalios vejos
 
-Atrodo, gera idėja įrengti parkavimo vietas prie namų — civilizuotai padengiant veją arba tai kas nuo jos liko koriais. Ir automobilių vairuotojams gerai, be gresmės gauti KET baudą po langais palikti savo automobilį ir pastovus tvarkaumiesta.lt vartotojai be reikalo nefiksuoja pažeidimus.
+Atrodo, gera idėja įrengti parkavimo vietas prie namų — civilizuotai padengiant veją arba tai kas nuo jos liko koriais. Ir automobilių vairuotojams gerai, turėti galimybę be gresmės gauti KET baudą po langais palikti savo automobilį ir pastovus <a href="https://tvarkaumiesta.lt">tvarkaumiesta.lt</a> vartotojai nefiksuoja pažeidimus.
 
 ![Korių įrengimas Vilniuje]( {{ site.url }}/assets/koriai-2.jpg)
 <div class="lighter x--pt">
