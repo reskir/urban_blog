@@ -22,4 +22,9 @@ Dūstantis nuo automobilių Vilnius maloniai pakvies nemokamai priparkuoti savo 
     Kamščiai Vilniaus mieste, nuotrauka delfi.lt
 </div>
 
-Bet ta laisvė labai greitai baigsis ir pasipiktinę vairuotojai vėl prašys didesnių investicijų infrastruktūrai — dar daugiau juostų, užkąsti po žeme pėsčiuosius ir sukišti į asfaltą mokesčių mokėtojų pinigus.
+Bet ta laisvė labai greitai baigsis ir pasipiktinę vairuotojai vėl prašys didesnių investicijų infrastruktūrai — dar daugiau juostų, užkąsti po žeme pėsčiuosius ir sukišti į asfaltą mokesčių mokėtojų pinigus. Užburtas ratas kuriame neišvengiamai sostinė kapituliuos prieš dviratį ir viešąjį transportą, bet prieš tai reikia užminti ant tų pačių grėblių kaip ir Vakarų Europos šalys prieš 40 metų.
+
+![Kamštis Amsterdame]( {{ site.url }}/assets/koriai-amsterdamas.jpg)
+<div class="lighter x--pt">
+    Kamščiai Amsterdame, 1970 metai
+</div>
