@@ -8,7 +8,7 @@ image: /assets/ss.jpg
 
 ## Vilnius kaip mažasis Maskvos brolis
 
-Kol skirtingų valstybių politikai sunkiai sutaria tarpusavy, miestų prefektai kopijuoja valdymo ir
+Kol skirtingų valstybių politikai sunkiai sutaria tarpusavy, miestų prefektai kopijuoja valdymo metodus ir
 infrastruktūrinius projektus. Atrodo Vilnius nori tapti europietišku miestu, bet jo valdžia tam trukdo.
 Pažvelkime, kokius sprendimus Vilniaus meras taiko mūsų sostinėje.
 
