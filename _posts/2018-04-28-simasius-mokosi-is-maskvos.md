@@ -29,7 +29,7 @@ Kol Vakarų Europos miestai naikina požemines perėjas ir investuoja į saugų 
 
 ## Bloga architektūra
 
-Maskva kaip ir Vilnius gali "didžiotis" beskoninga architektūra. Vilnius neatsileka nuo Maskvos ir šiemet Konstitucijos prospekte atsiras kvadratinių stikliukų ansamblis kuris ilgai darkys vaizdą miestiečiams ir jo sviečiams.
+Maskva kaip ir Vilnius gali "didžiuotis" beskoninga architektūra. Vilnius neatsileka nuo Maskvos ir šiemet Konstitucijos prospekte atsiras kvadratinių stikliukų ansamblis kuris ilgai darkys vaizdą miestiečiams ir jo sviečiams.
 
 ![Stikliukas](https://images.adsttc.com/media/images/5966/494b/b22e/38a4/e100/01bb/newsletter/Project_in_Vilnius_render_(Studio_Libeskind)_(4).jpg?1499875655)
 
