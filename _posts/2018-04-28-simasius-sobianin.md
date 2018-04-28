@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Šimašius mokosi iš Sobianino?"
-date:   2018-04-28 18:10 +0300
+date:   2018-04-28 16:10 +0300
 categories: Supratimas
 image: /assets/ss.jpg
 ---
@@ -27,13 +27,11 @@ Kol Vakarų Europos miestai naikina požemines perėjas ir investuoja į saugų 
 
 ![Valdžios tironija]( {{ site.url }}/assets/pozemine_pereja/pozemine-pereja-pil.jpg)
 
-
 ## Bloga architektūra
 
-Maskva kaip ir Vilnius gali pasigirti beskoningais ir "ne vietoj" įrengtais pastatais. Vilnius perėmė Maskvos iniciatyva ir šiemet Konstitucijos prospekte atsiras kvadratinis stikliukas kuris ilgai darkys vaizdą miestiečiams ir sviečiams.
+Maskva kaip ir Vilnius gali "didžiotis" beskoninga architektūra. Vilnius neatsileka nuo Maskvos ir šiemet Konstitucijos prospekte atsiras kvadratinių stikliukų ansamblis kuris ilgai darkys vaizdą miestiečiams ir jo sviečiams.
 
 ![Stikliukas](https://images.adsttc.com/media/images/5966/494b/b22e/38a4/e100/01bb/newsletter/Project_in_Vilnius_render_(Studio_Libeskind)_(4).jpg?1499875655)
-
 
 
 
