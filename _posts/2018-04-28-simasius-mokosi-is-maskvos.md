@@ -14,7 +14,7 @@ Pažvelkime, kokius sprendimus Vilniaus meras taiko mūsų sostinėje.
 
 ## Elektrinio transporto naikinimas
 
-Neseniai Maskva atnaujino didžiąją dalį savo antžeminio viešojo transporto, tačiau nemažai troleibuso maršrutų buvo panaikinta. Troleibusas dingo iš tokių vietų kaip Arbatas, Bulvarinis žiedas ir Tverskaja gatvės. Vilnius savivaldybė neatsiliko naikindama ekologišką ir šiuolaikinį transportą mieste, troleibusas <a href="http://www.troleibusas.lt/?p=3684">dingo iš Naugarduko gatvės</a>, dingo investicijos į naujo tinklo plėtrą, troleibusas taip pat buvo pašalintas iš planuojamos statyti Šiaurinės gatvės projekto.
+Neseniai Maskva atnaujino didžiąją dalį savo antžeminio viešojo transporto, tačiau nemažai troleibuso maršrutų buvo panaikinta. Troleibusas dingo iš tokių vietų kaip Arbatas, Bulvarinis žiedas ir Tverskaja gatvės. Vilniaus savivaldybė neatsiliko naikindama ekologišką ir šiuolaikinį transportą mieste — troleibusas <a href="http://www.troleibusas.lt/?p=3684">dingo iš Naugarduko gatvės</a>, dingo investicijos į naujo tinklo plėtrą, troleibusas taip pat buvo pašalintas iš planuojamos statyti Šiaurinės gatvės projekto, miestas investavo į dyzelinį transportą.
 
 ![Paskutinis troleibusas Naugarduko gatvėje]( http://www.troleibusas.lt/wp-content/uploads/2013/07/13_marsr_1636_Naugarduko_2.jpg )
 <div class="lighter x--pt">
