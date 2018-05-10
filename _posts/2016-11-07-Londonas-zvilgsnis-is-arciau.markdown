@@ -8,9 +8,9 @@ description: Londonas — tai ne tik vienas iš lankomiausių miestų pasaulyje,
 location: Londonas
 ---
 <div class="video-container">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/_B-FDiitAOE" frameborder="0" allowfullscreen controls></iframe>
+<iframe width="640" height="360" src="//youtube.com/embed/_B-FDiitAOE" frameborder="0" allowfullscreen controls></iframe>
 </div>
 
 <p class="italic">Londonas — tai ne tik vienas iš lankomiausių miestų pasaulyje, bet ir viena iš pasaulio verslo ir ekonomikos sostinė. 
-Žurnalas <a href="http://www.economist.com" target="_blank">The Economist</a> skyrė šiam miestui nedidelį 
+Žurnalas <a href="//economist.com" target="_blank">The Economist</a> skyrė šiam miestui nedidelį 
 dokumentinį filmą, kuriame trys miesto gyventojai pasakoja apie savo mylimiausias vietas mieste.</p>
