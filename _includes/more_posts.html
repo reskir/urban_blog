@@ -1,17 +1,16 @@
-<div class="more wrapper">
+<div class="x--pb wrapper">
     <div class="lighter smaller">Nauji straipsniai</div>
     <div class="row">
         {% for post in site.posts limit:6 %}
-          <div class="posts_post col-lg-12 col-md-4 col-sm-6 col-xs-12">
-            <a  href="{{ site.url }}{{ post.url }}">
-                <h2 class="posts_post_title" style="font-size:14px">
-                   {{ post.title }}
-                 </h2>
-                 <div class="posts_post_info">
-                      <p class="posts_post_cat">{{ post.categories }} </p>
-                </div>
-            </a>
-        </div>
-        {% endfor %}
-    </div>
+        <div class="posts_post col-lg-12 col-md-4 col-sm-6 col-xs-12">
+            <a href="{{ site.url }}{{ post.url }}">
+                <h2 class="posts_post_title" style="font-size:14px"> {{ post.title }}
+</h2>
+<div class="posts_post_info">
+    <p class="posts_post_cat">{{ post.categories }} </p>
+</div>
+</a>
+</div>
+{% endfor %}
+</div>
 </div>
