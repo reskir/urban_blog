@@ -16,8 +16,7 @@ Priežastis tokio laisvo judėjimo mieste labiau susijusi su socialiniu patikimu
 
 Keliaujantys vaikai be saugusiųjų priežiūros tai normali situacija Tokijuje. Tėvai dažnai paleidžia vaikus į pasaulį
 ankstyvam amžiuje. Populiari TV laida <a href="//reddit.com/r/raisingkids/comments/166in4/hajimete_no_otsukai_first_errand_is_a_japanese_tv/">*Hajimete no Otsukai*</a> arba *Mano pirmasis pavedimas*
-kuri buvo transliuojama 25 metus, rodo dviejų-trijų metų vaikus kurie atlikinėja kažkokią 
-tėvų nurodytą užduotį, pavyzdžiui eina apsipirkti, kai tuo metu juos filmuoja paslėpta kamera.
+kuri buvo transliuojama 25 metus, rodo dviejų-trijų metų vaikus kurie atlikinėja tėvų nurodytą užduotį, pavyzdžiui eina apsipirkti, kai tuo metu juos filmuoja paslėpta kamera.
 
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/e5k5XTZy0rA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -25,7 +24,7 @@ tėvų nurodytą užduotį, pavyzdžiui eina apsipirkti, kai tuo metu juos filmu
 
 Kas nulemia tokį neįprastą nepriklausomybės lygį?
 Pasirodo tai ne savarankiškumas, bet "pasitikėjimas grupe", pasak Dvaine Dikson (Dwayne Dixon), 
-kultūros antropologas kurį parašė disertaciją apie Japonijos vaikus. 
+kultūros antropologas kurį parašė <a href="//scalar.usc.edu/students/endlessquestion/index">disertaciją</a> apie Japonijos vaikus. 
 "[Japonijos] vaikai mokosi tuo labai anksti, idealiausiai, kad kiekvienas bendruomenės narys galėtų būti 
 kviečiamas tarnauti arba padėti kitiems", — pabrėžė ji.
 
@@ -43,8 +42,8 @@ Vaikas visuomenėje žino, jog gali pasikliauti grupe kurį pagelbės nelaimės 
     Maža mergaitė naudojasi Tokijo metro viena / Flickr
 </div>
 
-Japonija turi labai žemą nusikalstamumo lygį, tai tikrai leidžia mažiau jaudintis tėvams kurie išleidžia savo 
-mažus vaikus į miestą. Tačiau nedidelio mąsto miesto erdvės ir vaikščiojimo bei viešojo transporto naudojimo 
+Japonija turi labai žemą nusikalstamumo lygį, tai leidžia mažiau jaudintis tėvams kurie išleidžia savo 
+atžalas į miestą. Tačiau nedidelio mąsto miesto erdvės ir vaikščiojimo bei viešojo transporto naudojimo 
 kultūra taip pat daro įtaką saugumui, taip pat labai svarbiam aspektui — **saugumo suvokimui**.
 
 <blockquote>
