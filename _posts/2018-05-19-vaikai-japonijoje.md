@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Kodėl vaikai Japonijoje tokie nepriklausomi?"
+title:  "Kodėl vaikai Japonijoje tokie nepriklausomi? 🇯🇵"
 date:   2018-05-19 20:10 +0300
 categories: Supratimas
 image: /assets/japan_kids/940.jpg
+location: Tokijas
 ---
 
 **Japonijoje maži vaikai važinėja metro ir atlieka keliones be tėvų priežiūros.

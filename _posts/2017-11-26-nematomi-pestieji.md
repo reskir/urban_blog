@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nematomi pėstieji"
+title:  "Nematomi pėstieji 🚶"
 date:   2017-11-26 10:10 +0200
 categories: Supratimas
 image: /assets/pesciuju_pereja_nakti-2.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kodėl koriai neišgelbės Vilniaus"
+title:  "Kodėl koriai neišgelbės Vilniaus 🐝"
 date:   2018-04-19 18:10 +0300
 categories: Supratimas
 image: /assets/koriai.jpg
