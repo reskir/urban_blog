@@ -14,7 +14,7 @@ image: /assets/japan_kids/940.jpg
 **Japonijoje maži vaikai važinėja metro ir atlieka keliones be tėvų priežiūros.
 Priežastis tokio laisvo judėjimo mieste labiau susijusi su socialiniu patikimumu negu asmenine nepriklausomybe.**
 
-Keliaujantys vaikai be suagusiųjų priežiūros tai normali situacija Tokijuje. Tėvai dažnai paleidžia vaikus į pasaulį
+Keliaujantys vaikai be saugusiųjų priežiūros tai normali situacija Tokijuje. Tėvai dažnai paleidžia vaikus į pasaulį
 ankstyvam amžiuje. Populiari TV laida <a href="//reddit.com/r/raisingkids/comments/166in4/hajimete_no_otsukai_first_errand_is_a_japanese_tv/">*Hajimete no Otsukai*</a> arba *Mano pirmasis pavedimas*
 kuri buvo transliuojama 25 metus, rodo dviejų-trijų metų vaikus kurie atlikinėja kažkokią 
 tėvų nurodytą užduotį, pavyzdžiui eina apsipirkti, kai tuo metu juos filmuoja paslėpta kamera.
