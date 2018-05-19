@@ -6,13 +6,13 @@ categories: Supratimas
 image: /assets/japan_kids/940.jpg
 ---
 
+**Japonijoje maži vaikai važinėja metro ir atlieka keliones be tėvų priežiūros.
+Priežastis tokio laisvo judėjimo mieste labiau susijusi su socialiniu patikimumu negu asmenine nepriklausomybe.**
+
 ![Vaikas Tokijo metro]( {{ site.url }}/assets/japan_kids/940.jpg)
 <div class="lighter x--pt smaller">
     Moksleivė eina viename iš Tokijo metro perėjimų / Nuotrauka: Reuters
 </div>
-
-**Japonijoje maži vaikai važinėja metro ir atlieka keliones be tėvų priežiūros.
-Priežastis tokio laisvo judėjimo mieste labiau susijusi su socialiniu patikimumu negu asmenine nepriklausomybe.**
 
 Keliaujantys vaikai be saugusiųjų priežiūros tai normali situacija Tokijuje. Tėvai dažnai paleidžia vaikus į pasaulį
 ankstyvam amžiuje. Populiari TV laida <a href="//reddit.com/r/raisingkids/comments/166in4/hajimete_no_otsukai_first_errand_is_a_japanese_tv/">*Hajimete no Otsukai*</a> arba *Mano pirmasis pavedimas*
