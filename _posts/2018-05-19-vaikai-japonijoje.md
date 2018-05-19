@@ -14,9 +14,9 @@ image: /assets/japan_kids/940.jpg
 **Japonijoje maži vaikai važinėja metro ir atlieka keliones be tėvų priežiūros.
 Priežastis tokio laisvo judėjimo mieste labiau susijusi su socialiniu patikimumu negu asmenine nepriklausomybe.**
 
-Keliaujantys vaikai be suagusiųjų priežiūros tai normali situacija Tokijoje. Tėvai dažnai paleidžia vaikus į pasaulį
+Keliaujantys vaikai be suagusiųjų priežiūros tai normali situacija Tokijuje. Tėvai dažnai paleidžia vaikus į pasaulį
 ankstyvam amžiuje. Populiari TV laida <a href="//reddit.com/r/raisingkids/comments/166in4/hajimete_no_otsukai_first_errand_is_a_japanese_tv/">*Hajimete no Otsukai*</a> arba *Mano pirmasis pavedimas*
-kuri buvo transliuojama 25 metus, rodo dviejų-triejų metų vaikus kurie atlikinėja kažkokią 
+kuri buvo transliuojama 25 metus, rodo dviejų-trijų metų vaikus kurie atlikinėja kažkokią 
 tėvų nurodytą užduotį, pavyzdžiui eina apsipirkti, kai tuo metu juos filmuoja paslėpta kamera.
 
 <div class="video-container">
@@ -27,15 +27,15 @@ Kas nulemia tokį neįprastą nepriklausomybės lygį?
 Pasirodo tai ne savarankiškumas, bet "pasitikėjimas grupe", pasak Dvaine Dikson (Dwayne Dixon), 
 kultūros antropologas kurį parašė disertaciją apie Japonijos vaikus. 
 "[Japonijos] vaikai mokosi tuo labai anksti, idealiausiai, kad kiekvienas bendruomenės narys galėtų būti 
-kviečiamas tarnauti arba padėti kitiems", — pabrežė ji.
+kviečiamas tarnauti arba padėti kitiems", — pabrėžė ji.
 
 Tokia praktika realizuojama ir mokykloje, kur vaikai atlieka valymo ir aptarnavimo darbus pietų metu, 
 vietoj suaugusiųjų kurie dažniausiai atlieka šias pareigas. "Tai padeda pajusti kitų žmonių darbo našumą ir 
 keičia kasdienines pareigas, tai pat padeda patirti tai kas yra pavyzdžiui tualeto valymas", — sako Dikson.
 
-Priemant atsakomybę už bendras erdves sąlygoja tai, jog pas vaikus atsiranda nuosavybės pojūtis ir jie pradeda
-suprasti materialiasias pasekmes dėl betvarkės atsiradimo, nes tuo atveju jiems reikės valyti tai.
-Šį kultūrą pereina ir į viešasias erdves (viena iš priežasčių kodėl gatvės Japonijoje labai švarios).
+Priimant atsakomybę už bendras erdves sąlygoja tai, jog pas vaikus atsiranda nuosavybės pojūtis ir jie pradeda
+suprasti materialias pasekmes dėl betvarkės atsiradimo, nes tuo atveju jiems reikės valyti tai.
+Šį kultūrą pereina ir į viešąsias erdves (viena iš priežasčių kodėl gatvės Japonijoje labai švarios).
 Vaikas visuomenėje žino, jog gali pasikliauti grupe kurį pagelbės nelaimės atveju.
 
 ![Vaikas važiuoja Tokijo metro]( {{ site.url }}/assets/japan_kids/b12ae721b.jpg)
@@ -43,7 +43,7 @@ Vaikas visuomenėje žino, jog gali pasikliauti grupe kurį pagelbės nelaimės 
     Maža mergaitė naudojasi Tokijo metro viena / Flickr
 </div>
 
-Japonija turi labai žemą nusikalstamumo lygį, tai tikrai leidžia mažiau jaudintys tėvams kurie išleidžia savo 
+Japonija turi labai žemą nusikalstamumo lygį, tai tikrai leidžia mažiau jaudintis tėvams kurie išleidžia savo 
 mažus vaikus į miestą. Tačiau nedidelio mąsto miesto erdvės ir vaikščiojimo bei viešojo transporto naudojimo 
 kultūra taip pat daro įtaką saugumui, taip pat labai svarbiam aspektui — **saugumo suvokimui**.
 
