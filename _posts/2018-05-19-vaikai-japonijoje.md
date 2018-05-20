@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Kodėl vaikai Japonijoje tokie nepriklausomi? 🇯🇵"
-date:   2018-05-19 20:10 +0300
+title:  "Kodėl vaikai Japonijoje labai anksti tampa nepriklausomais? 🇯🇵"
+date:   2018-05-20 08:10 +0300
 categories: Supratimas
 image: /assets/japan_kids/940.jpg
 location: Tokijas
