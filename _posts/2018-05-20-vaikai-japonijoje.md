@@ -25,7 +25,7 @@ kuri buvo transliuojama 25 metus, rodo dviejų-trijų metų vaikus kurie atlikin
 
 Kas nulemia tokį neįprastą nepriklausomybės lygį?
 Pasirodo tai ne savarankiškumas, bet "pasitikėjimas grupe", pasak Dvaine Dikson (Dwayne Dixon), 
-kultūros antropologas kurį parašė <a href="//scalar.usc.edu/students/endlessquestion/index">disertaciją</a> apie Japonijos vaikus. 
+kultūros antropologė kurį parašė <a href="//scalar.usc.edu/students/endlessquestion/index">disertaciją</a> apie Japonijos vaikus. 
 "[Japonijos] vaikai mokosi tuo labai anksti, idealiausiai, kad kiekvienas bendruomenės narys galėtų būti 
 kviečiamas tarnauti arba padėti kitiems", — pabrėžė ji.
 
