@@ -7,8 +7,8 @@ image: /assets/japan_kids/940.jpg
 location: Tokijas
 ---
 
-**Japonijoje maži vaikai važinėja metro ir atlieka keliones be tėvų priežiūros.
-Priežastis tokio laisvo judėjimo mieste labiau susijusi su socialiniu patikimumu negu asmenine nepriklausomybe.**
+**Japonijoje maži vaikai važinėja metro ir keliauja mieste be tėvų priežiūros.
+Tokio laisvo judėjimo priežastis mieste yra susijusi labiau su socialiniu patikimumu negu asmenine nepriklausomybe.**
 
 ![Vaikas Tokijo metro]( {{ site.url }}/assets/japan_kids/940.jpg)
 <div class="lighter x--pt smaller">
