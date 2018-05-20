@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Apie ką mes čia?
-permalink: /about/
+permalink: /apie/
 navigation_weight: 5
 ---
 
