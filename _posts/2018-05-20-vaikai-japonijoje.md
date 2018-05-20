@@ -29,13 +29,13 @@ kultūros antropologas kurį parašė <a href="//scalar.usc.edu/students/endless
 "[Japonijos] vaikai mokosi tuo labai anksti, idealiausiai, kad kiekvienas bendruomenės narys galėtų būti 
 kviečiamas tarnauti arba padėti kitiems", — pabrėžė ji.
 
-Tokia praktika realizuojama ir mokykloje, kur vaikai atlieka valymo ir aptarnavimo darbus pietų metu, 
-vietoj suaugusiųjų kurie dažniausiai atlieka šias pareigas. "Tai padeda pajusti kitų žmonių darbo našumą ir 
-keičia kasdienines pareigas, tai pat padeda patirti tai kas yra pavyzdžiui tualeto valymas", — sako Dikson.
+Tokia praktika realizuojama ir mokykloje, kur vaikai atlieka valymo ir serviravimo darbus pietų metu, 
+vietoje suaugusiųjų kurie dažniausiai atlieka šias pareigas. "Tai padeda patirti kitų žmonių darbo našumą ir 
+keičia kasdienines pareigas, tai pat padeda patirti tai koks yra sudėtingas darbas, pavyzdžiui, tualeto valymas", — sako Dikson.
 
-Priimant atsakomybę už bendras erdves sąlygoja tai, jog pas vaikus atsiranda nuosavybės pojūtis ir jie pradeda
+Priimant atsakomybę už bendras erdves įtakoja tam, jog pas vaikus atsiranda nuosavybės pojūtis, jie pradeda
 suprasti materialias pasekmes dėl betvarkės atsiradimo, nes tuo atveju jiems reikės valyti tai.
-Šį kultūrą pereina ir į viešąsias erdves (viena iš priežasčių kodėl gatvės Japonijoje labai švarios).
+Ši kultūra pereina ir į viešąsias erdves (viena iš priežasčių kodėl gatvės Japonijoje labai švarios).
 Vaikas visuomenėje žino, jog gali pasikliauti grupe kurį pagelbės nelaimės atveju.
 
 ![Vaikas važiuoja Tokijo metro]( {{ site.url }}/assets/japan_kids/b12ae721b.jpg)
