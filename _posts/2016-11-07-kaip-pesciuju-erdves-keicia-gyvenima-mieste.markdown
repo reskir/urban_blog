@@ -7,7 +7,7 @@ categories: Miestas
 ---
 <b>
 Gatvės skirtos pėstiesiems — padeda kurti stipresnes bendruomenes.
-<em>Arup</em> tyrime <a href="//arup.com/walking" target="_blank">
+<em>Arup</em> tyrime <a href="//arup.com/perspectives/themes/cities/cities-alive-towards-a-walking-world" target="_blank">
 "Gyvi miestai: pakeliui į pėsčiųjų pasaulį"</a> pasakojama kaip gatvės 
 skirtos pėstiesiems keičia bendruomenių gyvenimą ir gerina santykius tarp žmonių.</b>
 
