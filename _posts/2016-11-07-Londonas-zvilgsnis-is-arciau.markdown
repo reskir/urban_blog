@@ -2,7 +2,7 @@
 layout: video
 title:  "Žvilgsnis į miestą - Londonas"
 date:   2016-11-07 22:38 +0200
-image: /assets/lucho-47.jpg
+image: lucho-47.jpg
 categories: Miestas
 description: Londonas — tai ne tik vienas iš lankomiausių miestų pasaulyje, bet ir viena iš pasaulio verslo ir ekonomikos sostinė.
 location: Londonas

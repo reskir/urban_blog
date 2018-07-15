@@ -2,7 +2,7 @@
 layout: post
 title:  "Miestų ateitis: Lyft įkūrėjas apie artėjančią transporto revoliuciją"
 date:   2016-11-29 17:00 +0200
-image: /assets/lyft.jpg
+image: lyft.jpg
 categories: Supratimas
 location: San Franciskas
 ---
@@ -13,7 +13,7 @@ visiškai. Lyft įkūrėjas Džonas Cimmer savo bloge Medium <a href="https://me
 ateityje.
 </p>
 
-![Miestų ateitis: Lyft įkūrėjas apie artėjančia transporto revoliuciją]( {{ site.url }}/assets/lyft.jpg)
+{% asset lyft.jpg alt="Miestų ateitis: Lyft įkūrėjas apie artėjančia transporto revoliuciją" %}
 <div class="lighter smaller" style="margin:12px 0;">
 Nuotrauka: <br />Lyft</div>
 

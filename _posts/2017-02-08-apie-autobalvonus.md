@@ -2,7 +2,7 @@
 layout: post
 title:  "Autobalvonai ir jų teisės"
 date:   2017-02-08 12:00 +0200
-image: /assets/autobalvonai/pazeidimas-ket.jpg
+image: autobalvonai/pazeidimas-ket.jpg
 categories: Miestas
 location: Vilnius
 ---

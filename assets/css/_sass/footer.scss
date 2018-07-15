@@ -1,0 +1,38 @@
+.footer {
+  width: 100%;
+  min-height: 100px;
+  height: auto;
+  padding: 24px;
+  background: #f6f6f6;
+
+  .heart {
+      background-color: #fb6d6d;
+      display: inline-block;
+      height: 10px;
+      margin: 0 6px;
+      position: relative;
+      top: 0;
+      transform: rotate(-45deg);
+      width: 10px;
+}
+
+    .heart:before,
+    .heart:after {
+      content: "";
+      background-color: #fb6d6d;
+      border-radius: 50%;
+      height: 10px;
+      position: absolute;
+      width: 10px;
+    }
+
+    .heart:before {
+      top: -6px;
+      left: 0;
+    }
+
+    .heart:after {
+      left: 6px;
+      top: 0;
+    }
+}

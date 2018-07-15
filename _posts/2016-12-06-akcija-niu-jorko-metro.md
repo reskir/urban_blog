@@ -2,19 +2,16 @@
 layout: post
 title:  "Subway Therapy: flešmobas su užrašais Niujorko metro"
 date:   2016-12-06 16:20 +0200
-image: /assets/metro.jpg
+image: metro.jpg
 categories: Miestas
 location: Niujorkas
-slides: ['/assets/stickers/sticker-1.jpg', '/assets/stickers/sticker-2.jpg', '/assets/stickers/sticker-3.jpg', '/assets/stickers/sticker-4.jpg', '/assets/stickers/sticker-5.jpg','/assets/stickers/sticker-6.jpg', '/assets/stickers/sticker-7.jpg']
+slides: ['stickers/sticker-1.jpg', 'stickers/sticker-3.jpg', 'stickers/sticker-4.jpg', 'stickers/sticker-5.jpg','stickers/sticker-6.jpg']
 ---
 
 <p> Spontaniška akcija metro stotelėje "Union-square" Niujorke - tukstantys vietinių gyventojų ir turistų <a href="http://www.subwaytherapy.com/" target="_blank">palieka stikerius</a> "post-it" su įvairiais pranešimais ant metro stotelės sienų. Tai, kas prasidėjo kaip nedidelė flešmobo akcija peraugo į tikrą kolektyvinį psichoterapijos seansą, kuris padėjo miestėčiams išreikšti baimę ir pyktį, meilę ir susižavėjimą. </p>
 
 
-![Lipdukas - 1]({{ site.url }}/assets/stickers/sticker-1.jpg)
-![Lipdukas - 2]({{ site.url }}/assets/stickers/sticker-2.jpg)
-![Lipdukas - 3]({{ site.url }}/assets/stickers/sticker-6.jpg)
-![Lipdukas - 4]({{ site.url }}/assets/stickers/sticker-4.jpg)
+{% include slider.html %}
 <div class="lighter smaller" style="margin:12px 0;">
 Nuotraukos: <br />Metro</div>
 

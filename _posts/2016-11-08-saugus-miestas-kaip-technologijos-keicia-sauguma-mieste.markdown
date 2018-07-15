@@ -3,7 +3,7 @@ layout: post
 title:  "Saugus miestas: kaip technologijos padarys gatves saugesnėmis"
 date:   2016-11-08 00:31:02 +0200
 categories: Supratimas
-image:  /assets/technology_city.jpg
+image: technology_city.jpg
 ---
 
 

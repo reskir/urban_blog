@@ -3,8 +3,8 @@ layout: post
 title: Paveikslai iš skalpelių
 date: '2016-11-11 10:00:02 +0200'
 categories: Dizainas
-image: /assets/scalpels/11.jpg
-slides: ['/assets/scalpels/11.jpg', '/assets/scalpels/21.jpg', '/assets/scalpels/31.jpg', '/assets/scalpels/41.jpg', '/assets/scalpels/51.jpg']
+image: scalpels/11.jpg
+slides: ['scalpels/11.jpg', 'scalpels/21.jpg', 'scalpels/31.jpg', 'scalpels/41.jpg', 'scalpels/51.jpg']
 ---
 
 <p class="italic">

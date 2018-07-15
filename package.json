@@ -1,11 +1,14 @@
 {
-  "name": "urbanblog",
+  "name": "Urbanistas",
   "version": "1.0.0",
-  "description": "",
+  "description": "blogas apie miestą",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pages": "git checkout gh-pages && git rebase master && git push origin gh-pages && git checkout master"
+    "pages":
+      "git checkout gh-pages && git rebase master && git push origin gh-pages && git checkout master",
+    "dev": "bundle exec jekyll serve --watch --livereload",
+    "build": "bundle exec jekyll build"
   },
   "repository": {
     "type": "git",

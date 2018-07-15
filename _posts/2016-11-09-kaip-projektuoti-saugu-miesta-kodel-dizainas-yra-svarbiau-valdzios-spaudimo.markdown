@@ -3,7 +3,7 @@ layout: post
 title:  "Kaip projektuoti saugų miestą: kodėl dizainas yra svarbiau valdžios spaudimo"
 date:   2016-11-09 21:37:02 +0200
 categories: Miestas
-image:  /assets/design_and_cities.jpg
+image: design_and_cities.jpg
 ---
 
 

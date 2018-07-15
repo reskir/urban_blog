@@ -2,7 +2,7 @@
 layout: post
 title:  "Kaip gatvės pėstiesiems keičia bendruomenės gyvenimą: 5 moksliniai faktai"
 date:   2016-11-07 19:44 +0200
-image: /assets/pesciuju-gatve-san-franciske.jpg
+image: pesciuju-gatve-san-franciske.jpg
 categories: Miestas
 ---
 <b>

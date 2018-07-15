@@ -2,7 +2,7 @@
 layout: post
 title:  "Ar galima pasiskolinti jūsų automobilį? Rоbin Čеiz paskaita"
 date:   2016-11-28 20:00 +0200
-image: /assets/zip-car-ted-talk.jpg
+image: zip-car-ted-talk.jpg
 categories: Supratimas
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Žvilgsnis į miestą - Varšuva"
 date:   2016-11-21 22:00 +0200
-image: /assets/varsuva.jpeg
+image: varsuva.jpeg
 categories: Miestas
 location: Varšuva
 ---

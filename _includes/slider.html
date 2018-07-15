@@ -1,8 +1,8 @@
-<script src="{{ site.url }}/assets/tiny-slider/tiny-slider.js"></script>
+{% asset tiny-slider.js @inline %}
 
 <div class="slider">
     {% for slide in page.slides %}
-        <div> <img src="{{ site.url }}{{slide}}" alt="{{page.title}}" /></div>
+        <div> {% asset {{slide}} alt={{page.title}} %} </div>
     {% endfor %}
 </div>
 

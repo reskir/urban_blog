@@ -3,7 +3,7 @@ layout: post
 title:  "Kaip miestui kovoti su globaliniu atšilimu: Oslo pavyzdys"
 date:   2016-11-15 19:13:00 +0200
 categories: Patirtis
-image:  /assets/oslo-fighting-global-warming.jpg
+image: oslo-fighting-global-warming.jpg
 location: Oslas
 
 ---
@@ -12,8 +12,7 @@ location: Oslas
 Visos pasaulio šalys susitarė kovoti su globaliniu atšilimu, bet kaip tai įgyvendinti praktikoje ne iki galo aišku. Kaip pakeisti požiūrį į miesto valdymą, kad miestas mažiau kenktų ekologijai? Pasirodo, daugumai miestų reikėtų pasitelkti Oslo pavyzdžiu, kuris ruošiasi per ketverius metus sumažinti šiltnamio efektą sukeliančių dujų skleidimą paligynus su 1990 metų rodikliais.
 </p>
 
-
-![Kaip Oslas kovoja su globaliniu atšilimu]( {{ site.url }}/assets/oslo-fighting-global-warming.jpg)
+{% asset oslo-fighting-global-warming.jpg alt="Kaip Oslas kovoja su globaliniu atšilimu" %}
 <div class="lighter smaller" style="margin:12px 0;">Nuotrauka: <br />
 Flickr / Mashhour Halawani
 </div>

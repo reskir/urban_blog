@@ -11,7 +11,6 @@ description: 'apie perejas'
         overflow: hidden;
         margin: 0 auto;
         width: 100%;
-        font-weight: 300;
         font-size: 1.25em;
     }
 
@@ -307,25 +306,25 @@ description: 'apie perejas'
 						<ul>
 							<li class="tab-current">
                                 <a href="#section-circle-1">
-                                    <img src="/assets/nosubway/fast.png" />
+                                    {% asset nosubway/fast.png %}
                                     <h4>Greita</h4>
                                 </a>
                             </li>
 							<li class="">
                               <a href="#section-circle-1">
-                                    <img src="/assets/nosubway/safety.png" />
+                                    {% asset nosubway/safety.png %}
                                     <h4>Saugu</h4>
                                 </a>
                             </li>
                             <li class="">
                                 <a href="#section-circle-1">
-                                    <img src="/assets/nosubway/ramp.png" />
+                                    {% asset nosubway/ramp.png %}
                                     <h4>Patogu</h4>
                                 </a>
                             </li>
 							<li class="">
                                 <a href="#section-circle-1">
-                                    <img src="/assets/nosubway/light.png" />
+                                    {% asset nosubway/light.png %}
                                     <h4>Mažina kamščius</h4>
                                 </a>
                             </li>
@@ -344,7 +343,7 @@ description: 'apie perejas'
                                     </p>
                                 </div>
                                 <div class="col-lg-7 col-md-6 col-sm-6 col-xs-12">
-                                    <img class="w100p" src="/assets/nosubway/efficiency_scheme-2.png" alt="zebra">
+                                    {% asset nosubway/efficiency_scheme-2.png %}
                                 </div>
                             </div>
                         </section>
@@ -365,7 +364,7 @@ description: 'apie perejas'
                                 </div>
 
                                 <div class="col-lg-7 col-md-6 col-sm-6 col-xs-12 center-xs">
-                                    <img src="/assets/nosubway/best-option.png" alt="zebra">
+                                    {% asset nosubway/best-option.png alt="zebra" %}
                                 </div>
                             </div>
                         </section>
@@ -383,7 +382,7 @@ description: 'apie perejas'
                                 </div>
                                 <div class="col-lg-7 col-md-6 col-sm-6 col-xs-12 end-lg">
                                     <figure>
-                                        <img src="/assets/pozemine_pereja/pilaites-pereja.png" alt="Neveikiantis keltuvas Pilaitės požeminėje perėjoje">
+                                        {% asset pozemine_pereja/pilaites-pereja.png alt="Neveikiantis keltuvas Pilaitės požeminėje perėjoje" %}
                                         <figcaption>Neveikiantis keltuvas Pilaitės požeminėje perėjoje</figcaption>
                                     </figure>
                                 </div>
@@ -416,7 +415,7 @@ description: 'apie perejas'
         <div class="col-lg-12 col-xs-12">
             <section class="mt60 stats">
                 <div class="row">
-                    <img src="/assets/nosubway/nepatogi_stats.svg" class="col-lg-5 col-md-12 col-sm-12 col-xs-12" />
+                    {% asset nosubway/nepatogi_stats.svg class="col-lg-5 col-md-12 col-sm-12 col-xs-12" %}
                     <h1 class="col-lg-7 col-xs-12 mt20 end-lg">
                         Daugiau negu <strong class="c-red">150 000</strong> Vilniaus miesto gyventojams <strong class="c-red">nepatogu</strong>
                         naudotis požemine perėja
@@ -469,18 +468,18 @@ description: 'apie perejas'
                 <div class="row">
                     <div class="box mb20 mt10">
                         <figure class="col-lg-12">
-                            <img src="/assets/nosubway/comfort.jpg" alt="Mitas apie požeminių perėjų patogumą" /> 
+                            {% asset nosubway/comfort.jpg alt="Mitas apie požeminių perėjų patogumą" %}
                             <figcaption> Mitas apie patogumą </figcaption>
                         </figure>
                         <p class="col-lg-10 col-xs-12 mb20 ">Miesto infrastruktūra turi būti patogi žmonėms su ribotu mobilumu, kad nešalinti jų dalyvavimo iš visuomeninio gyvenimo. <br /><br />
                     Demokratinėse valstybėse sukuriamos sąlygos kurios leidžia realizuoti “aplinkos teisingumą” tam, kad visi piliečiai, nepriklausomai nuo jų mobilumo, turėtų galimybę dalyvauti visuomeniniam gyvenime.
-                            <img src="/assets/nosubway/isolate.png" alt="Požeminės perėjos izoliuoja piliečius su ribotu mobilumu" />            
+                            {% asset nosubway/isolate.png alt="Požeminės perėjos izoliuoja piliečius su ribotu mobilumu" %}          
                         </p>
                     </div>
                     <div class="mt40 mb40 box">
                         <div class="center-xs">
                             <div class="col-xs-12 mb20">
-                                <img src="/assets/nosubway/social-people.png" alt="Požeminės perėjos izoliuoja piliečius su ribotu mobilumu" />
+                                {% asset nosubway/social-people.png alt="Požeminės perėjos izoliuoja piliečius su ribotu mobilumu" %}
                             </div>
                             <p class="ccol-xs-12">
                                 Fizinis neprieinamumas prie miesto aplinkos veda į socialinę ir psichologinę izoliaciją. 
@@ -497,7 +496,7 @@ description: 'apie perejas'
                         Požeminės perėjos - valdžios bejėgiškumo požymis. Kiekvienas požeminis perėjimas ne magistraliniuose keliuose - pripažinimas, jog susidoroti su dabartiniu automobilių srautu savivaldybė ne gali ir dėl menkiausio pralaidumo didinimo atskiruose sankryžose pasiruošę išleisti neadekvačius biudžetus požeminių perėjų statybai (kelių požeminių perėjų kaina gali prilygti Vilniaus gatvės rekonstrukcijos biudžetui), pagrįsdami tai rūpesčiu apie pėstijį. Be to, požeminių perėjų statyba atideda realų transporto problemos sprendimą. Pralaidumas konkrečioje vietoje padidėja, užduotį galima laikyti išspręsta, bent jau artimiausius kelerius metus, kol didėjanti automobilizacija nepareikalaus dar daugiau. O apie tai, kaip pralaidumo didinimas įtakojo sistemą bendrai ir kas bus, kai pralaidumo rezervas bus išsemtas, galvoti nepriimta. Kiek dar reikia laiko vaikštant ant grėblių, kad suprast, jog požeminių perėjų įrengimas nepadeda miestui?
                     </p>
                     <div class="col-lg-12 col-xs-12">
-                        <img class="mt10 mb20" src="/assets/nosubway/traffic_jams.jpg" alt="Požeminės perėjos neišsprendžia spusčių problemos" />
+                        {% asset nosubway/traffic_jams.jpg class="mt10 mb20" alt="Požeminės perėjos neišsprendžia spusčių problemos" %}
                     </div>
                 </div>
             </section>
@@ -510,7 +509,7 @@ description: 'apie perejas'
                             2009 metais Londono transporto departamentas paskelbė apie požeminių/viršžeminių perėjų pakeitimą į antžemines.
                             Tai daroma mažais žingsniais, bet jau yra rezultatai.
                         </p>
-                        <img src="/assets/nosubway/london.jpg" alt="Londonas uždaro požemines perėjas">
+                        {% asset nosubway/london.jpg alt="Londonas uždaro požemines perėjas" %}
                     </div>
                     <div class="mt40 col-xs-12">
                         <h2 class="bolder"> Paryžius </h2>
@@ -519,7 +518,7 @@ description: 'apie perejas'
                             patekimui į metro ir perėjimui tarp jo stočių. Tačiau, visur kitur, netgi per aštuonių juostų kelią,
                             pažymėta zebra.
                         </p>
-                        <img src="/assets/nosubway/paris.jpg" alt="Paryžius be požeminių perėjų">
+                        {% asset nosubway/paris.jpg alt="Paryžius be požeminių perėjų" %}
                     </div>
                     <div class="mt40 col-xs-12">
                         <h2 class="bolder"> Roma </h2>
@@ -527,7 +526,7 @@ description: 'apie perejas'
                             Italijos sostinė labai panaši į Paryžių - požeminės perėjos naudojamos tik patekimui į metro ir
                             gatvę visą laiką galima pereiti nesileidžiant žemyn.
                         </p>
-                        <img src="/assets/nosubway/rome.jpg" alt="Roma be požeminių perėjų">
+                        {% asset nosubway/rome.jpg alt="Roma be požeminių perėjų" %}
                     </div>
                     <div class="mt40 col-xs-12">
                         <h2 class="bolder"> Stokholmas </h2>
@@ -535,7 +534,7 @@ description: 'apie perejas'
                             Stokholme yra kelios požeminės perėjos bet jos sujungtos su išėjimu ir patekimu į metro,
                             ten yra įrengti specialus liftai, keltuvai ir eskalatoriai.
                         </p>
-                        <img src="/assets/nosubway/stockholm.jpg" alt="Stokholmas be požeminių perėjų">
+                        {% asset nosubway/stockholm.jpg alt="Stokholmas be požeminių perėjų" %}
                     </div>
                     <div class="mt40 col-xs-12">
                         <h2 class="bolder">Socialistinio bloko šalys</h2>
@@ -550,7 +549,7 @@ description: 'apie perejas'
                             centre, bet jos aptinkamos miesto miegamuosiuose rajonuose. Daugumoje atvejų jos yra sujungtos su metro ir
                             naudojamos patekimui/išėjimui iš jo kertant gatvę. Praktiškai visada alternatyvos pereiti gatve per zebrą - nėra.
                         </p>
-                        <img src="/assets/nosubway/prague.jpg" alt="Požeminės perėjos Prahoje">
+                        {% asset nosubway/prague.jpg alt="Požeminės perėjos Prahoje" %}
                     </div>
                     <div class="mt40 col-xs-12">
                         <h2 class="bolder"> Varšuva </h2>
@@ -561,7 +560,7 @@ description: 'apie perejas'
                             Šiandien Varšuva - rekordininkas pagal požeminių perėjų skaičių Lenkijoje. Kai kur, tam kad praeiti iki tramvajaus stotelės,
                             kurį yra gatvės vidury, reikia leistis žemyn.
                         </p>
-                        <img src="/assets/nosubway/varsuva.jpg" alt="Požeminės perėjos Varšuvoje">
+                        {% asset nosubway/varsuva.jpg alt="Požeminės perėjos Varšuvoje" %}
                     </div>
                     <div class="mt40 col-xs-12">
                         <h2 class="bolder"> Krokuva </h2>
@@ -572,7 +571,7 @@ description: 'apie perejas'
                             patogus žmonėms su ribotu mobilumu. 2009 metais miestas atidarė greitąjį tramvajų, patekimas į kurį yra požeme. Tačiau ir ten
                             nėra jokių laiptų - piliečiai gali lengvai ir patogiai patekti į jo stotys.
                         </p>
-                        <img src="/assets/nosubway/krakow.jpg" alt="Požeminės perėjos Krokuvoje">
+                        {% asset nosubway/krakow.jpg alt="Požeminės perėjos Krokuvoje" %}
                         <p class="mt20">
                             Visai kitoks vaizdas Naujosios Hutos rajone, jis buvo statomas pagal sovietinius standartus ir jame išliko nemažai požeminių perėjų.
                             Po to kai Lenkija įstojo į Europos Sąjunga - dauguma iš jų buvo uždarytos, o likusios pritaikytos prie riboto mobilumo žmonių poreikių.
@@ -585,7 +584,7 @@ description: 'apie perejas'
                             jas stengiasi uždaryti. Štai centrinės dalies rekonstrukcijos pavyzdys - matosi, kad gatvėje yra perėjos ženklinimas ir
                             visi naudojasi būtent ją vietoje požeminės. Šios aikštės rekonstrukcija jau baigta.
                         </p>
-                        <img src="/assets/nosubway/drezden.jpg" alt="Požeminės perėjos Drezdene">
+                        {% asset nosubway/drezden.jpg alt="Požeminės perėjos Drezdene" %}
                     </div>
                     <div class="mt20 col-xs-12">
                         <h2 class="bolder"> Pchenjanas </h2>

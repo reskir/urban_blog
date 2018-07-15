@@ -3,8 +3,8 @@ layout: post
 title:  "Wiki Blog: kaip gaminti lauko baldus greitai, pigiai ir kokybiškai"
 date:   2016-11-13 14:08:02 +0200
 categories: Dizainas
-image:  /assets/street-furniture-01.jpg
-slides: ['/assets/wiki-blog-5.jpg','/assets/wiki-blog-2.jpg','/assets/wiki-blog-3.jpg','/assets/wiki-blog-4.jpg']
+image: street-furniture-01.jpg
+slides: ['wiki-blog-5.jpg','wiki-blog-2.jpg','wiki-blog-3.jpg','wiki-blog-4.jpg']
 ---
 
 <p>Komandai iš fondo <a href="http://betterblock.org/" target="_blank">Better Block</a> šovė į galvą puiki idėja: o kas, jeigu duoti lokalių bendruomenių nariams patiems aprūpinti savo rajonus? Taip atsirado paslauga <a href="http://betterblock.org/wikiblock/" target="_blank">WikiBlock</a>, kuri padeda su medžiagom, brėžiniais, projektavimu, o paskui ir  su lauko baldu gamyba iš faneros.</p>

@@ -6,7 +6,8 @@ layout: default
         {% for post in site.posts limit:1 %}
         <article class="posts_post posts_post--hero col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <a class="" href="{{ site.url }}{{ post.url }}">
-                <div class="imageWrapper" style="background-image: url({{ site.url }}{{post.image}})">
+                <div class="imageWrapper" style="background-image: url('{{ assets[post.image].digest_path }}')">
+                <!--{% asset {{post.image}} %}-->
                 </div>
                 <div class="posts_post_info" >
                     <p class="posts_post_cat">
@@ -52,8 +53,7 @@ layout: default
             <a class="" href="{{ site.url }}{{ post.url }}">
                 <div class="card">
                     <div class="card-image">
-                        <div class="card-image--bg" style="background-image: url('{{ site.url }}{{post.image}}')">
-                        </div>
+                        {% asset {{post.image}} magick:quality=30 %}
                     </div>
                     <div class="card-tag">
                                                 {% assign cat = post.categories %}
