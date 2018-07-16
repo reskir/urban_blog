@@ -2,7 +2,7 @@
 layout: post
 title:  "Kurkime miestus žmonėms, o ne automobiliams"
 date:   2016-12-06 16:20 +0200
-image: /assets/city-for-people-2.jpg
+image: city-for-people-2.jpg
 categories: Miestas
 ---
 
@@ -14,7 +14,7 @@ rezultatais. Tyrimo rezultatai parodė, kad pats efektyviausias miesto dydis buv
 didesnis nei jie įsivaizdavo, ir jiems dar reikėjo išsiaiškinti, kiek didesnis. Mes dar
 negyvenome tokiuose didžiuliuose miestuose.</p>
 
-![Miestai žmonėms]( {{ site.url }}/assets/city-for-people.jpg)
+{% asset city-for-people.jpg alt="Miestai žmonėms" %}
 
 <p>Su šiomis išvadomis, žinoma, nesutiktų nei vienas žmogus, kuris kada nors pakėlė akis
 į viršų ir pamatė užteršto oro sūkurius, sklindančius iš miesto, plintančius ir

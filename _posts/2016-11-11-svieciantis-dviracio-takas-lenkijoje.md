@@ -3,7 +3,7 @@ layout: post
 title:  "Glow-in-the-dark: tai šviečiantis dviračio takas Lenkijoje kuris veikia nuo saulės energijos"
 date:   2016-11-11 09:54:02 +0200
 categories: Dizainas
-image:  /assets/glow-in-the-dark-1.jpg
+image: glow-in-the-dark-1.jpg
 location: Varmės Lidzbarkas
 
 ---
@@ -13,8 +13,7 @@ Visoje šalyje dviračio infrastruktūra plečiasi vis aktyviau.
 Šiaurės dalyje, netoliese nuo Varmės Lidzbarko atsirado mėlynas dviračio takas, 
 kuris naktim šviečia, o diena kraunasi nuo saulės energijos. </p>
 
-
-![Šviečiantis dviračio takas Lenkijoje]( {{ site.url }}/assets/glow-in-the-dark-2.jpg)
+{% asset glow-in-the-dark-2.jpg alt="Šviečiantis dviračio takas Lenkijoje" %}
 
 <div class="lighter smaller" style="margin:12px 0;">Nuotrauka: <br />
 TPA POLAND

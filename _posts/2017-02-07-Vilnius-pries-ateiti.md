@@ -2,7 +2,7 @@
 layout: post
 title:  "Kodėl Vilnius priešinasi ateičiai?"
 date:   2017-02-07 12:00 +0200
-image: /assets/trolleybus.jpg
+image: trolleybus.jpg
 categories: Miestas
 location: Vilnius
 ---
@@ -42,8 +42,7 @@ Minusai:
 * Reikalauja didesnių eksploatacinių išlaidų
 * Garsiai dirba
 
-
-![Zalcburgo troleibusas]( {{ site.url }}/assets/salzburg-trolleybus-2.jpg)
+{% asset salzburg-trolleybus-2.jpg alt="Zalcburgo troleibusas" %}
 <div class="lighter smaller" style="margin:12px 0;">Zalcburgo troleibusas</div>
 
 

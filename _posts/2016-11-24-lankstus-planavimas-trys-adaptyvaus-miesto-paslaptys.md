@@ -2,13 +2,12 @@
 layout: post
 title:  "Lankstus planavimas: trys adaptyvaus miesto dizaino paslaptys"
 date:   2016-11-24 19:00 +0200
-image: /assets/amplify.jpg
+image: amplify.jpg
 categories: Dizainas
 ---
 <p>
 Kaimas Afrikoje arba megapolis Niujorkas - niekas negali būti apsaugotas nuo netikėtų katastrofų ir gamtos kataklizmų. Po paskutiniųjų metų įvykių, įskaitant uraganus, cunamius ir karus, vis daugiau transporto planavimo tyrėjų prieina vienos nuomonės - miesto projektavimas turi būti nuo pat pradžių "elastiškas". Būtent tokį miesto dizainą kuria grupė <a href="//ideo.org/programs/amplify" target="_blank">Amplify</a>, kuri sugalvojo trys pagrindines taisykles pokyčiams.</p>
-
-![Lankstus miesto planavimas]( {{ site.url }}/assets/amplify.jpg)
+{% asset amplify.jpg alt="Lankstus miesto planavimas" %}
 <div class="lighter smaller" style="margin:12px 0;">
 Nuotrauka: <br />Amplify</div>
 

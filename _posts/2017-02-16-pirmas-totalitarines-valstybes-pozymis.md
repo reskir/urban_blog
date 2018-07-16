@@ -2,7 +2,7 @@
 layout: post
 title:  "Pirmas totalitarinės valstybės požymis"
 date:   2017-02-16 19:10 +0200
-image: /assets/pozemine_pereja/pozemine-pereja-pil.jpg
+image: pozemine_pereja/pozemine-pereja-pil.jpg
 categories: Supratimas
 ---
 

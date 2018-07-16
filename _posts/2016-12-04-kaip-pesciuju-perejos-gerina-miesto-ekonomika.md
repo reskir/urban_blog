@@ -2,13 +2,13 @@
 layout: post
 title:  "Kaip pėsčiųjų gatvės gerina miesto ekonomiką: 9 moksliniai faktai"
 date:   2016-12-04 11:00 +0200
-image: /assets/pedastrain-street-boston.jpg
+image: pedastrain-street-boston.jpg
 categories: Supratimas
 ---
 
 Mes tesiame pasakojimus apie Arup bendrovės tyrimus <a class="quotes" href="http://www.arup.com/walking">Gyvi miestai: kelias į pėsčiųjų pasaulį</a>. Arup atrado 50 priežasčių kurios turi didelę įtaką miesto ekonominiam efektyvumui. Šiame straipsnyje pasakosime, kokį poveikį daro pėstieji miesto ekonomikai.
 
-![Pėsčiųjų gatvė Bostone]( {{ site.url }}/assets/pedastrain-street-boston.jpg)
+{% asset pedastrain-street-boston.jpg alt="Pėsčiųjų gatvė Bostone" %}
 <div class="lighter smaller" style="margin:12px 0;">
 Nuotrauka: <br />Flickr / Christopher Porter</div>
 

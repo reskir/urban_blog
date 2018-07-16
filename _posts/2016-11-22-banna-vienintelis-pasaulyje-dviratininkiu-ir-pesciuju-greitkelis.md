@@ -2,7 +2,7 @@
 layout: post
 title:  "Baana - vienintelis pasaulyje dviratininkų ir pėsčiųjų greitkelis"
 date:   2016-11-22 19:00 +0200
-image: /assets/baana-dviratininku-greitkelis.jpg
+image: baana-dviratininku-greitkelis.jpg
 categories: Patirtis
 location: Helsinkis
 ---
@@ -10,10 +10,10 @@ location: Helsinkis
 Kol didžiausi dviratininkų miestai tik svajoja apie greitkelį miesto centre skirta dviratininkams ir pėstiesiems - Helsinkyje ši svajonė jau išsipildė.
 </p>
 
-<!-- ![Baana - vienintelis pasaulyje dviratininkų ir pėsčiųjų greitkelis]( {{ site.url }}/assets/baana-dviratininku-greitkelis.jpg)
+{% asset baana-dviratininku-greitkelis.jpg alt="Baana - vienintelis pasaulyje dviratininkų ir pėsčiųjų greitkelis" %}
 <div class="lighter smaller" style="margin:12px 0;">Nuotrauka:
 Hannu Makarainen
-</div> -->
+</div>
 
 <div class="video-container">
     <iframe src="https://player.vimeo.com/video/92816135" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

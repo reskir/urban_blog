@@ -12,7 +12,8 @@ title: This is just a placeholder post
             <div class="post-meta">
                 {% if page.location %}
                     <span class="post-meta--location">
-                        <img src="{{site.url}}/assets/location.svg"> {{page.location}}
+                        {% asset location.svg alt={{page.location}} %}
+                        {{page.location}}
                     </span>
                 {% endif %}
                 <div>

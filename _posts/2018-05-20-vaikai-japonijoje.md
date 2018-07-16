@@ -3,14 +3,13 @@ layout: post
 title:  "Kodėl vaikai Japonijoje labai anksti tampa nepriklausomais? 🇯🇵"
 date:   2018-05-20 08:10 +0300
 categories: Supratimas
-image: /assets/japan_kids/940.jpg
+image: japan_kids/940.jpg
 location: Tokijas
 ---
 
 **Japonijoje maži vaikai važinėja metro ir keliauja mieste be tėvų priežiūros.
 Tokio laisvo judėjimo priežastis mieste yra susijusi labiau su socialiniu patikimumu negu asmenine nepriklausomybe.**
-
-![Vaikas Tokijo metro]( {{ site.url }}/assets/japan_kids/940.jpg)
+{% asset japan_kids/940.jpg alt='Vaikas Tokijo metro' %}
 <div class="lighter x--pt smaller">
     Moksleivė eina viename iš Tokijo metro perėjimų / Nuotrauka: Reuters
 </div>
@@ -38,7 +37,7 @@ suprasti materialias pasekmes dėl betvarkės atsiradimo, nes tuo atveju jiems r
 Ši kultūra pereina ir į viešąsias erdves (viena iš priežasčių kodėl gatvės Japonijoje labai švarios).
 Vaikas visuomenėje žino, jog gali pasikliauti grupe kurį pagelbės nelaimės atveju.
 
-![Vaikas važiuoja Tokijo metro]( {{ site.url }}/assets/japan_kids/b12ae721b.jpg)
+{% asset japan_kids/b12ae721b.jpg alt='Vaikas važiuoja Tokijo metro' %}
 <div class="lighter x--pt smaller">
     Maža mergaitė naudojasi Tokijo metro viena / Flickr
 </div>

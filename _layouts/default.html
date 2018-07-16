@@ -6,13 +6,10 @@ layout: default
 
 <head>
     {% seo %}
-    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,900&amp;subset=latin-ext" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700&amp;subset=latin-ext" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}{{post.url}}/css/main.css?{{site.time | date: '%s%N'}}"/>
+    {% asset main.css @inline %}
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta http-equiv="Cache-control" content="public">
-    <link rel="icon" type="favicon" sizes="16x16" href="{{ site.baseurl }}/assets/favicon.ico?v2">
-    <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+    <link rel="icon" type="favicon" sizes="16x16" href="{% asset favicon.ico @path %}">
     <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -54,36 +51,6 @@ layout: default
 {{ content }}
 
 {% include footer.html %}
-
-<script>
-    // header scripts
-
-    (function() {
-        var header = document.querySelector('.header'),
-            btn = document.querySelector('.toggle-nav'),
-            menu = document.querySelector('#nav-icon1'),
-            content = document.querySelector('.content'),
-            banner = document.querySelector('.marketing-banner');
-
-        btn.addEventListener('click', function() {
-            menu.classList.toggle('open');
-            header.classList.toggle('active');
-        });
-
-        var scrollPos = 100;
-
-        window.addEventListener('scroll', _.throttle(function(e) {
-            if (window.scrollY > scrollPos) {
-                header.classList.add('hidden');
-                scrollPos = window.scrollY;
-            } else if (window.scrollY === 0 ) {
-                header.classList.remove('hidden');
-            } else if (window.scrollY < scrollPos && window.scrollY > 100) {
-                header.classList.remove('hidden');
-                scrollPos = window.scrollY;
-            }
-        }, 300));
-
-    })();
-</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+{% asset navigation.js @inline %}
 
