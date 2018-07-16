@@ -12,4 +12,5 @@ Aplinka turi didelę įtaką žmogaus gyvenimui. Nuo miesto priklauso ant kiek v
 
 Lietuvos miestai turi savo išskirtinį kelią. Tai kas veikia Olandijoje ar Vokietijoje, ne visada gali pritapti ir mūsų šalyje, tai gali įtakoti skirtingi faktoriai - kultūra, teisinė ir politinė sistema, klimatas ir kita. Tiesioginis idėjos panaudojimas - "padarykime kaip Amsterdame/Paryžiuje/Londone" - nelabai veikia. Todėl šio blog'o straipsniai labiau naudojami įkvėpimui, o ne tiesioginiam kopijavimui.
 
-{% asset about.jpg alt="troleibusas" %}
+
+![alt text](./assets/images/about.jpg "Vilnius trolley")
