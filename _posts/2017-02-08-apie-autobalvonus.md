@@ -13,13 +13,13 @@ nenoriai praleidžia pėsčiuosius. Problema tame, jog parkavimų vietų neužte
 jog jeigu vietos prie pat namo nėra tai jam galima parkuoti savo kibirą ant šaligatvio, vejos arba 
 užstatyti kitus automobilius. Kažkas nufotografavo ir įkėle KET pažeidimą, tai ir paskatino visuomenės pasipiktinimą.
 
-![Autobalvones komentaras - 1]( {{ site.url }}/assets/autobalvonai/1.png)
+{% asset autobalvonai/1.png alt="Komentaras - 1" %}
 
-![Autobalvones komentaras - 2]( {{ site.url }}/assets/autobalvonai/2.png)
+{% asset autobalvonai/2.png alt="Komentaras - 2" %}
 
-![Autobalvones komentaras - 4]( {{ site.url }}/assets/autobalvonai/5.png)
+{% asset autobalvonai/5.png alt="Komentaras - 4" %}
 
-![Autobalvones komentaras - 4]( {{ site.url }}/assets/autobalvonai/6.png)
+{% asset autobalvonai/6.png alt="Komentaras - 4" %}
 
 Autobalvonės puolė ginti savo teises (kurių nėra) į skardinių parkavimą ir jūdėjimą šaligatviu.
 Ai, ai, ai, kaip mums jų gaila (iš tikrųjų ne).
@@ -32,7 +32,7 @@ kibirui laikymui.
     "Tik saligatviu vaziuojam ne del to kad tingim 50 metru paiet, o kad nera kaip kitaip isvaziuot" - teisinasi Vilma.
 </blockquote>
 
-![balvonas - 1]( {{ site.url }}/assets/autobalvonai/balvonas-1.png)
+{% asset autobalvonai/balvonas-1.png alt="Blogai priparkuotas automobilis" %}
 
 Autobalvonai taip pat siūlo pėstiesiems trauktis kai jie, dėmesio, važiuoja šaligatviu. Šaligatviu, Karlai!
 
@@ -41,7 +41,7 @@ Autobalvonai taip pat siūlo pėstiesiems trauktis kai jie, dėmesio, važiuoja 
     traukiamio vežimo dydžio (nors ir su tuo išeitų šiaip prasilenkt)..." - pataria mums Ingrida.
 </blockquote>
 
-![balvonas - 2]( {{ site.url }}/assets/autobalvonai/pazeidimas-ket.jpg)
+{% asset autobalvonai/pazeidimas-ket.jpg alt="Blogai priparkuotas automobilis" %}
 
 O dabar paeiliui:
 
@@ -58,7 +58,7 @@ paslaugomis.
 * Miestas suinteresuotas, kad tu neturėtum automobilio ir daris viską, kad tu jo neįsigytum.
 
 
-![balvonas - 4]( {{ site.url }}/assets/autobalvonai/balvonas-5.png)
+{% asset autobalvonai/balvonas-5.png alt="Blogai priparkuotas automobilis" %}
 
 Toks yra gyvenimas. Nieko nepadarysi. Kai kurie galvoja, kad įsigydami automobilį įgauna išskirtines teises ir privilegijas.
 Juokingiausia, kad jie mano jog miestas privalo suteikti jiems parkavimo vietą. Miestas turi nemokamai atiduoti nuomai

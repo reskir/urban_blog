@@ -14,7 +14,7 @@ Pabandžiau išsiaiškinti, kodėl mūsų perėjose iki šiol žmonės yra nutre
 
 ## Nereikalingi elementai ir ryškios spalvos
 
-![Ryški ir neteisinga perėja mieste]( {{ site.url }}/assets/neteisinga-pereja.jpg)
+{% asset neteisinga-pereja.jpg alt="Ryški ir neteisinga perėja mieste" %}
 <div class="lighter smaller" style="margin:12px 0;">Ryškios spalvos atkreipia dėmesį nuo pesčiųjų</div>
 
 Kažkodėl mūsų žmonėms atrodo, kad ryškus elementai ir detalės gali padėti apsaugojant pėstįjį perėjoje. 
@@ -25,19 +25,19 @@ Dėja, visi šitie elementai tik blaško vairuotojo dėmesį ir pagrindinis per�
 Iš tiesu, taisyklinga perėja turi turėtų minimumą elementų (ypač spalvingų), tam kad vairuotojas galėtų pastebėti
 pėstįjį, o ne ženklus ar nuspalvinta zebra.
 
-![Naktinė perėja]( {{ site.url }}/assets/pesciuju_pereja_nakti-2.jpg)
+{% asset pesciuju_pereja_nakti-2.jpg alt="Naktinė perėja" %}
 <div class="lighter smaller" style="margin:12px 0;">Pėsčiųjų perėja nakty</div>
 
 Teisingai įrengta perėja turi apšviesti pėstįjį, o ne perėjos elementus.
 
 ## Greitis mieste
 
-Aš jau <a href="supratimas/2017/03/11/saugi-stotele.html">rašiau</a> apie butinybę mažinti greitį mieste - ribojant pagreitijimo zonas, įrenginėjant siauras gatves, 
+Aš jau <a href="/supratimas/2017/03/11/saugi-stotele.html">rašiau</a> apie butinybę mažinti greitį mieste - ribojant pagreitijimo zonas, įrenginėjant siauras gatves, 
 mažinant eismo juostų kiekį. Pridursiu, kad greitis prieš perėja (nesvarbu koks yra leistinas greitis gatvėje)
 neturi viršyti 20km/h. Kaip tai įgyvendinti? Pažymėti stop linijas, įrengti pagreitėjimui trukdančias priemones, siaurinti
 pravažiavimą.
 
-![Gera perėja]( {{ site.url }}/assets/gera_pereja.jpg)
+{% asset gera_pereja.jpg alt="Gera perėja" %}
 <div class="lighter smaller" style="margin:12px 0;">Perėja su ženklais virš zebros, Haga. Nuotrauka: varlamov.ru</div>
 
 

@@ -11,8 +11,7 @@ image: design_and_cities.jpg
 Miestų valdžios visame pasaulyje ieško būdų kaip padaryti miestus saugesniais. Patirtis rodo, jog projektavimas ir protingas dizainas žymiai geriau padeda pasiekti šį tikslą, negu baudos ir draudžiamieji įstatymai.
 </p>
 
-![Dviračiai, viešasis transportas - padės miestui tapti saugesniu]( {{ site.url }}/assets/design_and_cities.jpg)
-
+{% asset design_and_cities.jpg alt="Dviračiai, viešasis transportas - padės miestui tapti saugesniu" %}
 <div style="margin:12px 0;">
 	<div class="lighter smaller">
 			Nuotrauka: <br />

@@ -8,7 +8,7 @@ image: zaidimu_aiskteles/london_2.jpg
 
 ## 💩 žaidimų aikštelės Lietuvoje
 
-![Žaidimų aikštelės Lietuvoje]( {{ site.url }}/assets/zaidimu_aiskteles/lietuvos.jpg)
+{% asset zaidimu_aiskteles/lietuvos.jpg alt="Žaidimų aikštelės Lietuvoje" %}
 
 
 Lietuvos vaikams nepasisekė, jų kiemuose nėra įdomybių, erdvės užstatytos automobiliais ir spalvotais nameliais - kurie yra tik saugusiųjų iškraipyto supratimo
@@ -21,21 +21,21 @@ Vaikų žaidimas  - tai gyvenimo pažinimas, žaidimo metu jis mokosi. Mažas ž
 
 Pažiūrėkime kokios yra vaikų aikštelės kitur.
 
-![Žaidimų aikštelė Londone]( {{ site.url }}/assets/zaidimu_aiskteles/london_1.jpg)
+{% asset zaidimu_aiskteles/london_1.jpg alt="Žaidimų aikštelė Londone" %}
 <div class="lighter smaller" style="margin:0 0 24px;">Žaidimų aikštelė Londone / Nuotrauka: varlamov.ru</div>
 
 
-![Žaidimų aikštelė Londone]( {{ site.url }}/assets/zaidimu_aiskteles/london_2.jpg)
+{% asset zaidimu_aiskteles/london_2.jpg alt="Žaidimų aikštelė Londone" %}
 <div class="lighter smaller" style="margin:0 0 24px;">Žaidimų aikštelė Londone / Nuotrauka: varlamov.ru</div>
 
 
-![Žaidimų aikštelė Hamburge]( {{ site.url }}/assets/zaidimu_aiskteles/included.jpg)
+{% asset zaidimu_aiskteles/included.jpg alt="Žaidimų aikštelė Hamburge" %}
 <div class="lighter smaller" style="margin:0 0 24px;">Žaidimų aikštelė Hamburge / Nuotrauka: varlamov.ru</div>
 
 
 Viena iš kiečiausių pasaulyje žaidimo aikštelių yra Sent Luise.
 
-![Žaidimų aikštelė Sent Luise]( {{ site.url }}/assets/zaidimu_aiskteles/stlouis.jpg)
+{% asset zaidimu_aiskteles/stlouis.jpg alt="Žaidimų aikštelė Sent Luise" %}
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MyZHBp0IkUY" frameborder="0" allowfullscreen></iframe>
