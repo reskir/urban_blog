@@ -14,7 +14,7 @@ trys populiariausias vietas kuriomis kasdien keliauja miesto gyventojai - takas
 tarp gyvenamųjų namų, sankryžą, bei tvarkingą žaliąją erdvę. Dalyviai aplankė
 trys tas pačias vietas kur buvo atlikti pakeitimai.
 
-![Sankryžos Vankuveryje]( {{ site.url }}/assets/vancuver-interventions/Intersections.png)
+{% asset vancuver-interventions/Intersections.png alt="Sankryžos Vankuveryje" %}
 <div class="lighter x--pt">
     Kūrybiškai nuspalvintos sankryžos suteikia pasitikėjimo ir saugumo jausmą.
 </div>
