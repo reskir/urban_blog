@@ -47,7 +47,9 @@
         &-image {
           overflow: hidden;
           transition: all 10s linear;
-
+          img {
+            width: 100%;
+          }
           &--bg {
             height: 100%;
             background-size: cover;
@@ -148,6 +150,9 @@
   margin: 0;
   padding-top: 24px;
   padding-bottom: 24px;
+  img {
+    max-width: 100%;
+  }
   &_title {
     font-weight: bold;
     line-height: 1.5;
