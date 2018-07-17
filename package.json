@@ -10,6 +10,7 @@
     "checkhtml": "bundle exec htmlproofer ./_site --disable-external"
   },
   "pre-commit": [
+    "build",
     "checkhtml"
   ],
   "repository": {
