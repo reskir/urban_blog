@@ -11,8 +11,7 @@ Gatvės skirtos pėstiesiems — padeda kurti stipresnes bendruomenes.
 "Gyvi miestai: pakeliui į pėsčiųjų pasaulį"</a> pasakojama kaip gatvės 
 skirtos pėstiesiems keičia bendruomenių gyvenimą ir gerina santykius tarp žmonių.</b>
 
-![Pesciuju gatve san-franciske]({{ site.url }}/assets/pesciuju-gatve-san-franciske.jpg)
-
+{% asset pesciuju-gatve-san-franciske.jpg alt="Pesciuju gatve san-franciske" %}
 <div class="lighter smaller" style="margin:12px 0">Nuotrauka: NACTO
 </div>
 

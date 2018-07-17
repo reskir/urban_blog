@@ -13,7 +13,7 @@ iniciatyvos yra būtinos ir labai svarbios visuomenės raidai. Masuma Henry, buv
 agentūros <a href="https://www.artefactgroup.com/">Artefact</a> direktorė, išskyrė trys pagrindinius principus,
 kuriais būtina vadovautis projektuojant erdvę socialiniams pokyčiams.
 
-![Erdvė turi būti pritaikyta socialiniams pokyčiams]( {{ site.url }}/assets/social_changes_2.jpg)
+{% asset social_changes_2.jpg alt="Erdvė turi būti pritaikyta socialiniams pokyčiams" %}
 <div class="lighter smaller" style="margin:12px 0;">
     Nuotrauka: MUSTAFA CAGLAYAN/ANADOLU AGENCY/GETTY IMAGES
 </div>

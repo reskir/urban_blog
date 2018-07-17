@@ -19,7 +19,7 @@ Nuotraukos: Jannes Linders
 Pati įdomiausia šio projekto dalis tai šiuolaikiškai atrodantis bangos formos stogas. Jis ne tik atlieka estetinę funkciją, bet ir padeda keleiviams orientuotis stoties viduje.
 Po pačiu didžiausiu stogo bangos keteru yra traukiniai, po mažesniu - tramvajai ir autobusai.
 
-![Stogas kaip navigacija]( {{ site.url }}/utrecht_station/31.jpg)
+{% asset utrecht_station/31.jpg alt="Stogas kaip navigacija" %}
 <div class="smaller lighter" style="margin: 12px 0;">
 Nuotrauka: Jannes Linders
 </div>

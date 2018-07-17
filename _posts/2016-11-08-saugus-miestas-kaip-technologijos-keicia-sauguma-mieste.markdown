@@ -9,7 +9,7 @@ image: technology_city.jpg
 
 <p>Sensoriai ir jutikliai, kameros ir greičio matuokliai - iš visų šitų (ir daugelių kitų) prietaisų mes gauname tiek daug duomenų, kad netrukus žinosime apie miestus daug daugiau nei bet kada anksčiau. Su visomis šiomis naujovėmis policijos darbas ir kova su nusikaltimais mieste neatpažįstamai keičiasi, o patys miestai ko gero tampa žymiai saugesniais.</p>
 
-![Saugios technologijos miestui]( {{ site.url }}/assets/technology_city.jpg)
+{% asset technology_city.jpg alt="Saugios technologijos miestui" %}
 
 <div style="margin:12px 0; clear:left;">
 	<div class="fl fs12 cGray" style="width:100%;     font-size: 12px;line-height: 1.4em; color:#999">
