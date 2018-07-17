@@ -9,6 +9,9 @@
     "build": "bundle exec jekyll build",
     "checkhtml": "bundle exec htmlproofer ./_site --disable-external"
   },
+  "pre-commit": [
+    "checkhtml"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reskir/urban_blog.git"
@@ -20,5 +23,7 @@
   },
   "homepage": "https://github.com/reskir/urban_blog#readme",
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "pre-commit": "^1.2.2"
+  }
 }
