@@ -3,7 +3,7 @@ layout: video
 title:  "Kas yra gyvenimo kokybė?"
 date:   2016-11-20 09:00:00 +0200
 categories: Miestas
-image: quality-of-life.jpg
+image: bikes-amsterdam.jpg
 description: Kaip mes kūriame miestus kurie sugeba suteikti gerą gyvenimo kokybę kiekvienam? Kurie gali pritraukti talentus iš viso pasaulio, bet taip pat ir rūpintis vietiniais gyventojais?
 ---
 <div class="video-container">
