@@ -35,7 +35,7 @@ Norėtumete apsigyventi tokioje vietoje? ⛪️
 ## Ką daryti su bažnyčiomis Lietuvoje?
 
 Lietuvoje ir dabar dar aktyviai statomos naujos bažnyčios. Ar tai iš tiesų reikalinga?
-Jeigu žmonės neužtenka dabartinio skaičiaus cerkvių, mečečių, sinagogų, bažnyčių — tai būtina. Tačiau, jeigu kai kuriuo momentu pasirodys, jog bažnyčios tusčios ir žmonės jau nebalanko jų, tai jas galima būtų perduoti visuomenei ir perdaryti kitiems tikslams. Ir be abejo, rūpinantis tikinčiųjų jausmais, mes neturime pamiršti apie netikinčiųjų jausmus.
+Jeigu žmonėms neužtenka dabartinio skaičiaus cerkvių, mečečių, sinagogų, bažnyčių — tai tuo atveju būtina statyti naujas. Tačiau, jeigu kai kuriuo momentu pasirodys, jog bažnyčios tusčios ir žmonės jau nebalanko jų, tai jas galima būtų perduoti visuomenei ir perdaryti kitiems tikslams. Ir be abejo, rūpinantis tikinčiųjų jausmais, mes neturime pamiršti apie netikinčiųjų jausmus ir poreikius.
 
 
 
