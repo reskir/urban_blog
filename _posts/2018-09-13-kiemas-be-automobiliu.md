@@ -16,9 +16,9 @@ Norėčiau dar kartą priminti, jog kieme jokio parkavimo neturėtų būti. Kiem
 
 > _Dabar statistinis lietuvis galėtų pradėti pyktintis, dėl to kad jis galvoja jog parkavimas po langais yra jo prigimtinė teisė. Deja, teks nuliūdinti — parkavimas visada yra mokamas, nors dabar tai gali atrodyti kitaip._
 
-Perkant lizinginę skardinę jus patys turite pasirūpinti jos laikymosi — įsigyti garažą, parkavimo vietą. Daugelyje valstybėse žmonės negali įsigyti automobilio, dėl to jog neturiu galimybės kur jį laikyti. Pas mus žmogus, kuriam patvirtino kreditą, "be galvos" bėga įsigyti savo išsvajotą automobilį negalvojant apie nieką.
+Perkant lizinginę skardinę jus patys turite pasirūpinti jos laikymu — įsigyti garažą arba parkavimo vietą. Daugelyje valstybėse žmonės negali įsigyti automobilio, dėl to, jog neturi galimybės kur jį laikyti. Pas mus žmogus, kuriam patvirtino kreditą, "be galvos" bėga įsigyti savo išsvajotą automobilį negalvojant apie nieką.
 
-**Įsigijai automobilį — įsigyk parkavimo vietą arba nusipirk garažą.** Jeigu sukaupei pinigų senam arba naujam automobiliui tai įsigyk vieta kur jį laikysi. Neturi tam pinigų? Tuomet išsinuomok.
+**Įsigijai automobilį — įsigyk parkavimo vietą arba nusipirk garažą.** Jeigu sukaupei pinigų automobiliui tai įsigyk vieta kur jį laikysi. Neturi tam pinigų? Tuomet išsinuomok.
 
 Tiek to, šiek tiek parkavimo vietų kieme galima palikti, bet jas visas reikėtų apmokestinti. **Parkavimas kieme, jeigu jis yra, turi būti mokamas** 💰. Tie gyventojai kurie retai naudojasi automobiliu turėtų mokėti didžiausią kainą — tarkim, tarifas nuo 19 iki 8 valandos ryto turėtų būti žemas, o kitų laikų — didelis. Idealiausiai, jog parkavimas tik ne daugiau kaip vienai valandai būtų nemokamas — išsikrauti prekes, paimti močiūtę, išleisti vaikus.
 
