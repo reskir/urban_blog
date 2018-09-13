@@ -33,7 +33,7 @@ Visus pinigus uždirbtus iš parkavimo reikėtų investuoti į kiemo gerbūvį �
     Nuotrauka varlamov.ru
 </div>
 
-Kaip galėtų atrodyti kiemas be automobilių:
+Kaip gali atrodyti kiemas be automobilių: 
 
 {% asset kiemas-be-automobiliu-4.jpg alt="Kiemas be automobilių" %}
 
