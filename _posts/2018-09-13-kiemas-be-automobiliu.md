@@ -14,8 +14,6 @@ Facebook pranešime meras <a href="https://www.facebook.com/241476215897790/phot
 
 Norėčiau dar kartą priminti, jog kieme jokio parkavimo neturėtų būti. Kiemas — tai vieša erdvė, kurioje gyventojai leidžia laisvalaikį, kepa mesainius ar daržoves ant grotelių, žaidžia badmintoną, deginasi ant saulės, važinėja dviračiais, daro mankštas ir kt. Kiemas — tai vieta poilsiui, o ne parkingas! **Parkavimas kiemuose turėtų būti uždraustas arba labai stipriai apribotas.**
 
-> _Dabar statistinis lietuvis galėtų pradėti pyktintis, dėl to kad jis galvoja jog parkavimas po langais yra jo prigimtinė teisė. Deja, teks nuliūdinti — parkavimas visada yra mokamas, nors dabar tai gali atrodyti kitaip._
-
 Perkant lizinginę skardinę jus patys turite pasirūpinti jos laikymu — įsigyti garažą arba parkavimo vietą. Daugelyje valstybėse žmonės negali įsigyti automobilio, dėl to, jog neturi galimybės kur jį laikyti. Pas mus žmogus, kuriam patvirtino kreditą, "be galvos" bėga įsigyti savo išsvajotą automobilį negalvojant apie nieką.
 
 **Įsigijai automobilį — įsigyk parkavimo vietą arba nusipirk garažą.** Jeigu sukaupei pinigų automobiliui tai įsigyk vieta kur jį laikysi. Neturi tam pinigų? Tuomet išsinuomok.
