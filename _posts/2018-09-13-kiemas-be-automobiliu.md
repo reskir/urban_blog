@@ -2,7 +2,7 @@
 layout: post
 title: "Kiemas parkavimo aikštelė?"
 date: 2018-09-13 08:10 +0300
-categories: Erdvė
+categories: Erdves
 image: kiemas-be-automobiliu-cover.jpg
 ---
 
