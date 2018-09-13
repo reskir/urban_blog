@@ -8,7 +8,7 @@ image: kiemas-be-automobiliu-cover.jpg
 
 Neseniai Vilniaus meras Remigijus Šimašius paskelbė žinią, jog kiemuose atsiras daugiau parkavimo vietų — padengiant išvažinėta veją koriais.
 
-Facebook pranešime meras <a href="https://www.facebook.com/241476215897790/photos/a.385095154869228/2079615292083864/?type=3&permPage=1">nuogąstavo</a>, kad jam labai sunku surasti laisvą vietą kieme, sukiotis ir ieškoti laisvo plotelio prie pat laiptinės ir bandė pateisinti bei suprasti tuos vilniečius kurie pažeidinėja KET statant savo automobilius ant žolės.
+Facebook pranešime meras <a href="https://www.facebook.com/241476215897790/photos/a.385095154869228/2079615292083864/?type=3&permPage=1">nuogąstavo</a>, kad jam labai sunku surasti laisvą vietą kieme, sukiotis ir ieškoti laisvo plotelio prie pat laiptinės ir bandė pateisinti bei suprasti tuos vilniečius kurie pažeidinėja KET statant savo automobilius ant žolės arba šaligatvio.
 
 {% asset face-palm.gif magick:quality=10 alt="Kiemas be automobilių" %}
 
