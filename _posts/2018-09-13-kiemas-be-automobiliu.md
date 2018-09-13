@@ -10,7 +10,7 @@ Neseniai Vilniaus meras Remigijus Šimasius paskelbė žinią, jog kiemuose atsi
 
 Facebook pranešime meras <a href="https://www.facebook.com/241476215897790/photos/a.385095154869228/2079615292083864/?type=3&permPage=1">nuogąstavo</a>, kad jam labai sunku surasti laisvą vietą kieme, sukiotis ir ieškoti laisvo plotelio prie pat laiptinės ir bandė pateisinti bei suprasti tuos vilniečius kurie pažeidinėja KET statant savo automobilius ant žolės.
 
-{% asset face-palm.gif alt="Kiemas be automobilių" %}
+{% asset face-palm.gif magick:quality=10 alt="Kiemas be automobilių" %}
 
 Norėčiau dar kartą priminti, jog kieme jokio parkavimo neturėtų būti. Kiemas - tai vieša erdvė, kurioje gyventojai leidžia laisvalaikį, kepa mesainius ar daržoves ant grotelių, žaidžia badmintoną, deginasi ant saulės, važinėja dviračiais, daro mankštas ir kt. Kiemas — tai vieta poilsiui, o ne parkingas! **Parkavimas kiemuose turėtų būti uždraustas arba labai stipriai apribotas.**
 
@@ -32,3 +32,13 @@ Visus pinigus uždirbtus iš parkavimo reikėtų investuoti į kiemo gerbūvį �
 <div class="lighter x--pt smaller">
     Nuotrauka varlamov.ru
 </div>
+
+Kaip galėtų atrodyti kiemas be automobilių:
+
+{% asset kiemas-be-automobiliu-4.jpg alt="Kiemas be automobilių" %}
+
+{% asset kiemas-be-automobiliu-5.jpg alt="Kiemas be automobilių" %}
+
+{% asset kiemas-be-automobiliu-6.jpg alt="Kiemas be automobilių" %}
+
+{% asset kiemas-be-automobiliu-7.jpg alt="Kiemas be automobilių" %}
