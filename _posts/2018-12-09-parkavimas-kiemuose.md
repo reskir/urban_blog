@@ -19,4 +19,4 @@ Dažnas vaizdas grįžtant vakare namo – chaotiškai išmėtyti automobiliai, 
 
 ## Pasirinkimo galimybės
 
-Miestas vietoj investicijų į kiemų asfaltą – privalo suteikti patogų ir greitą viešąjį transportą kuris nenusileistų asmeniniam transportui pagal susisiekimo galimybes mieste, įrengti alternatyvaus judėjimo infrastruktūrą (dviračiams, paspirtukams ir kitom transporto priemonėm). Taip pat miestas turėtų kontruoliuoti ir administruoti parkavimo taisyklių laikymąsį, operatyviai bausti nedrausmingus vairuotojus, rinkti mokesčius.
+Miestas vietoj investicijų į kiemų asfaltą – privalo suteikti patogų ir greitą viešąjį transportą kuris nenusileistų asmeniniam transportui pagal susisiekimo galimybes mieste, įrengti alternatyvaus judėjimo infrastruktūrą (dviračiams, paspirtukams ir kitom transporto priemonėm). Taip pat miestas turėtų kontroliuoti ir administruoti parkavimo taisyklių laikymąsi, operatyviai bausti nedrausmingus vairuotojus, rinkti mokesčius.
