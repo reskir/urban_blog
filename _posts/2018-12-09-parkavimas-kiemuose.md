@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "Įgimta teisė į nemokamą parkavimą"
+description: Neretas Lietuvos gyventojas, o ypač tas kuris gyvena mieste, gyvena su mintimi jog turi įgimtą teisę į nemokamą parkavimą šalia namų. Dėja, bet automobilio įsigyjimas dar nesuteikia nemokamų asfaltuotų 9 kvadratinių metrų šalia laiptinės, o už bendrą "nemokamą" parkavimą susimoka visi gyventojai, net ir tie kurie nesinaudoja asmeniniu automobiliu.
 date: 2018-12-09 20:10 +0200
 categories: Supratimas
 image: parkavimas_kieme.jpg
 ---
+
 {% asset parkavimas_kieme.jpg alt="Nemokamas parkavimas kieme" %}
 
 Neretas Lietuvos gyventojas, o ypač tas kuris gyvena mieste, gyvena su mintimi jog turi įgimtą teisę į nemokamą parkavimą šalia namų. Dėja, bet automobilio įsigyjimas dar nesuteikia nemokamų asfaltuotų 9 kvadratinių metrų šalia laiptinės, o už bendrą "nemokamą" parkavimą susimoka visi gyventojai, net ir tie kurie nesinaudoja asmeniniu automobiliu.
-
 
 ## Tavo automobilis – tavo problema
 
