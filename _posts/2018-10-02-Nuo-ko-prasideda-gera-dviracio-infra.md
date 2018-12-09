@@ -6,7 +6,7 @@ categories: Supratimas
 image: bicycle-parking.jpg
 ---
 
-Viena iš esminės dviračių infrastruktūros dalis – tai laikymas ir saugojimas. Kai reikia mieste įveikti atstumą 6 - 8 kilometrų spindulyje, pvz. apsipirkti šalia namų, aplankyti daktarą rajono poliklinikoje ar atlikti kitus kasdienius reikalus, greičiausiai ir patogiausiai būtų naudoti dviratį, tačiau dažnai atsisakome kelionės šia transporto priemone, kai pagalvojame apie tai kiek reikia atlikti veiksmų tam, kad pradėtume judėti, ypač jeigu gyvename daugiabutyje. Patogiai ir saugiai laikyti dviratį mieste šiuo metu gali ne visi jo gyventojai ir dauguma viešų vietų neturi patogių parkavimo vietų skirtų dviračiams, tačiau situacija mieste kasmet gerėja, jau Vilniuje pradedami aktyviai įrenginėti "U" formos rėmo stovai kurie puikiai tinka trumpalaikiam dviračio saugojimui.
+Viena iš esminių dviračių infrastruktūros dalių – tai laikymas ir saugojimas. Kai mieste reikia įveikti 6 - 8 kilometrų atstumą – greičiausiai ir patogiausiai būtų naudoti dviratį, tačiau dažnai atsisakome kelionės šia transporto priemone, kai pagalvojame apie tai kiek reikia atlikti veiksmų tam, kad pradėtume judėti, ypač jeigu gyvename daugiabutyje. Patogiai ir saugiai laikyti dviratį mieste šiuo metu gali ne visi jo gyventojai ir dauguma viešų vietų neturi patogių parkavimo vietų skirtų dviračiams, tačiau situacija mieste kasmet gerėja, jau Vilniuje pradedami aktyviai įrenginėti apverstos "U" formos rėmo stovai kurie puikiai tinka trumpalaikiam dviračio saugojimui.
 
 {% asset bicycle-rack-vilnius.jpg width="400" alt="U formos dviračio stovas" %}
 
