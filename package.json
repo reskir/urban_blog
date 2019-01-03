@@ -1,11 +1,11 @@
 {
-  "name": "Urbanistas",
+  "name": "urbanistas",
   "version": "1.0.0",
   "description": "blogas apie miestą",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "bundle exec jekyll serve --watch --livereload",
+    "dev": "bundle exec jekyll serve --watch",
     "build": "bundle exec jekyll build",
     "checkhtml": "bundle exec htmlproofer ./_site --disable-external"
   },
