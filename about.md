@@ -40,7 +40,8 @@ navigation_weight: 5
         {% asset me-2.jpg alt="Apie mane" class="about-image x--pv" %}
         <h2> Mes socialiniuose tinkluose </h2>
         <div class="x--pv">
-            {% include fb_like_page.html %}
+            <script async src="https://telegram.org/js/telegram-widget.js?5" data-telegram-post="urbanistas/3" data-width="100%"></script>
+            <!-- {% include fb_like_page.html %} -->
         </div>
     </div>
 
