@@ -5,6 +5,15 @@ layout: default
 <html lang="lt">
 
 <head>
+    {% if page.image %}
+        <meta property="og:image" content="{{site.url}}{{ assets[page.image].digest_path }}" />
+        {% if page.image.height %}
+            <meta property="og:image:height" content="{{site.url}}{{ assets[page.image].height }}" />
+        {% endif %}
+        {% if page.image.width %}
+            <meta property="og:image:width" content="{{site.url}}{{ assets[page.image].width }}" />
+        {% endif %}
+    {% endif %}
     {% seo %}
     {% asset main.css @inline %}
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -26,15 +35,6 @@ layout: default
         ga('create', 'UA-87617849-1', 'auto');
         ga('send', 'pageview');
     </script>
-    {% if page.image %}
-            <meta property="og:image" content="{{site.url}}{{ assets[page.image].digest_path }}" />
-        {% if page.image.height %}
-            <meta property="og:image:height" content="{{site.url}}{{ assets[page.image].height }}" />
-        {% endif %}
-        {% if page.image.width %}
-            <meta property="og:image:width" content="{{site.url}}{{ assets[page.image].width }}" />
-        {% endif %}
-  {% endif %}
 </head>
 <div id="fb-root"></div>
 <script>
