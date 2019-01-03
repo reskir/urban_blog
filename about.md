@@ -1,37 +1,47 @@
 ---
-layout: page
+layout: about
 title: Apie ką mes čia?
 permalink: /apie/
 navigation_weight: 5
 ---
 
-<h2> Apie ką šis blogas? </h2>
+<div class="row top-lg">
+    <div class="col-lg-7 col-md-7 col-xs-12">
+        <h2> Apie ką šis blogas? </h2>
 
-<p> Apie miestus, jų gyvenimą, žmones ir technologijas kurie keičia visuomenę ir jos erdvę. </p>
+        <p> Apie miestus, jų gyvenimą, žmones ir technologijas kurie keičia visuomenę ir jos erdvę. </p>
 
-<h2> Kodėl tai yra svarbu? </h2>
+        <h2> Kodėl tai yra svarbu? </h2>
 
-<p> Aplinka turi didelę įtaką žmogaus gyvenimui. Nuo miesto priklauso ant kiek visuomenė yra integruota į jo gyvenimą, kaip yra patogu "naudotis" miestu tiek jo gyventojams, tiek ir atvykstantiems svečiams. Kaip padaryti taip, kad miestas būtų patrauklus, ekonomiškai efektyvus ir patogus gyventi.
-</p>
+        <p> Aplinka turi didelę įtaką žmogaus gyvenimui. Nuo miesto priklauso ant kiek visuomenė yra integruota į jo gyvenimą, kaip yra patogu "naudotis" miestu tiek jo gyventojams, tiek ir atvykstantiems svečiams. Kaip padaryti taip, kad miestas būtų patrauklus, ekonomiškai efektyvus ir patogus gyventi.
+        </p>
 
-<h2> Gerai, o kaip tai galima pritaikyti Lietuvos miestuose? </h2>
+        <h2> Gerai, o kaip tai galima pritaikyti Lietuvos miestuose? </h2>
 
-<p> 
-Lietuvos miestai turi savo išskirtinį kelią. Tai kas veikia Olandijoje ar Vokietijoje, 
-ne visada gali pritapti ir mūsų šalyje, tai gali įtakoti skirtingi faktoriai - kultūra, 
-teisinė ir politinė sistema, klimatas ir kita.
-Tiesioginis idėjos panaudojimas - "padarykime kaip Amsterdame" - nelabai veikia.
-</p>
+        <p>
+        Lietuvos miestai turi savo išskirtinį kelią. Tai kas veikia Olandijoje ar Vokietijoje,
+        ne visada gali pritapti ir mūsų šalyje, tai gali įtakoti skirtingi faktoriai - kultūra,
+        teisinė ir politinė sistema, klimatas ir kita.
+        Tiesioginis idėjos panaudojimas - "padarykime kaip Amsterdame" - nelabai veikia.
+        </p>
 
-<h2> Koks projekto tikslas? </h2>
+        <h2> Koks projekto tikslas? </h2>
 
-<p> Pagrindinis projekto tikslas - sukurti platformą diskusijom, idėjom - kaip galėtų atrodyti ir keistis
-Lietuvos miestai.</p>
+        <p> Pagrindinis projekto tikslas - sukurti platformą diskusijom, idėjom - kaip galėtų atrodyti ir keistis
+        Lietuvos miestai.</p>
 
-<h2> Mes socialiniuose tinkluose </h2>
-<div class="x--pv">
-    {% include fb_like_page.html %}
-</div>
-{% asset about.jpg class="about-image" alt="troleibusas" %}
-<div class="lighter smaller" style="margin:12px 0;">Nuotrauka: <br /> Liudas Parulskis					
+
+        <!-- {% asset about.jpg class="about-image" alt="troleibusas" %} -->
+        <!-- <div class="lighter smaller" style="margin:12px 0;">Nuotrauka: <br /> Liudas Parulskis
+        </div> -->
+    </div>
+
+    <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-xs-6">
+        {% asset me-2.jpg alt="Apie mane" class="about-image x--pv" %}
+        <h2> Mes socialiniuose tinkluose </h2>
+        <div class="x--pv">
+            {% include fb_like_page.html %}
+        </div>
+    </div>
+
 </div>
