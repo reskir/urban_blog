@@ -38,7 +38,8 @@ navigation_weight: 5
 
     <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-xs-12">
         {% asset me-2.jpg alt="Apie mane" class="about-image x--pv" %}
-        <h2> Mes socialiniuose tinkluose </h2>
+        <h2> Prisijunkite prie mūsų telegram kanalo </h2>
+        <p class="lighter smaller about-social-text"> Ten mes kalbam apie urbanistika ir ne tik</p>
         <div class="x--pv">
             <script async src="https://telegram.org/js/telegram-widget.js?5" data-telegram-post="urbanistas/3" data-width="100%"></script>
             <!-- {% include fb_like_page.html %} -->
