@@ -31,7 +31,7 @@ navigation_weight: 5
         <h2> Koks projekto tikslas? </h2>
 
         <p> Pagrindinis projekto tikslas - sukurti platformą diskusijom, idėjom - kaip galėtų atrodyti ir keistis
-        Lietuvos miestai.</p>
+        Lietuvos miestai, edukuoti ir platinti žinias apie urbanistiką.</p>
 
 
         <!-- {% asset about.jpg class="about-image" alt="troleibusas" %} -->
