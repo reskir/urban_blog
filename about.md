@@ -40,13 +40,12 @@ navigation_weight: 5
     </div>
 
     <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-xs-12">
-        {% asset me-2.jpg alt="Apie mane" class="about-image x--pv" %}
+        {% asset me-2.jpg magick:quality=50  alt="Apie mane" class="about-image x--pv" %}
         <div class="lighter smaller">Čia aš nustebęs nuo eglučių kiekio naujam Talino rajone</div>
         <h2> Prisijunkite prie mūsų telegram kanalo </h2>
         <p class="lighter smaller about-social-text"> Ten aš rašau apie urbanistiką ir ne tik</p>
         <div class="x--pv">
             <script async src="https://telegram.org/js/telegram-widget.js?5" data-telegram-post="urbanistas/3" data-width="100%"></script>
-            <!-- {% include fb_like_page.html %} -->
         </div>
     </div>
 
