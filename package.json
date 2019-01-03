@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "bundle exec jekyll serve --watch",
+    "dev": "bundle exec jekyll serve --watch --livereload",
     "build": "bundle exec jekyll build",
     "checkhtml": "bundle exec htmlproofer ./_site --disable-external"
   },
