@@ -5,7 +5,7 @@ permalink: /apie/
 navigation_weight: 5
 ---
 
-<div class="row top-lg">
+<div class="row top-lg mb40">
     <div class="col-lg-7 col-md-7 col-xs-12">
         <h2> Apie ką šis blogas? </h2>
 
