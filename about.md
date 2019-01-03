@@ -32,6 +32,6 @@ Lietuvos miestai.</p>
 <div class="x--pv">
     {% include fb_like_page.html %}
 </div>
-{% asset about.jpg alt="troleibusas" %}
+{% asset about.jpg class="about-image" alt="troleibusas" %}
 <div class="lighter smaller" style="margin:12px 0;">Nuotrauka: <br /> Liudas Parulskis					
 </div>
