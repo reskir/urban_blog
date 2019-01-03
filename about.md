@@ -36,7 +36,7 @@ navigation_weight: 5
         </div> -->
     </div>
 
-    <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-xs-6">
+    <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-xs-12">
         {% asset me-2.jpg alt="Apie mane" class="about-image x--pv" %}
         <h2> Mes socialiniuose tinkluose </h2>
         <div class="x--pv">
