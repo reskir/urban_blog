@@ -153,6 +153,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  autoprefixer-rails
   github-pages-health-check
   html-proofer
   image_optim (~> 0.26)
