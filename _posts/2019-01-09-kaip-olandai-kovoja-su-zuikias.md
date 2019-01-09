@@ -3,20 +3,18 @@ layout: post
 title: "Kaip olandai kovoja su 'zuikiais'"
 date: 2019-01-09 18:10 +0200
 categories: Supratimas
-image: amsterdam-central.jpg
+image: amsterdam-tranzit-cover.jpg
 ---
 
 **Olandų traukinių ir autobusų sistemoje išbandomi nauji būdai sustabdyti vengiančius mokėti už bilietus, kitaip dar vadinamuosius „zuikius“, į mokius klientus.**
 
-{% asset amsterdam-central.jpg %}
+{% asset amsterdam-central.jpg alt="olandai mažina zuikių kiekį" %}
 
 Kaip viešasis transportas gali be vargo susigrumti su vengiančiais mokėti už bilietus keleiviais? Iki šiol nebuvo sukurta universalaus sprendimo būdo keliautojams neturintiems viešojo transporto bilieto, tačiau gal bilietų panaikinimas kaip Liuksemburge išspręstų problemą? Pasaulyje įvairios tranzito kompanijos naudoja įvairias bilietų tikrinimo strategijas – nuo mechanizuotų bilietų pažymėjimo prietaisų, sukamųjų kryžminių užtvarų iki bilietų inspektorių. Tačiau kiekvienas būdas turi savo neigiamų aspektų, kuriais naudojasi pažeidėjai.
 
 Praėjusiais metais olandai pristatė inovatyvius metodus padedančius kovoti su senosiomis problemomis. Sėkmės susilaukė Nyderlandų nacionalinis geležinkelių vežėjo Nederlandse Spoorwegen (NS) sprendimas mažinti bilietų kainą ir tokiu būdu išvengti neigiamo požiūrio į naują metodą, kuris žavi paprastumu – uždaryti visus įėjimus ir į stotį patekti tik su bilietu.
 
 Tuo tarpu Olandijos miestas Almere pasirinko kitą sprendimo būdą – vietoje baudos susimokėti už tranzitinius bilietus. Jie nori "zukius" paversti mokiais klientais, priversdami juos mokėti už pravažiavimą vietoje baudos. Iš pirmo žvilgsnio, abi schemos atrodo šiek tiek skirtingos, tačiau pagrindinė idėja išlieka ta pati - mažiau kreipti dėmesį į vengiančius mokėti už bilietą keleivius, bei sumažinti konfrontacijas su jais, vis dėl to keleiviai, nors ir be bilieto, yra suinteresuoti naudotis viešuoju transportu.
-
-<!-- pirmenybę teikti prevencijai galimiems agresiviems konfilktams su klientais, kurie vienu ar kitu atžvilgiu nori pasinaudoti keliavimo paslauga. -->
 
 Galima manyti, kad tai tinkamas požiūris, nes keliavimas be bilieto daro žalą kompanijoms, kurios užsiėma pervežimu, o tuo pačiu lieka nepatenkinti keleiviai, kurie nusipirko bilietą. Aišku, taikyti šio pavyzdžio visai daugumai negalime kai tuo tarpu Šiaurės Europos šalių viešasis transportas skiriasi ir yra paremtas kitokiu principu. Pavyzdžiui, Berlyno viešajame transporte yra pritaikytas sąžiningumo principas (bilietų patikrinimas vyksta nepranešus iš anksto transporto priemonės viduje, iš esmės kaip ir pas mus), kurioje bauda už važiavimą be bilieto atitinka 3-5 procentus kelionių, kuriose keleiviai nesumokėjo už bilietą. Žvelgiant iš šios perspektyvos, biudžetas neviršijamas ir sutaupoma pinigų įrenginių įmontavimui, bei priežiūrai.
 
@@ -29,3 +27,10 @@ Poveikis buvo dramatiškas. Praėjusiais metais smurto incidentų skaičius olan
 Tačiau vis dar išlieka neįgiamas šalutinis poveikis – žmonės, be intencijos keliauti ir bilieto, yra apriboti stotyse, kurios daugumuose Europos miestuose yra didžiausios ir šilčiausios pastogės su viešuoju prieinamumu. Europoje, kaip ir JAV, apsaugos darbuotojai, bei policija jau nuo senųjų laikų veja benamius iš stoties. Naujai pastatyti vartai dar labiau apribos prieinamumą prie šių erdvių – taip jos taps dar labiau nepageidaujamos kai kuriems gyventojams ieškantiems prieglobsčio. Tokiu atveju stotys tampa kvasi–privatizuotos, nors visada buvo laikomos kaip bendros viešosios erdvės.
 
 Dar viena olandų viešojo transporto kompanija pasirenka kitą strategiją. Almeros miestas, su 200,000 gyventojų esantis šalia Amstardamo, vietoje baudų keleiviams kurie neapmoko kelionių, jie aktyviai bando grąžinti ir skatinti juos naudotis viešuoju transportu.
+
+Transporto kompanija „Keolis“ tai daro atsisakydama tiesioginių baudų už mokesčių vengimą. Viešasis transportas Almere mieste nėra nemokamas - keleiviai vis dar privalo mokėti. Dar yra laukiamas miesto tarybos pritarimas, tačiau bet kuris asmuo, kuris buvo pagautas be bilieto, jau nebebus baudžiamas 50 eurų bauda, kaip tai buvo daroma ankščiau. Jie bus priversti įsigyti "baudos paketą" kuris kainuos 35 eurus. Šiame pakete (kartu su informacija apie tai, kaip nusipirkti bilietą) yra kortelė, kurį bus papildyta dar dešimčia kelionių.
+
+Vis dėl to egzistuoja įvairių rūšių baudos (stardartinė 10-ies kelionių kortelė kainuoja €12,50),tačiau tai taip pat siunčia svarbią žinutę – įstatymo pažeidėjai yra laukiami, jei susimoka. Toks išsigelbejimas veikia tik vieną kartą. Kiekvienas, kuris prasižengė yra prašomas apmokėti €35 baudą, tačiau dar kartą pagautas keleivis jau privalės mokėti seną baudos kainą, kurį jau bus €50. Beje, tokio pozityvaus žingsnio sukurimas yra gan pragmatiškas. Mažas pajamas generuojantys miestas, kuriame yra didesnis nei vidutinis keleivių be bilietų skaičius, yra tikslinga pabandyti paversti "zuikius" į bilietų pirkėjus.
+
+Apibendrinat, Almere miesto politika yra panaši į tą, kurią taiko Olandų geležinkeliai –
+įdiegia kliūtys kurie mažina įtampą keliančių situacijų atsiradimo tikimybę, bei daro viešojo tranzito sistemą taikesnę ir saugesnę visiems keleiviams. Tai yra požiūris vertas apmąstymo. Sėkmingas nusikaltimo nustatymas yra naudingas, tačiau dar geriau sukurti tokią situaciją, kai toks nusikaltimas apskritai yra neįmanomas.
