@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Olandų kova prieš \"zuikius\" – kaip padaryti viešąjį transportą patrauklesnių"
+title: 'Olandų kova prieš "zuikius" – kaip padaryti viešąjį transportą patrauklesnių'
 date: 2019-01-09 18:10 +0200
 categories: Supratimas
 image: amsterdam-central.jpg
@@ -48,7 +48,7 @@ Transporto kompanija „Keolis“ tai daro atsisakydama tiesioginių baudų už 
 
 Vis dėl to egzistuoja įvairių rūšių baudos (standartinė 10-ies kelionių kortelė kainuoja €12,50),tačiau tai taip pat siunčia svarbią žinutę – įstatymo pažeidėjai yra laukiami, jei susimoka. Toks išsigelbėjimas veikia tik vieną kartą. Kiekvienas, kuris prasižengė yra prašomas apmokėti €35 baudą, tačiau dar kartą pagautas keleivis jau privalės mokėti seną baudos kainą, kurį jau bus €50. Beje, tokio pozityvaus žingsnio sukūrimas yra gan pragmatiškas. Mažas pajamas generuojantys miestas, kuriame yra didesnis nei vidutinis keleivių be bilietų skaičius, yra tikslinga pabandyti paversti “zuikius” į bilietų pirkėjus.
 
-Apibendrinat, Almere miesto politika yra panaši į tą, kurią taiko Olandų geležinkeliai – įdiegia kliūtys kurie mažina įtampą keliančių situacijų atsiradimo tikimybę, bei daro viešojo tranzito sistemą taikesnę ir saugesnę visiems keleiviams. Tai yra požiūris vertas apmąstymo. Sėkmingas nusikaltimo nustatymas yra naudingas, tačiau dar geriau sukurti tokią situaciją, kai toks nusikaltimas apskritai yra neįmanomas.
+Apibendrinat, Almere miesto politika yra panaši į tą, kurią taiko Olandų geležinkeliai – įdiegia kliūtys kurie mažina įtampą keliančių situacijų atsiradimo tikimybę, bei daro viešojo tranzito sistemą taikesnę ir saugesnę visiems keleiviams. Sėkmingas nusikaltimo nustatymas yra naudingas, tačiau dar geriau sukurti tokią situaciją, kai toks nusižengimas apskritai yra neįmanomas.
 
 <div class="smaller mt20">
 Straipsnio originalas: <a href="//www.citylab.com/transportation/2019/01/fare-calculator-dutch-transit-enforcement-rail-bus-tickets/579715/"> CityLab.com</a>
