@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Kaip olandai kovoja su 'zuikiais'"
+title: "Olandų kova prieš \"zuikius\" – kaip padaryti viešąjį transportą patrauklesnių"
 date: 2019-01-09 18:10 +0200
 categories: Supratimas
-image: amsterdam-tranzit-cover.jpg
+image: amsterdam-central.jpg
 ---
 
 **Olandų traukinių ir autobusų sistemoje išbandomi nauji būdai sustabdyti vengiančius mokėti už bilietus, kitaip dar vadinamuosius „zuikius“, į mokius klientus.**
