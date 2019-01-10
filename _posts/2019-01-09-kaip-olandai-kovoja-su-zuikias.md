@@ -14,8 +14,6 @@ image: amsterdam-central.jpg
     Pirk bilietą, gauk kelionę. Elektroniniai vartai Amsterdamo stotyje ribojo "zuikių" pateikimą. Nuotrauka: Yves Herman/Reuters
 </div>
 
-Kaip viešasis transportas gali be vargo susigrumti su vengiančiais mokėti už bilietus keleiviais? Iki šiol nebuvo sukurta universalaus sprendimo būdo keliautojams neturintiems viešojo transporto bilieto, tačiau gal bilietų panaikinimas kaip Liuksemburge išspręstų problemą? Pasaulyje įvairios tranzito kompanijos naudoja įvairias bilietų tikrinimo strategijas – nuo mechanizuotų bilietų pažymėjimo prietaisų, sukamųjų kryžminių užtvarų iki bilietų inspektorių. Tačiau kiekvienas būdas turi savo neigiamų aspektų, kuriais naudojasi pažeidėjai.
-
 Praėjusiais metais olandai pristatė inovatyvius metodus padedančius kovoti su senosiomis problemomis. Sėkmės susilaukė Nyderlandų nacionalinis geležinkelių vežėjo Nederlandse Spoorwegen (NS) sprendimas mažinti bilietų kainą ir tokiu būdu išvengti neigiamo požiūrio į naują metodą, kuris žavi paprastumu – uždaryti visus įėjimus ir į stotį patekti tik su bilietu.
 
 Tuo tarpu Olandijos miestas Almere pasirinko kitą sprendimo būdą – vietoje baudos susimokėti už tranzitinius bilietus. Jie nori “zuikius” paversti mokiais klientais, priversdami juos mokėti už pravažiavimą vietoje baudos. Iš pirmo žvilgsnio, abi schemos atrodo šiek tiek skirtingos, tačiau pagrindinė idėja išlieka ta pati - mažiau kreipti dėmesį į vengiančius mokėti už bilietą keleivius, bei sumažinti konfrontacijas su jais, vis dėl to keleiviai, nors ir be bilieto, yra suinteresuoti naudotis viešuoju transportu.
