@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Olandų kova prieš "zuikius" – kaip padaryti viešąjį transportą patrauklesnių'
+title: 'Olandų kova prieš "zuikius" – kaip padaryti viešąjį transportą patrauklesnį'
 date: 2019-01-09 18:10 +0200
 categories: Supratimas
 image: amsterdam-central.jpg
