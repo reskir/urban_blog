@@ -23,6 +23,8 @@ twitter_username: kiril_lab
 github_username: reskir
 lang: "lt-LT"
 timezone: Europe/Vilnius
+paginate: 15
+paginate_path: "/puslapis-:num/"
 
 social:
   name: Urbanistas
@@ -66,8 +68,8 @@ assets:
     enabled: true
   autoprefixer:
     browsers:
-    - "last 2 versions"
-    - "IE > 10"
+      - "last 2 versions"
+      - "IE > 10"
   # --
   # baseurl: whether or not to append site.baseurl
   # destination: the folder you store them in on the CDN.
