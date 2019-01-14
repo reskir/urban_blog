@@ -1,7 +1,39 @@
 ---
 layout: default
 ---
-<div class="content">
+
+<div class="wrapper">
+    <h1> Test </h1>
+    {% for post in site.posts %}
+        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        <p class="author">
+            <span class="date">{{ post.date }}</span>
+        </p>
+    {% endfor %}
+
+    <!-- Pagination links -->
+    <div class="pagination">
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="previous">
+            Previous
+            </a>
+        {% else %}
+            <span class="previous">Previous</span>
+        {% endif %}
+        <span class="page_number ">
+            Page: {{ paginator.page }} of {{ paginator.total_pages }}
+        </span>
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+        {% else %}
+            <span class="next ">Next</span>
+        {% endif %}
+    </div>
+
+</div>
+
+
+{% comment %} <div class="content">
     <div class="wrapper row posts">
         {% for post in site.posts limit:1 %}
         <article class="posts_post posts_post--hero col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -89,4 +121,4 @@ layout: default
         </article>
         {% endfor %}
     </div>
-</div>
+</div> {% endcomment %}
