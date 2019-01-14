@@ -7,13 +7,12 @@ layout: default
           {% for post in paginator.posts limit:1 %}
               <article class="posts_post posts_post--hero col-lg-8 col-md-12 col-sm-12 col-xs-12">
                 <a href="{{ site.url }}{{ post.url }}">
-                    <div class="posts_post_info posts_post_background" style="background-image:url('{{site.url}}{{ assets[post.image].digest_path }}')">
+                    <div class="posts_post_info posts_post_background" style="background-image:url('{{site.baseurl}}{{ assets[post.image].digest_path }}')">
                           <p class="posts_post_cat">{{ post.categories }} </p>
                     </div>
-
-                        <h2 class="posts_post_title">
-                           {{ post.title }}
-                         </h2>
+                    <h2 class="posts_post_title">
+                        {{ post.title }}
+                    </h2>
                 </a>
             </article>
           {% endfor %}
@@ -22,7 +21,7 @@ layout: default
           {% for post in paginator.posts offset:1 limit:1 %}
             <article class="posts_post col-lg-4 col-md-4 col-sm-6 col-xs-12">
               <a href="{{ site.url }}{{ post.url }}">
-                  <div class="posts_post_info posts_post_background" style="background-image:url('{{site.url}}{{ assets[post.image].digest_path }}')">
+                  <div class="posts_post_info posts_post_background" style="background-image:url('{{site.baseurl}}{{ assets[post.image].digest_path }}')">
                         <p class="posts_post_cat">{{ post.categories }} </p>
                   </div>
                   <h2 class="posts_post_title">
@@ -36,7 +35,7 @@ layout: default
           {% for post in paginator.posts offset:2 limit:2 %}
             <article class="posts_post col-lg-6 col-md-4 col-sm-6 col-xs-12">
               <a href="{{ site.url }}{{ post.url }}">
-                  <div class="posts_post_info posts_post_background" style="background-image:url('{{site.url}}{{ assets[post.image].digest_path }}')">
+                  <div class="posts_post_info posts_post_background" style="background-image:url('{{site.baseurl}}{{ assets[post.image].digest_path }}')">
                         <p class="posts_post_cat">{{ post.categories }} </p>
                   </div>
                   <h2 class="posts_post_title">
@@ -50,7 +49,7 @@ layout: default
           {% for post in paginator.posts offset:4 %}
             <article class="posts_post col-lg-4 col-md-4 col-sm-6 col-xs-12">
               <a href="{{ site.url }}{{ post.url }}">
-                  <div class="posts_post_info posts_post_background" style="background-image:url('{{site.url}}{{ assets[post.image].digest_path }}')">
+                  <div class="posts_post_info posts_post_background" style="background-image:url('{{site.baseurl}}{{ assets[post.image].digest_path }}')">
                         <p class="posts_post_cat">{{ post.categories }} </p>
                   </div>
                   <h2 class="posts_post_title">
