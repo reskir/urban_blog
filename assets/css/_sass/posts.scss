@@ -121,16 +121,17 @@
     &_info {
       bottom: 0;
       left: 0;
-      // min-height: 350px;
-      max-height: auto;
+      max-height: 350px;
+      height: 200px;
       width: 100%;
-      border-radius: 2px;
+      background-size: cover;
+      background-position: center center;
     }
     &_cat {
-      font-size: 0.8em;
-      color: $text-secondary;
-      margin: 0;
-      //padding-bottom: 12px;
+      font-size: 14px;
+      text-shadow: 1px 1px #000;
+      color: white;
+      padding: 12px;
     }
     &_title {
       margin: 0;
