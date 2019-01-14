@@ -4,7 +4,6 @@ title: 'Kaip veikia "kelio dieta"?'
 date: 2019-01-14 15:27 +0200
 categories: Erdves
 image: road-diet.jpg
-published: true
 ---
 
 **Eismo planuotojas Džefas Spekas (Jeff Speck) parengė video pavyzdžius skirtingų tipų gatvių pertvarkimams.**
