@@ -1,5 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="lt-LT"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://urbanistas.lt/feed.xml" rel="self" type="application/atom+xml" /><link href="https://urbanistas.lt/" rel="alternate" type="text/html" hreflang="lt-LT" /><updated>2019-01-14T16:26:45+02:00</updated><id>https://urbanistas.lt/feed.xml</id><title type="html">Urbanistas</title><subtitle>Blogas apie žmones, idėjas ir technologijas, kurios keičia miesto aplinką.
-</subtitle><entry><title type="html">Olandų kova prieš “zuikius” – kaip padaryti viešąjį transportą patrauklesnį</title><link href="https://urbanistas.lt/supratimas/2019/01/09/kaip-olandai-kovoja-su-zuikias.html" rel="alternate" type="text/html" title="Olandų kova prieš &quot;zuikius&quot; – kaip padaryti viešąjį transportą patrauklesnį" /><published>2019-01-09T18:10:00+02:00</published><updated>2019-01-09T18:10:00+02:00</updated><id>https://urbanistas.lt/supratimas/2019/01/09/kaip-olandai-kovoja-su-zuikias</id><content type="html" xml:base="https://urbanistas.lt/supratimas/2019/01/09/kaip-olandai-kovoja-su-zuikias.html">&lt;p&gt;&lt;strong&gt;Olandų traukinių ir autobusų sistemoje išbandomi nauji būdai sustabdyti vengiančius mokėti už bilietus, kitaip dar vadinamuosius „zuikius“, į mokius klientus.&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="lt-LT"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://urbanistas.lt/feed.xml" rel="self" type="application/atom+xml" /><link href="https://urbanistas.lt/" rel="alternate" type="text/html" hreflang="lt-LT" /><updated>2019-01-14T22:42:10+02:00</updated><id>https://urbanistas.lt/feed.xml</id><title type="html">Urbanistas</title><subtitle>Blogas apie žmones, idėjas ir technologijas, kurios keičia miesto aplinką.
+</subtitle><entry><title type="html">Kaip veikia “kelio dieta”?</title><link href="https://urbanistas.lt/erdves/2019/01/14/kaip-veikia-kelio-dieta.html" rel="alternate" type="text/html" title="Kaip veikia &quot;kelio dieta&quot;?" /><published>2019-01-14T15:27:00+02:00</published><updated>2019-01-14T15:27:00+02:00</updated><id>https://urbanistas.lt/erdves/2019/01/14/kaip-veikia-kelio-dieta</id><content type="html" xml:base="https://urbanistas.lt/erdves/2019/01/14/kaip-veikia-kelio-dieta.html">&lt;p&gt;&lt;strong&gt;Eismo planuotojas Džefas Spekas (Jeff Speck) parengė video pavyzdžius skirtingų tipų gatvių pertvarkimams.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/136672997&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Kelio dieta tai puikus būdas miestams atgauti gatvės plotą kuris buvo dedikuotas automobiliams, tuo pat metu gerinant kitų eismo dalyvių saugumą ir patogumą. Bet kaip ir skirtingos dietų rūšis – kelių dietos taip pat yra labai skirtingos. Miesto planuotojas ir “Walkable City” (“Pėsčiųjų miestas”) autorius Džefas Spekas (Jeff Speck) kartu su grafikos dizaineriais sukūrė video kuriame pavaizduotos keturios kelių dietos.&lt;/p&gt;
+
+&lt;h2 id=&quot;iš-trijų-juostų-į-dvi&quot;&gt;Iš trijų juostų į dvi&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Iš trijų juostų į dvi&quot; src=&quot;/assets/3-2-f704e58f6a73c3c36fa432fada65a210f94d4104ec5681b623de0428af37f044.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Šiuo atveju mes turime gatvę iš trijų eismo juostų ir parkavimo vietomis šonuose. Didžioji dalis erdvės priklauso automobiliams, tokiu atveju Spekas siūlo &lt;a href=&quot;https://vimeo.com/134558699&quot;&gt;“3 į 2”&lt;/a&gt; kelio dietą: naikinti vieną eismo juostą ir mažinti parkavimo vietos plotį viename šone.
+Gatvėje galima įrengti dviračio takus šalia šaligatvio. “3 į 2” dieta leidžia išlaikyti gatvės pralaidumo didinat gatvės saugumą. Džefas pabrežė, kad panašaus išplanavimo gatvės perdarymas Brokline padėjo sumažinti eismo įvykius &lt;a href=&quot;http://www.nyc.gov/html/dot/html/bicyclists/prospectparkwest.shtml&quot;&gt;63 procentais&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;iš-keturių-juostų-į-tris&quot;&gt;Iš keturių juostų į tris&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Iš keturių juostų į tris&quot; src=&quot;/assets/4-3-dd6e4026e130d30a19e52d0b33eb79ee1fd84cbba629170b85e11de72dc55583.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ši kelio dieta konvertuoja keturias eismo juostas į trejas – po viena kiekviena kryptimi ir dar viena centrinė juosta kuri skirta posūkiams į kairę. Išimant iš gatves viena eismo juostą &lt;a href=&quot;https://vimeo.com/134558698&quot;&gt;“4 į 3”&lt;/a&gt; dieta taip pat palieka vietos dviračių eismo juostai dvejose pusėse, taip pat tą laisvą erdvė gali būti naudojama ir šaligatvio praplėtimui arba dedikuotoms tranzitinio transporto juostom. &lt;a href=&quot;https://www.citylab.com/design/2014/09/so-what-exactly-is-a-road-diet/379975/&quot;&gt;2013 metų studijos parodė&lt;/a&gt;, jog “4 į 3” dietos saugumo privalumai akivaizdus: 47 procentai sumažintas avaringumas mažuose miestuose ir 19 procentų didesniuose.&lt;/p&gt;
+
+&lt;h2 id=&quot;dviračių-eismas&quot;&gt;Dviračių eismas&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Dviračių eismas&quot; src=&quot;/assets/bike-to-track-f4d8bd655867e4f526517ecb73806f4ee51087124d808777e1da96f1983fd85b.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;“Juostos dviračiams yra gerai, tačiau dedikuoti dviračio takai yra dar geriau ir nereikalauja daugiau kelio”, pasakoja Spekas.
+Pažiūrėkime gatvę kurią mes pakeitėm “4 į 3” dieta. Šitame planavime eismo juostos yra gatvės pašonėje šalia priparkuotų automobilių taip padidindami susidūrimo su kitais eismo dalyviais riziką. Bet pakeitus parkavimo juostos padėti gatvėje – pastumiant ją toliau nuo šaligatvio, ši dieta sukuria erdvės &lt;a href=&quot;https://vimeo.com/134558701&quot;&gt;dvėjų juosto dviračių&lt;/a&gt; takui kuris yra apsaugotas nuo automobilių eismo skiriamąja juostą arba mažosioms architektūrinėms formom.&lt;/p&gt;
+
+&lt;h2 id=&quot;40-pėdų-juostos-įterpimas&quot;&gt;40 pėdų juostos įterpimas&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt=&quot;40 pėdų juostos įterpimas&quot; src=&quot;/assets/40-footer-62fc7004b2932bf24e83c3082b84cd14d776ab1834e1291072c21239f0b96f8b.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Šį kartą mes atkreipiam dėmesį į &lt;a href=&quot;https://vimeo.com/134558700&quot;&gt;40 pėdų gatvę&lt;/a&gt; su dviem 12 pėdų eismo juostomis, kuriose yra priešingos eismo juostomis, ir dviem automobilių stovėjimo juostomis. Daugelis miestų priėmė 12 pėdų eismo juostas, darydamos prielaidą, kad jose bus daugiau eismo; iš tiesų, kaip anksčiau &lt;a href=&quot;https://www.citylab.com/design/2014/10/why-12-foot-traffic-lanes-are-disastrous-for-safety-and-must-be-replaced-now/381117/&quot;&gt;teigė Džefas&lt;/a&gt;, tokie keliai kelia didelį pavojų miestams, skatindami vairuotojus greičiau važiuoti. Jis rekomenduoja juos lieknėti iki 10 pėdų - ši dizaino konfigūracija palieka erdvę dviračių juostai, bei padaro gatvę saugesnę, &lt;a href=&quot;https://www.citylab.com/solutions/2015/07/10-foot-traffic-lanes-are-saferand-still-move-plenty-of-cars/399761/&quot;&gt;išsaugojant transporto eismo srautus.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;lighter&quot;&gt;Originalas &lt;a href=&quot;https://www.citylab.com/design/2015/08/a-wonderfully-clear-explanation-of-how-road-diets-work/401951/&quot;&gt;CityLab&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Eismo planuotojas Džefas Spekas (Jeff Speck) parengė video pavyzdžius skirtingų tipų gatvių pertvarkimams.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://urbanistas.lt/road-diet.jpg" /></entry><entry><title type="html">Olandų kova prieš “zuikius” – kaip padaryti viešąjį transportą patrauklesnį</title><link href="https://urbanistas.lt/supratimas/2019/01/09/kaip-olandai-kovoja-su-zuikias.html" rel="alternate" type="text/html" title="Olandų kova prieš &quot;zuikius&quot; – kaip padaryti viešąjį transportą patrauklesnį" /><published>2019-01-09T18:10:00+02:00</published><updated>2019-01-09T18:10:00+02:00</updated><id>https://urbanistas.lt/supratimas/2019/01/09/kaip-olandai-kovoja-su-zuikias</id><content type="html" xml:base="https://urbanistas.lt/supratimas/2019/01/09/kaip-olandai-kovoja-su-zuikias.html">&lt;p&gt;&lt;strong&gt;Olandų traukinių ir autobusų sistemoje išbandomi nauji būdai sustabdyti vengiančius mokėti už bilietus, kitaip dar vadinamuosius „zuikius“, į mokius klientus.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt=&quot;olandai mažina zuikių kiekį&quot; src=&quot;/assets/amsterdam-central-e6cc04e379c7315a880a3629520e03d92a0a8a9aee18f01ab8563638217ee790.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -262,34 +294,4 @@ pasitikėjimą nepažįstamiems žmonėms.&lt;/p&gt;
 
 &lt;div class=&quot;video-container&quot;&gt;
     &lt;iframe src=&quot;https://player.vimeo.com/video/225338772&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Šis klausimas įkvėpė “Happy City” įgyvendinti eksperimentą Vankuveryje (Kanada) kuris parodytų kaip spalvingos ir nekasdieninės intervencijos gali įtakoti žmonių gerbūvį. Pagrindinė eksperimento idėja buvo suprasti, kaip miesto dizainas gali veikti žmonių pasitikėjimo jausmą nepažįstamiems, jų emocijas. Eksperimento dalyviai praėjo per trys populiariausias vietas kuriomis kasdien keliauja miesto gyventojai - takas tarp gyvenamųjų namų, sankryžą, bei tvarkingą žaliąją erdvę. Dalyviai aplankė trys tas pačias vietas kur buvo atlikti pakeitimai.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://urbanistas.lt/HappyStreets3-web.jpg" /></entry><entry><title type="html">Kaip projektuoti miestus socialiniams pokyčiams - trys principai</title><link href="https://urbanistas.lt/supratimas/2017/12/09/kaip-projektuoti-miestus-socialiniams-pokyciams.html" rel="alternate" type="text/html" title="Kaip projektuoti miestus socialiniams pokyčiams - trys principai" /><published>2017-12-09T10:10:00+02:00</published><updated>2017-12-09T10:10:00+02:00</updated><id>https://urbanistas.lt/supratimas/2017/12/09/kaip-projektuoti-miestus-socialiniams-pokyciams</id><content type="html" xml:base="https://urbanistas.lt/supratimas/2017/12/09/kaip-projektuoti-miestus-socialiniams-pokyciams.html">&lt;p&gt;Tam, kad miestas ir miesto bendruomenės aktyviai ir produktyviai 
-vystytųsi miestas turėtų būti pritaikytas socialiniams pokyčiams. Kartais - tai tiesiog erdvė kuri pritaikyta
-protesto akcijoms arba mitingams. Pasaulio istorija ir įvykiai parodė, kad kartais tokios žmonių
-iniciatyvos yra būtinos ir labai svarbios visuomenės raidai. Masuma Henry, buvusi vykdančioji konsultavimo ir UX (vartotojo potyrio)
-agentūros &lt;a href=&quot;https://www.artefactgroup.com/&quot;&gt;Artefact&lt;/a&gt; direktorė, išskyrė trys pagrindinius principus,
-kuriais būtina vadovautis projektuojant erdvę socialiniams pokyčiams.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;Erdvė turi būti pritaikyta socialiniams pokyčiams&quot; src=&quot;/assets/social_changes_2-56cdfdaed6380fa90bccbfa75f19272cffdee41fe1c532ac9033d192a97ca530.jpg&quot; /&gt;&lt;/p&gt;
-&lt;div class=&quot;lighter smaller&quot; style=&quot;margin:12px 0;&quot;&gt;
-    Nuotrauka: MUSTAFA CAGLAYAN/ANADOLU AGENCY/GETTY IMAGES
-&lt;/div&gt;
-
-&lt;h2 id=&quot;delegavimas&quot;&gt;Delegavimas&lt;/h2&gt;
-
-&lt;p&gt;Pati Henry vadina šį principą &lt;em&gt;agency&lt;/em&gt;: vartotojo, miestiečio tikėjimas, kad jis pats gali priimti sprendimą ir suprasti
-ko jam reikia. Tie, kas projektuoja erdves turi klausti savęs ar jie suteikia laisvę žmogui dalyvauti ir
-priimti sprendimus miesto erdvėse, neatsižvelgiant į jo socialinį statusą. Kitaip tariant - miestuose reikia statyti
-ne tik namus ir įrenginėti aikštes, bet ir kurti empatijos tinklą.&lt;/p&gt;
-
-&lt;h2 id=&quot;prieiga&quot;&gt;Prieiga&lt;/h2&gt;
-
-&lt;p&gt;Prieiga - tai miestiečio galimybė lengvai ir patogiai naudotis galimybėmis, kurias suteikia erdvė.
-Iš esmės, kalba eina apie meisto gyventojo potyrio projektavimą, kuris panaikina visus barjerus. Be abejo, 
-kasdieniai rutininiai procesai gali būti nuobodus, bet būtent į jų projektavimą reikia sukoncentruoti didžiausią dėmesį.&lt;/p&gt;
-
-&lt;h2 id=&quot;veiksmas&quot;&gt;Veiksmas&lt;/h2&gt;
-
-&lt;p&gt;Galimybės ir patirtys negali įtakoti realų pakeitimą, jeigu miestietis neturi tikros galios priimti sprendimą -
- įvykdyti veiksmą. Tai yra ne taip paprasta, dizainas ir projektavimas veikimui - tai supratimas, kaip
-žmonės mąsto ir elgėsi. Pasiekti tinkamą rezultatą galima testuojant hipotezes ir prototipavimu. 
-Principai teisingo projektavimo buvo panaudoti kompanijoje &lt;a href=&quot;https://blacklivesmatter.com/&quot;&gt;“Black Lives Matter”&lt;/a&gt; kuri vyko visoje JAV.&lt;/p&gt;</content><author><name></name></author><summary type="html">Tam, kad miestas ir miesto bendruomenės aktyviai ir produktyviai vystytųsi miestas turėtų būti pritaikytas socialiniams pokyčiams. Kartais - tai tiesiog erdvė kuri pritaikyta protesto akcijoms arba mitingams. Pasaulio istorija ir įvykiai parodė, kad kartais tokios žmonių iniciatyvos yra būtinos ir labai svarbios visuomenės raidai. Masuma Henry, buvusi vykdančioji konsultavimo ir UX (vartotojo potyrio) agentūros Artefact direktorė, išskyrė trys pagrindinius principus, kuriais būtina vadovautis projektuojant erdvę socialiniams pokyčiams.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://urbanistas.lt/social_changes_2.jpg" /></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Šis klausimas įkvėpė “Happy City” įgyvendinti eksperimentą Vankuveryje (Kanada) kuris parodytų kaip spalvingos ir nekasdieninės intervencijos gali įtakoti žmonių gerbūvį. Pagrindinė eksperimento idėja buvo suprasti, kaip miesto dizainas gali veikti žmonių pasitikėjimo jausmą nepažįstamiems, jų emocijas. Eksperimento dalyviai praėjo per trys populiariausias vietas kuriomis kasdien keliauja miesto gyventojai - takas tarp gyvenamųjų namų, sankryžą, bei tvarkingą žaliąją erdvę. Dalyviai aplankė trys tas pačias vietas kur buvo atlikti pakeitimai.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://urbanistas.lt/HappyStreets3-web.jpg" /></entry></feed>
