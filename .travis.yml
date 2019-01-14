@@ -4,7 +4,7 @@ rvm:
 before_script:
   - bundle list
   - bundle platform
-script: "jekyll clean && JEKYLL_ENV=production bundle exec jekyll build"
+script: "JEKYLL_ENV=production bundle exec jekyll build"
 cache: bundler
 notifications:
   email: false

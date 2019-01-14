@@ -74,7 +74,11 @@ assets:
       "skatepark-in-church.jpg",
       "koriai.jpg",
       "HappyStreets3-web.jpg",
-      
+      "konstitucijos-stotele.jpg",
+      "trolleybus.jpg",
+      "metro.jpg",
+      "city-for-people-2.jpg",
+      "zip-car-ted-talk.jpg",
     ]
   autoprefixer:
     browsers:
