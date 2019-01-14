@@ -66,6 +66,16 @@ assets:
     path: ".jekyll-cache/assets"
     type: file # Possible values: memory, file
     enabled: true
+  precompile:
+    [
+      "road-diet.jpg",
+      "tallin-cover-2.jpg",
+      "kiemas-be-automobiliu-cover.jpg",
+      "skatepark-in-church.jpg",
+      "koriai.jpg",
+      "HappyStreets3-web.jpg",
+      
+    ]
   autoprefixer:
     browsers:
       - "last 2 versions"

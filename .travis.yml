@@ -2,19 +2,19 @@ language: ruby
 rvm:
   - 2.5.0
 before_script:
- - bundle list
- - bundle platform
-script: "JEKYLL_ENV=production bundle exec jekyll build"
+  - bundle list
+  - bundle platform
+script: "jekyll clean && JEKYLL_ENV=production bundle exec jekyll build"
 cache: bundler
 notifications:
   email: false
 branches:
   only:
-  - master
+    - master
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  github-token: $GITHUB_TOKEN # Set in the settings page of your repository, as a secure variable
   keep-history: true
   local-dir: _site
   verbose: true
