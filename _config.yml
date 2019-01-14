@@ -79,6 +79,10 @@ assets:
       "metro.jpg",
       "city-for-people-2.jpg",
       "zip-car-ted-talk.jpg",
+      "varsuva.jpg",
+      "street-furniture-01.jpg",
+      "glow-in-the-dark-1.jpg",
+      "lucho-47.jpg",
     ]
   autoprefixer:
     browsers:
