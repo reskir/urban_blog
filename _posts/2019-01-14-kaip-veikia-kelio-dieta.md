@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kaip veikia kelio dieta?"
+title: 'Kaip veikia "kelio dieta"?'
 date: 2019-01-14 15:27 +0200
 categories: Erdves
 image: road-diet.jpg
@@ -9,32 +9,34 @@ published: true
 
 **Eismo planuotojas Džefas Spekas (Jeff Speck) parengė video pavyzdžius skirtingų tipų gatvių pertvarkimams.**
 
-{% asset road-diet.jpg alt="Kelio dieta" magick:half magick:quality=20 %}
+<iframe src="https://player.vimeo.com/video/136672997" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-Kelio dieta tai puikus būdas miestams
-
-A road diet is a great way for cities to reclaim some of the excess street space they’ve dedicated to cars—generally preserving traffic flows while improving safety and expanding mobility to other modes. But just as food dieters have Atkins, South Beach, vegan, and any number of options, road diets come in many flavors, too. Urban planner and Walkable City author Jeff Speck, in collaboration with graphic artist Spencer Boomhower, takes us on a tour of four types of street diets in a deliciously clear new video series. Here’s a taste.
+Kelio dieta tai puikus būdas miestams atgauti gatvės plotą kuris buvo dedikuotas automobiliams, tuo pat metu gerinant kitų eismo dalyvių saugumą ir patogumą. Bet kaip ir skirtingos dietų rūšis – kelių dietos taip pat yra labai skirtingos. Miesto planuotojas ir “Walkable City” (“Pėsčiųjų miestas”) autorius Džefas Spekas (Jeff Speck) kartu su grafikos dizaineriais sukūrė video kuriame pavaizduotos keturios kelių dietos.
 
 ## Iš trijų juostų į dvi
 
-(Jeff Speck / Spencer Boomhower)
-In this case we have three traffic lanes flanked by two parking lanes. That’s an awful lots of city street space for cars, so here Speck proposes a “3-to-2” road diet: by removing one traffic lane and narrowing one parking lane, a city can make room for a protected two-way cycle track beside the curb. The 3-to-2 diet preserves travel times while increasing safety; as Speck point out, a similar design change made in Brooklyn reduced injury crashes by 63 percent.
+{% asset 3-2.jpg alt="Iš trijų juostų į dvi" %}
+
+Šiuo atveju mes turime gatvę iš trijų eismo juostų ir parkavimo vietomis šonuose. Didžioji dalis erdvės priklauso automobiliams, tokiu atveju Spekas siūlo <a href="https://vimeo.com/134558699">"3 į 2"</a> kelio dietą: naikinti vieną eismo juostą ir mažinti parkavimo vietos plotį viename šone.
+Gatvėje galima įrengti dviračio takus šalia šaligatvio. "3 į 2" dieta leidžia išlaikyti gatvės pralaidumo didinat gatvės saugumą. Džefas pabrežė, kad panašaus išplanavimo gatvės perdarymas Brokline padėjo sumažinti eismo įvykius <a href="http://www.nyc.gov/html/dot/html/bicyclists/prospectparkwest.shtml">63 procentais</a>.
 
 ## Iš keturių juostų į tris
 
-(Jeff Speck / Spencer Boomhower)
-The most classic road diet converts four lanes of traffic into three lanes: one in each direction, plus a left-turn lane in the middle. By eliminating one full car lane, the “4-to-3” diet also leaves room for bike lanes on both sides of the street—though this extra space can be used for sidewalk extensions or even dedicated transit lanes, too. A 2013 study of 4-to-3 diets found major safety benefits: a 47 percent drop in crashes in small metros, and a 19 percent dip in big cities.
+{% asset 4-3.jpg alt="Iš keturių juostų į tris" %}
+
+Ši kelio dieta konvertuoja keturias eismo juostas į trejas – po viena kiekviena kryptimi ir dar viena centrinė juosta kuri skirta posūkiams į kairę. Išimant iš gatves viena eismo juostą <a href="https://vimeo.com/134558698">"4 į 3"</a> dieta taip pat palieka vietos dviračių eismo juostai dvejose pusėse, taip pat tą laisvą erdvė gali būti naudojama ir šaligatvio praplėtimui arba dedikuotoms tranzitinio transporto juostom. <a href="https://www.citylab.com/design/2014/09/so-what-exactly-is-a-road-diet/379975/">2013 metų studijos parodė</a>, jog "4 į 3" dietos saugumo privalumai akivaizdus: 47 procentai sumažintas avaringumas mažuose miestuose ir 19 procentų didesniuose.
 
 ## Dviračių eismas
 
-(Jeff Speck / Spencer Boomhower)
-"Bike lanes are good; a cycle track is better, and requires no more roadway,” says Speck in the road diet’s voiceover. Take the road that we ended up with after the 4-to-3 diet, for instance. In this design, bike lanes run beside car traffic on either side of the street, increasing the potential for collision. But by sliding one parking lane off the curb, this diet makes room for a two-way cycle track protected from moving traffic by a buffer strip as well as a lane of street parking.
+{% asset bike-to-track.jpg alt="Dviračių eismas" %}
 
-## 40-footer lane insertion
+"Juostos dviračiams yra gerai, tačiau dedikuoti dviračio takai yra dar geriau ir nereikalauja daugiau kelio", pasakoja Spekas.
+Pažiūrėkime gatvę kurią mes pakeitėm "4 į 3" dieta. Šitame planavime eismo juostos yra gatvės pašonėje šalia priparkuotų automobilių taip padidindami susidūrimo su kitais eismo dalyviais riziką. Bet pakeitus parkavimo juostos padėti gatvėje – pastumiant ją toliau nuo šaligatvio, ši dieta sukuria erdvės <a href="https://vimeo.com/134558701">dvėjų juosto dviračių</a> takui kuris yra apsaugotas nuo automobilių eismo skiriamąja juostą arba mažosioms architektūrinėms formom.
 
-(Jeff Speck / Spencer Boomhower)
-This time we focus on a 40-foot street with two 12-foot lanes of opposing traffic and two parking lanes at the curb. Many cities have adopted 12-foot lanes with the assumption that they move more traffic; in fact, as Speck has argued at CityLab before, they present a major safety hazard for cities by encouraging faster driving. He recommends slimming them down to 10 feet—a design configuration that leaves room for a bike lane and makes the street safer, even as it more or less preserves traffic flows.
+## 40 pėdų juostos įterpimas
 
-<!-- <div class="lighter smaller mt10">
-    Pirk bilietą, gauk kelionę. Elektroniniai vartai Amsterdamo stotyje ribojo "zuikių" pateikimą. Nuotrauka: Yves Herman/Reuters
-</div> -->
+{% asset 40-footer.jpg alt="40 pėdų juostos įterpimas" %}
+
+Šį kartą mes atkreipiam dėmesį į <a href="https://vimeo.com/134558700">40 pėdų gatvę</a> su dviem 12 pėdų eismo juostomis, kuriose yra priešingos eismo juostomis, ir dviem automobilių stovėjimo juostomis. Daugelis miestų priėmė 12 pėdų eismo juostas, darydamos prielaidą, kad jose bus daugiau eismo; iš tiesų, kaip anksčiau <a href="https://www.citylab.com/design/2014/10/why-12-foot-traffic-lanes-are-disastrous-for-safety-and-must-be-replaced-now/381117/">teigė Džefas</a>, tokie keliai kelia didelį pavojų miestams, skatindami vairuotojus greičiau važiuoti. Jis rekomenduoja juos lieknėti iki 10 pėdų - ši dizaino konfigūracija palieka erdvę dviračių juostai, bei padaro gatvę saugesnę, <a href="https://www.citylab.com/solutions/2015/07/10-foot-traffic-lanes-are-saferand-still-move-plenty-of-cars/399761/">išsaugojant transporto eismo srautus.</a>
+
+<p class="lighter">Originalas <a href="https://www.citylab.com/design/2015/08/a-wonderfully-clear-explanation-of-how-road-diets-work/401951/">CityLab</a></p>
