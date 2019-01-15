@@ -7,7 +7,7 @@ layout: default
           {% for post in paginator.posts limit:1 %}
               <article class="posts_post posts_post--hero col-lg-8 col-md-12 col-sm-12 col-xs-12">
                 <a href="{{ site.url }}{{ post.url }}">
-                    <div class="posts_post_info posts_post_background" style='background-image: url({% asset "{{ post.image }}" magick:quality=70 magick:half @path %});'>
+                    <div class="posts_post_info posts_post_background" style='background-image: url({% asset "{{ post.image }}" @path %});'>
                           <p class="posts_post_cat">{{ post.categories }} </p>
                     </div>
                     <h2 class="posts_post_title">
