@@ -9,10 +9,10 @@ navigation_weight: 5
     <div class="col-lg-7 col-md-7 col-xs-12">
         <h2> Apie ką šis blogas? </h2>
 
-        <p> Apie miestus, jų gyvenimą, visuomeninį transportą, miegamuosius rajonus, priemiesčius, centrinę dalį, dviračių eismą, architektūrą ir urbanistiką. </p>
+        <p> Jeigu trumpai apibendrinant - tai apie miestų gyvenimą, visuomeninį transportą, miegamuosius rajonus, priemiesčius, centrinę dalį, dviračių eismą, architektūrą ir urbanistiką, bet apskritai – apie miestą. </p>
 
         <h2>Kas rašo apie tai? </h2>
-        <p>Mano vardas Kiril, apie urbanistiką sužinojau prieš 5 metus – skaitau, keliauju, žiūriu ir bandau aprašyti gerus pavyzdžius iš kitų šalių, miestų, gyvenviečių. Pradėjau rašyti šį blogą, nes pamačiau, kad trūksta informacijos lietuvių kalba apie miestus – kaip jie gali būti administruojami, kodėl svarbu vystyti alternatyvų transportą ir daug kitos informacijos. Su manim galima susisiekti per <a href="https://t.me/kiril_abaskin">telegramą</a> arba tiesiog parašyti man į paštą: <a href="emailto:kiril.abashkin@gmail.com">kiril.abashkin@gmail.com</a></p>
+        <p>Mano vardas Kiril, urbanistika domiuosi jau 5 metus – skaitau, keliauju, žiūriu ir bandau aprašyti gerus pavyzdžius iš kitų šalių, miestų arba gyvenviečių. Pradėjau rašyti šį blogą, nes pamačiau, kad Lietuvoje trūksta informacijos apie miestus – kaip jie gali būti administruojami, kodėl svarbu vystyti alternatyvų transportą ir kita. Su manim galima susisiekti per <a href="https://t.me/kiril_abaskin">telegramą</a> arba tiesiog parašyti man į paštą: <a href="emailto:kiril.abashkin@gmail.com">kiril.abashkin@gmail.com</a></p>
 
         <h2> Kodėl tai yra svarbu? </h2>
 
