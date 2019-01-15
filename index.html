@@ -8,7 +8,14 @@ layout: default
               <article class="posts_post posts_post--hero col-lg-8 col-md-12 col-sm-12 col-xs-12">
                 <a href="{{ site.url }}{{ post.url }}">
                     <div class="posts_post_info posts_post_background" style='background-image: url({% asset "{{ post.image }}" @path %});'>
-                          <p class="posts_post_cat">{{ post.categories }} </p>
+                        <p class="posts_post_cat">
+                            {% assign cat = post.categories %}
+                            {% if cat contains "Erdves" %}
+                                Erdvės
+                            {% else %}
+                                {{cat}}
+                            {% endif %} 
+                        </p>
                     </div>
                     <h2 class="posts_post_title">
                         {{ post.title }}
@@ -22,7 +29,14 @@ layout: default
             <article class="posts_post col-lg-4 col-md-4 col-sm-6 col-xs-12">
               <a href="{{ site.url }}{{ post.url }}">
                   <div class="posts_post_info posts_post_background" style='background-image: url({% asset "{{ post.image }}" magick:quality=70 magick:half @path %});'>
-                        <p class="posts_post_cat">{{ post.categories }} </p>
+                        <p class="posts_post_cat">
+                            {% assign cat = post.categories %}
+                            {% if cat contains "Erdves" %}
+                                Erdvės
+                            {% else %}
+                                {{cat}}
+                            {% endif %} 
+                        </p>
                   </div>
                   <h2 class="posts_post_title">
                      {{ post.title }}
@@ -36,7 +50,14 @@ layout: default
             <article class="posts_post col-lg-6 col-md-4 col-sm-6 col-xs-12">
               <a href="{{ site.url }}{{ post.url }}">
                   <div class="posts_post_info posts_post_background" style='background-image: url({% asset "{{ post.image }}" magick:quality=70 magick:half @path %});'>
-                        <p class="posts_post_cat">{{ post.categories }} </p>
+                        <p class="posts_post_cat">
+                            {% assign cat = post.categories %}
+                            {% if cat contains "Erdves" %}
+                                Erdvės
+                            {% else %}
+                                {{cat}}
+                            {% endif %} 
+                        </p>
                   </div>
                   <h2 class="posts_post_title">
                      {{ post.title }}
@@ -50,7 +71,14 @@ layout: default
             <article class="posts_post col-lg-4 col-md-4 col-sm-6 col-xs-12">
               <a href="{{ site.url }}{{ post.url }}">
                   <div class="posts_post_info posts_post_background" style='background-image: url({% asset "{{ post.image }}" magick:quality=70 magick:half @path %});'>
-                        <p class="posts_post_cat">{{ post.categories }} </p>
+                        <p class="posts_post_cat">
+                            {% assign cat = post.categories %}
+                            {% if cat contains "Erdves" %}
+                                Erdvės
+                            {% else %}
+                                {{cat}}
+                            {% endif %} 
+                        </p>
                   </div>
                   <h2 class="posts_post_title">
                      {{ post.title }}
