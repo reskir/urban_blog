@@ -1,22 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="lt-LT"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://urbanistas.lt/feed.xml" rel="self" type="application/atom+xml" /><link href="https://urbanistas.lt/" rel="alternate" type="text/html" hreflang="lt-LT" /><updated>2019-01-14T23:58:38+02:00</updated><id>https://urbanistas.lt/feed.xml</id><title type="html">Urbanistas</title><subtitle>Blogas apie žmones, idėjas ir technologijas, kurios keičia miesto aplinką.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="lt-LT"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://urbanistas.lt/feed.xml" rel="self" type="application/atom+xml" /><link href="https://urbanistas.lt/" rel="alternate" type="text/html" hreflang="lt-LT" /><updated>2019-01-15T07:13:39+02:00</updated><id>https://urbanistas.lt/feed.xml</id><title type="html">Urbanistas</title><subtitle>Blogas apie žmones, idėjas ir technologijas, kurios keičia miesto aplinką.
 </subtitle><entry><title type="html">Kaip veikia “kelio dieta”?</title><link href="https://urbanistas.lt/erdves/2019/01/14/kaip-veikia-kelio-dieta.html" rel="alternate" type="text/html" title="Kaip veikia &quot;kelio dieta&quot;?" /><published>2019-01-14T15:27:00+02:00</published><updated>2019-01-14T15:27:00+02:00</updated><id>https://urbanistas.lt/erdves/2019/01/14/kaip-veikia-kelio-dieta</id><content type="html" xml:base="https://urbanistas.lt/erdves/2019/01/14/kaip-veikia-kelio-dieta.html">&lt;p&gt;&lt;strong&gt;Eismo planuotojas Džefas Spekas (Jeff Speck) parengė video pavyzdžius skirtingų tipų gatvių pertvarkimams.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/136672997&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+    &lt;iframe src=&quot;https://player.vimeo.com/video/136672997&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Kelio dieta tai puikus būdas miestams atgauti gatvės plotą kuris buvo dedikuotas automobiliams, tuo pat metu gerinant kitų eismo dalyvių saugumą ir patogumą. Bet kaip ir skirtingos dietų rūšis – kelių dietos taip pat yra labai skirtingos. Miesto planuotojas ir “Walkable City” (“Pėsčiųjų miestas”) autorius Džefas Spekas (Jeff Speck) kartu su grafikos dizaineriais sukūrė video kuriame pavaizduotos keturios kelių dietos.&lt;/p&gt;
+&lt;p&gt;Kelio dieta tai puikus būdas miestams atgauti gatvės plotą kuris buvo dedikuotas automobiliams, tuo pat metu gerinant kitų eismo dalyvių saugumą ir patogumą. Bet kaip ir skirtingos dietų rūšis – kelių dietos taip pat būna labai įvairios. Miesto planuotojas ir “Walkable City” (“Pėsčiųjų miestas”) autorius Džefas Spekas (Jeff Speck) kartu su grafikos dizaineriais sukūrė video kuriame pavaizduotos keturios kelių dietos.&lt;/p&gt;
 
 &lt;h2 id=&quot;iš-trijų-juostų-į-dvi&quot;&gt;Iš trijų juostų į dvi&lt;/h2&gt;
 
 &lt;p&gt;&lt;img alt=&quot;Iš trijų juostų į dvi&quot; src=&quot;/assets/3-2-f704e58f6a73c3c36fa432fada65a210f94d4104ec5681b623de0428af37f044.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Šiuo atveju mes turime gatvę iš trijų eismo juostų ir parkavimo vietomis šonuose. Didžioji dalis erdvės priklauso automobiliams, tokiu atveju Spekas siūlo &lt;a href=&quot;https://vimeo.com/134558699&quot;&gt;“3 į 2”&lt;/a&gt; kelio dietą: naikinti vieną eismo juostą ir mažinti parkavimo vietos plotį viename šone.
-Gatvėje galima įrengti dviračio takus šalia šaligatvio. “3 į 2” dieta leidžia išlaikyti gatvės pralaidumo didinat gatvės saugumą. Džefas pabrežė, kad panašaus išplanavimo gatvės perdarymas Brokline padėjo sumažinti eismo įvykius &lt;a href=&quot;http://www.nyc.gov/html/dot/html/bicyclists/prospectparkwest.shtml&quot;&gt;63 procentais&lt;/a&gt;.&lt;/p&gt;
+Tokiu atvėju, gatvėje atsiranda erdvės dviračio takui įrengimui šalia šaligatvio. Taip pat “3 į 2” dieta leidžia išlaikyti gatvės pralaidumą – didinat gatvės saugumą. Džefas pabrežė, kad panašaus išplanavimo gatvės perdarymas Brokline padėjo sumažinti eismo įvykius &lt;a href=&quot;http://www.nyc.gov/html/dot/html/bicyclists/prospectparkwest.shtml&quot;&gt;63 procentais&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;iš-keturių-juostų-į-tris&quot;&gt;Iš keturių juostų į tris&lt;/h2&gt;
 
 &lt;p&gt;&lt;img alt=&quot;Iš keturių juostų į tris&quot; src=&quot;/assets/4-3-dd6e4026e130d30a19e52d0b33eb79ee1fd84cbba629170b85e11de72dc55583.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Ši kelio dieta konvertuoja keturias eismo juostas į trejas – po viena kiekviena kryptimi ir dar viena centrinė juosta kuri skirta posūkiams į kairę. Išimant iš gatves viena eismo juostą &lt;a href=&quot;https://vimeo.com/134558698&quot;&gt;“4 į 3”&lt;/a&gt; dieta taip pat palieka vietos dviračių eismo juostai dvejose pusėse, taip pat tą laisvą erdvė gali būti naudojama ir šaligatvio praplėtimui arba dedikuotoms tranzitinio transporto juostom. &lt;a href=&quot;https://www.citylab.com/design/2014/09/so-what-exactly-is-a-road-diet/379975/&quot;&gt;2013 metų studijos parodė&lt;/a&gt;, jog “4 į 3” dietos saugumo privalumai akivaizdus: 47 procentai sumažintas avaringumas mažuose miestuose ir 19 procentų didesniuose.&lt;/p&gt;
+&lt;p&gt;Ši kelio dieta konvertuoja keturias eismo juostas į trejas – po viena kiekviena kryptimi ir dar viena centrinė juosta kuri skirta posūkiams į kairę. Išimant iš gatves viena eismo juostą &lt;a href=&quot;https://vimeo.com/134558698&quot;&gt;“4 į 3”&lt;/a&gt; dieta palieka vietos dviračių eismo juostai dvejose pusėse, taip pat atsiradusi laisva erdvė gali būti naudojama ir šaligatvio praplėtimui arba dedikuotoms tranzitinio transporto juostom. &lt;a href=&quot;https://www.citylab.com/design/2014/09/so-what-exactly-is-a-road-diet/379975/&quot;&gt;2013 metų studijos parodė&lt;/a&gt;, jog “4 į 3” dietos saugumo privalumai akivaizdus: 47 procentai sumažintas avaringumas mažuose miestuose ir 19 procentų didesniuose.&lt;/p&gt;
 
 &lt;h2 id=&quot;dviračių-eismas&quot;&gt;Dviračių eismas&lt;/h2&gt;
 
@@ -25,7 +27,7 @@ Gatvėje galima įrengti dviračio takus šalia šaligatvio. “3 į 2” dieta 
 &lt;p&gt;“Juostos dviračiams yra gerai, tačiau dedikuoti dviračio takai yra dar geriau ir nereikalauja daugiau kelio”, pasakoja Spekas.
 Pažiūrėkime gatvę kurią mes pakeitėm “4 į 3” dieta. Šitame planavime eismo juostos yra gatvės pašonėje šalia priparkuotų automobilių taip padidindami susidūrimo su kitais eismo dalyviais riziką. Bet pakeitus parkavimo juostos padėti gatvėje – pastumiant ją toliau nuo šaligatvio, ši dieta sukuria erdvės &lt;a href=&quot;https://vimeo.com/134558701&quot;&gt;dvėjų juosto dviračių&lt;/a&gt; takui kuris yra apsaugotas nuo automobilių eismo skiriamąja juostą arba mažosioms architektūrinėms formom.&lt;/p&gt;
 
-&lt;h2 id=&quot;40-pėdų-juostos-įterpimas&quot;&gt;40 pėdų juostos įterpimas&lt;/h2&gt;
+&lt;h2 id=&quot;40-pėdų-40-footer-juostos-įterpimas&quot;&gt;40 pėdų (40 footer) juostos įterpimas&lt;/h2&gt;
 
 &lt;p&gt;&lt;img alt=&quot;40 pėdų juostos įterpimas&quot; src=&quot;/assets/40-footer-62fc7004b2932bf24e83c3082b84cd14d776ab1834e1291072c21239f0b96f8b.jpg&quot; /&gt;&lt;/p&gt;
 
