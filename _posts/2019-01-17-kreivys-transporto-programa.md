@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kreivys ir jo transporto programa"
-date: 2019-01-17 15:27 +0200
+date: 2019-01-18 09:45
 categories: Supratimas
 image: kreivys-tram.jpg
 published: false
