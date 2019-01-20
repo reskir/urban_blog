@@ -3,7 +3,6 @@
     margin-top: 12px;
     &_post {
         position: relative;
-        padding: 24px;
 
         &--article {
             .imageWrapper {
@@ -14,9 +13,6 @@
             .image {
                 width: 100%;
                 margin: 12px 0;
-            }
-            .posts_post_cat {
-                padding: 6px 0 24px;
             }
         }
 
@@ -127,10 +123,14 @@
         }
 
         &_cat {
-            font-size: 15px;
-            text-shadow: 1px 1px #000;
-            color: white;
-            padding: 12px;
+            margin: 0;
+            padding: 0 0 12px;
+            color: #999;
+            &--front {
+                padding: 12px;
+                color: white;
+                text-shadow: 1px 1px #000;
+            }
         }
         &_title {
             margin: 0;
