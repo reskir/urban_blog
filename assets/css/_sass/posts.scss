@@ -1,206 +1,208 @@
 .posts {
-  display: block;
-  margin-top: 12px;
-  &_post {
-    position: relative;
-    padding: 24px;
+    display: block;
+    margin-top: 12px;
+    &_post {
+        position: relative;
+        padding: 24px;
 
-    &--article {
-      .imageWrapper {
-        overflow: hidden;
-        max-height: 150px;
-        max-width: 100%;
-      }
-      .image {
-        width: 100%;
-        margin: 12px 0;
-      }
-      .posts_post_cat {
-        padding: 6px 0 24px;
-      }
-    }
-
-    &--home {
-      .imageWrapper {
-        overflow: hidden;
-        max-height: 150px;
-        max-width: 100%;
-      }
-
-      .image {
-        width: 100%;
-        margin: 12px 0;
-      }
-
-      .card {
-        border-radius: 2px;
-        background: white;
-        overflow: hidden;
-        margin: 24px 12px;
-        display: block;
-        transition: transform 0.3s ease;
-        cursor: pointer;
-
-        &:hover {
-          transform: translateY(-5px);
-          box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
+        &--article {
+            .imageWrapper {
+                overflow: hidden;
+                max-height: 150px;
+                max-width: 100%;
+            }
+            .image {
+                width: 100%;
+                margin: 12px 0;
+            }
+            .posts_post_cat {
+                padding: 6px 0 24px;
+            }
         }
-        &-image {
-          overflow: hidden;
-          transition: all 10s linear;
-          img {
+
+        &--home {
+            .imageWrapper {
+                overflow: hidden;
+                max-height: 150px;
+                max-width: 100%;
+            }
+
+            .image {
+                width: 100%;
+                margin: 12px 0;
+            }
+
+            .card {
+                border-radius: 2px;
+                background: white;
+                overflow: hidden;
+                margin: 24px 12px;
+                display: block;
+                transition: transform 0.3s ease;
+                cursor: pointer;
+
+                &:hover {
+                    transform: translateY(-5px);
+                    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
+                }
+                &-image {
+                    overflow: hidden;
+                    transition: all 10s linear;
+                    img {
+                        width: 100%;
+                    }
+                    &--bg {
+                        height: 100%;
+                        background-size: cover;
+                        background-repeat: no-repeat;
+                        background-position: center center;
+                        transition: transform 0.2s linear;
+                        transform-origin: 50% 50%;
+                    }
+                }
+
+                &-tag,
+                &-title {
+                    margin: 6px 6px 6px 12px;
+                    text-align: left;
+                }
+                &-tag {
+                    margin-top: 12px;
+                    font-size: 12px;
+                    font-weight: 100;
+                    color: #999;
+                }
+
+                &-title {
+                    margin-bottom: 12px;
+                    font-weight: bold;
+                }
+            }
+        }
+        &--hero {
+            .posts_post_title {
+                font-size: calc(1.3vw + 15px);
+                font-weight: bolder;
+                padding-top: 6px;
+            }
+
+            .imageWrapper {
+                overflow: hidden;
+                height: 300px;
+                width: 100%;
+                margin-bottom: 12px;
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: top center;
+            }
+            .image {
+                width: 100%;
+                margin: 12px 0;
+            }
+        }
+
+        a {
+            color: $text-primary;
+
+            &:visited {
+                color: $text-primary;
+            }
+
+            &:hover {
+                text-decoration: none;
+                color: $link-color;
+            }
+        }
+
+        &_image {
             width: 100%;
-          }
-          &--bg {
-            height: 100%;
+        }
+
+        &_background {
+            max-height: 350px;
+            height: 200px;
+            width: 100%;
             background-size: cover;
-            background-repeat: no-repeat;
             background-position: center center;
-            transition: transform 0.2s linear;
-            transform-origin: 50% 50%;
-          }
         }
 
-        &-tag,
-        &-title {
-          margin: 6px 6px 6px 12px;
-          text-align: left;
+        &_cat {
+            font-size: 15px;
+            text-shadow: 1px 1px #000;
+            color: white;
+            padding: 12px;
         }
-        &-tag {
-          margin-top: 12px;
-          font-size: 12px;
-          font-weight: 100;
-          color: #999;
+        &_title {
+            margin: 0;
+            font-size: 1.4em;
+            line-height: 1.5;
+            // padding: 6px 6px 6px 0px;
+            bottom: 0;
+            width: 100%;
+            border-top: none;
+            padding: 12px 0 0;
+            // font-weight: bold;
         }
-
-        &-title {
-          margin-bottom: 12px;
-          font-weight: bold;
-        }
-      }
     }
-    &--hero {
-      .posts_post_title {
-        font-size: calc(1.3vw + 15px);
-        font-weight: bolder;
-        padding-top: 6px;
-      }
-
-      .imageWrapper {
-        overflow: hidden;
-        height: 300px;
-        width: 100%;
-        margin-bottom: 12px;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: top center;
-      }
-      .image {
-        width: 100%;
-        margin: 12px 0;
-      }
-    }
-
-    a {
-      color: $text-primary;
-
-      &:visited {
-        color: $text-primary;
-      }
-
-      &:hover {
-        text-decoration: none;
-        color: $link-color;
-      }
-    }
-
-    &_image {
-      width: 100%;
-    }
-
-    &_background {
-      max-height: 350px;
-      height: 200px;
-      width: 100%;
-      background-size: cover;
-      background-position: center center;
-    }
-
-    &_cat {
-      font-size: 15px;
-      text-shadow: 1px 1px #000;
-      color: white;
-      padding: 12px;
-    }
-    &_title {
-      margin: 0;
-      font-size: 1.4em;
-      line-height: 1.5;
-      // padding: 6px 6px 6px 0px;
-      bottom: 0;
-      width: 100%;
-      border-top: none;
-      padding: 12px 0 0;
-      // font-weight: bold;
-    }
-  }
 }
 
 .single-post {
-  margin: 0;
-  padding-top: 24px;
-  padding-bottom: 24px;
-  img {
-    max-width: 100%;
-  }
-  &_title {
-    font-weight: bold;
-    line-height: 1.5;
-    font-size: 1.8em;
-    margin-top: 0;
-    margin-bottom: 12px;
-  }
-
-  h2 {
-    font-weight: bolder;
-  }
-
-  &.post_video {
-    margin-top: 0;
+    margin: 0;
     padding-top: 24px;
     padding-bottom: 24px;
-    margin-bottom: 12px;
-  }
+    background: white;
 
-  .post-meta {
-    font-size: 16px;
-    color: $text-secondary;
-    margin-bottom: 12px;
-    &--location {
-      display: -ms-flexbox;
-      display: flex;
-      margin: 12px 0;
-      -ms-flex-align: center;
-      align-items: center;
-      img {
-        width: 18px;
-        height: 18px;
-      }
+    img {
+        max-width: 100%;
     }
-  }
+    &_title {
+        font-weight: bold;
+        line-height: 1.5;
+        font-size: 1.8em;
+        margin-top: 0;
+        margin-bottom: 12px;
+    }
+
+    h2 {
+        font-weight: bolder;
+    }
+
+    &.post_video {
+        margin-top: 0;
+        padding-top: 24px;
+        padding-bottom: 24px;
+        margin-bottom: 12px;
+    }
+
+    .post-meta {
+        font-size: 16px;
+        color: $text-secondary;
+        margin-bottom: 12px;
+        &--location {
+            display: -ms-flexbox;
+            display: flex;
+            margin: 12px 0;
+            -ms-flex-align: center;
+            align-items: center;
+            img {
+                width: 18px;
+                height: 18px;
+            }
+        }
+    }
 }
 
 .show-more {
-  background: #fff;
-  border: 1px solid black;
-  padding: 6px;
-  outline: none;
-  font-size: 1em;
-  cursor: pointer;
-  &:hover {
-    background: #000;
-    color: white;
-  }
+    background: #fff;
+    border: 1px solid black;
+    padding: 6px;
+    outline: none;
+    font-size: 1em;
+    cursor: pointer;
+    &:hover {
+        background: #000;
+        color: white;
+    }
 }
 
 // .card {

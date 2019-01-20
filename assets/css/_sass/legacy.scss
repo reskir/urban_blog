@@ -14,8 +14,8 @@ ol,
 p,
 pre,
 ul {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .highlight,
@@ -26,26 +26,26 @@ ol,
 p,
 pre,
 ul {
-  margin-top: 15px;
-  quotes: "“" "”" "‘" "’";
+    margin-top: 15px;
+    quotes: '“' '”' '‘' '’';
 }
 
 img {
-  vertical-align: middle;
+    vertical-align: middle;
 }
 
 figcaption {
-  font-size: 12px;
-  margin-top: 6px;
-  color: $text-secondary;
+    font-size: 12px;
+    margin-top: 6px;
+    color: $text-secondary;
 }
 ol,
 ul {
-  margin-left: 30px;
+    margin-left: 30px;
 }
 li > ol,
 li > ul {
-  margin-bottom: 0;
+    margin-bottom: 0;
 }
 h1,
 h2,
@@ -53,69 +53,70 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 400;
+    font-weight: 400;
 }
 a {
-  color: #2a7ae2;
-  text-decoration: none;
+    color: #2a7ae2;
+    text-decoration: none;
 }
 a:visited {
-  color: #1756a9;
+    color: #1756a9;
 }
 a:hover {
-  color: #111;
-  text-decoration: underline;
+    color: #111;
+    text-decoration: underline;
 }
 blockquote {
-  border-left: 4px solid #65cece;
-  padding-left: 15px;
-  font-size: 18px;
+    border-left: 4px solid #65cece;
+    padding-left: 15px;
+    font-size: 18px;
 }
 blockquote > :last-child {
-  margin-bottom: 0;
+    margin-bottom: 0;
 }
 code,
 pre {
-  font-size: 15px;
-  border: 1px solid #e8e8e8;
-  border-radius: 3px;
-  background-color: #eef;
+    font-size: 15px;
+    border: 1px solid #e8e8e8;
+    border-radius: 3px;
+    background-color: #eef;
 }
 code {
-  padding: 1px 5px;
+    padding: 1px 5px;
 }
 pre {
-  padding: 8px 12px;
-  overflow-x: auto;
+    padding: 8px 12px;
+    overflow-x: auto;
 }
 pre > code {
-  border: 0;
-  padding-right: 0;
-  padding-left: 0;
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
 }
 
 .fb-share-button {
-  margin-top: 15px;
+    margin-top: 15px;
 }
 
 .wrapper {
-  max-width: calc(800px - (30px * 2));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: 30px;
-  padding-left: 30px;
+    max-width: calc(800px - (30px * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
 }
 @media screen and (max-width: 800px) {
-  .wrapper {
-    max-width: calc(800px - (30px));
-    padding-right: 15px;
-    padding-left: 15px;
-  }
+    .wrapper {
+        max-width: calc(800px - (30px));
+        padding-right: 15px;
+        padding-left: 15px;
+    }
 }
 .content {
-  margin-top: 119px;
-  display: flex;
-  flex-grow: 1;
-  height: 100%;
-  flex-direction: column;
+    margin-top: 106px;
+    display: flex;
+    flex-grow: 1;
+    height: 100%;
+    flex-direction: column;
+    @include bg;
 }
