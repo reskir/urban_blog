@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Kreivys ir jo transporto programa"
-date: 2019-01-18 09:45
+date: 2019-01-21 09:30
 categories: Supratimas
 image: kreivys-tram.jpg
-published: false
 ---
 
 **Kandidatas į Vilniaus miesto merus pristatė savo <a href="http://bit.ly/2QvKXRC.">transporto programą</a>. Naujos transporto priemonės atsiradimas, įėjimas pro priekines durys, troleibusų naikinimas ir elektra varomų autobusų atsiradimas – apžvelkime jo programą.**
