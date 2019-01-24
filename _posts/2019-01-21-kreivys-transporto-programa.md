@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kreivys ir jo transporto programa'
+title: 'Kreivio transporto programa'
 date: 2019-01-21 09:30
 categories: Supratimas
 image: kreivys-tram.jpg
@@ -10,7 +10,7 @@ image: kreivys-tram.jpg
 
 ## #1 Greitojo tramvajaus atsiradimas
 
-Deividas Kreivys siūlo netgi tris naujas tramvajaus linijas kuriuos turėtų sujungti "miegamuosius" rajonus su miestu centru:
+Dainius Kreivys siūlo netgi tris naujas tramvajaus linijas kuriuos turėtų sujungti "miegamuosius" rajonus su miestu centru:
 
 -   Pilaitė - Centras
 -   Santariškės - Stotis
