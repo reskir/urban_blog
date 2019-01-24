@@ -32,7 +32,7 @@ Viešasis transportas turėtų tapti dar patogesnis gražinus kažkada galiojusi
 
 ## #3 Troleibusų naikinimas - elektra varomų autobusų atsiradimas
 
-Dar vienas programos punktas kurį pristatė Kreivio komanda – pradėti naikinti troleibusų tinklą, pakeičiant jį elektra varomais autobusais. Be abejo, reikia naikinti ekologiška, tylų transportą, bet tuo pat metų išlaikyti dyzelinius autobusus. Jeigu ir pradėti nuo elektra varomų autobusų integracijos Vilniuje, tai reikėtų keisti pradžioje dyzelinius maršrutus, o ypač tuos kurie praeina per miesto centrą ir senamiestį. Beje, jeigu gyvenote ilgąjį laiką Paryžiuje, galėtumėte aplankyti ir kitus Prancūzijos miestus, kuriuose veikia <a href="https://en.wikipedia.org/wiki/List_of_trolleybus_systems_in_France">17 troleibusų sistemų</a>. O štai nuotraukoje pavyzdys iš ~~rytinio bloko valstybės miesto~~ Liono.
+Dar vienas programos punktas kurį pristatė Kreivio komanda – pradėti naikinti troleibusų tinklą, pakeičiant jį elektra varomais autobusais. Be abejo, reikia naikinti ekologiška, tylų transportą, bet tuo pat metų išlaikyti dyzelinius autobusus (ironija). Jeigu ir pradėti nuo elektra varomų autobusų integracijos Vilniuje, tai reikėtų keisti pradžioje dyzelinius maršrutus, o ypač tuos kurie praeina per miesto centrą ir senamiestį. Beje, jeigu gyvenote ilgąjį laiką Paryžiuje, galėtumėte aplankyti ir kitus Prancūzijos miestus, kuriuose veikia <a href="https://en.wikipedia.org/wiki/List_of_trolleybus_systems_in_France">17 troleibusų sistemų</a>. O štai nuotraukoje pavyzdys iš ~~rytinio bloko valstybės miesto~~ Liono.
 
 {% asset lyon-trolley.jpg alt="Troleibusas Liono mieste" %}
 
