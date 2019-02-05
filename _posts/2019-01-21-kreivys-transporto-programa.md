@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kreivys ir jo transporto programa'
+title: 'Kreivio transporto programa'
 date: 2019-01-21 09:30
 categories: Supratimas
 image: kreivys-tram.jpg
@@ -10,7 +10,7 @@ image: kreivys-tram.jpg
 
 ## #1 Greitojo tramvajaus atsiradimas
 
-Deividas Kreivys siūlo netgi tris naujas tramvajaus linijas kuriuos turėtų sujungti "miegamuosius" rajonus su miestu centru:
+Dainius Kreivys siūlo netgi tris naujas tramvajaus linijas kuriuos turėtų sujungti "miegamuosius" rajonus su miestu centru:
 
 -   Pilaitė - Centras
 -   Santariškės - Stotis
@@ -24,7 +24,7 @@ Tokiu atveju, kelionės laikas sutrumpėtų ir miestiečiai galėtų pasiekti so
 
 ## #2 Įėjimas pro priekines durys
 
-Viešasis transportas turėtų tapti dar patogesnis gražinus kažkada galiojusią taisyklę – įlipti tik pro priekines durys. Matyt kandidatas į merus labai retai naudojasi viešuoju transportu, ypač piko metu, norėčiau pažiūrėti kaip sklandžiai ir greitai būtų vykdomas įlipimas ir išlipimas pagal naujas taisykles. Dar neaišku, kaip turėtų vairuotojas tikrinti keleivius – ar jam teks sulaikyti ir stengtis neįleisti asocialius asmenys? Tikrinti kiekvieno įlipančio keleivio vilniečio kortelę ar bilietą programėlėje? Kiek tai užtruktų laiko? Kodėl dauguma transporto sistemų vakarų sostinėse naudoja pateikimą į jį per visas durys? Maskva susiprato, ankščiau naudodama elektroninius turniketus ir leisdama patekti į transportą tik pro priekines durys – 2018 metais pagaliau panaikino šią <a href="http://www.mosgortrans.ru/alldoors/">prievolę</a>. Efektyvumo palyginimui, vaizdo įrašas kuriame pavaizduoti skirtingi įlipimo būdai piko metu.
+Viešasis transportas turėtų tapti dar patogesnis gražinus kažkada galiojusią taisyklę – įlipti tik pro priekines durys. Matyt kandidatas į merus labai retai naudojasi viešuoju transportu, ypač piko metu, įdomu būtų pažiūrėti kaip sklandžiai ir greitai bus vykdomas įlipimas ir išlipimas pagal naujas taisykles. Dar neaišku, kaip turėtų vairuotojas tikrinti keleivius – ar jam teks sulaikyti ir stengtis neįleisti asocialius asmenys? Tikrinti kiekvieno įlipančio keleivio vilniečio kortelę ar bilietą programėlėje? Kiek tai užtruktų laiko? Kodėl dauguma transporto sistemų vakarų sostinėse naudoja pateikimą į viešąjį transportą per visas durys? Maskva susiprato, ankščiau naudodama elektroninius turniketus ir leisdama patekti į transportą tik pro priekines durys – 2018 metais pagaliau panaikino šią <a href="http://www.mosgortrans.ru/alldoors/">prievolę</a>. Efektyvumo palyginimui, vaizdo įrašas kuriame pavaizduoti skirtingi įlipimo būdai piko metu.
 
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ntKevsQuFe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
