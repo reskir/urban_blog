@@ -8,11 +8,7 @@ image: car-free-oslo.jpg
 
 **Jeigu nuspręsite atvykti automobiliu į Oslo centrą, būkite įspėti – jus negalėsite niekur jo palikti. Nuo šių metų pradžios, miestas pakeitė daugiau negu 700 parkavimo vietų dviračio takais, augalais, mažais parkeliais - miesto meras padarė didelį žingsnį link miesto centro be automobilių.**
 
-{% asset car-free-oslo.jpg alt="Laisvas nuo automobilių Oslas" %}
-
-<div class="lighter smaller mt10">
-Nuotrauka: Åsmund Holien Mo/Urban Sharing
-</div>
+{% asset oslo_city_bike_stand.jpg alt="Laisvas nuo automobilių Oslas" %}
 
 Be parkavimo vietų, bei apriboto automobilių judėjimo kai kuriuose gatvėse - nedaugelis
 ryžtasi važiuoti į miesto centrą. "Čia tiesiog nėra automobilių", sako Aksel Bentsen, lokalios dviračio dalijimosi sistemos vadovas.
@@ -28,10 +24,10 @@ Liko visai mažai vietų kurie skirti neįgaliesiems ir elektra varomais automob
 
 Tam, kad pokyčiai įvyktų greičiau, miestas "ženkliai pagerino viešąjį transporto ir užtikrino saugesni ir patogesni dviračių eismą", sako dviračio eismo departamento vadovas Rune Jes. Miestas paleidžia naujus tramvajus ir metro linijas, mažina intervalus ir mažina pravažiavimo kainas. Paskutiniais metais tai pat yra įrenginėjamas dviračių tinklas vietoje buvusių parkavimo vietų. Miestiečiams taip pat išduodamos dotacijos perkant elektra varomus dviračius. Dviračių nuoma labai greitai užaugo, per tris metus kelionių kiekis išaugo iki trijų milijonų per metus. Dažniausiai nuoma užsidaro žiemos laikotarpiu, tačiau šiemet nusprendė paleisti ir žiema, dviračiai važinėja su dygliuotomis padangomis. Be to, testuojami sunkiasvoriai dviračiai.
 
-{% asset car-free-oslo-2.jpg alt="Laisvas nuo automobilių Oslas" %}
+{% asset oslo_bikes_winter.jpg alt="Žiema arba blogas oras nepriverčia atsisakyti kelionių dviračiu Oslo mieste" %}
 
 <div class="lighter smaller mt10">
-Nuotrauka: Åsmund Holien Mo/Urban Sharing
+Žiema arba blogas oras nepriverčia atsisakyti kelionių dviračiu Oslo mieste
 </div>
 
 Daugiau žmonių ant dviračių – lengviau viešojo transporto keleiviams. Štai koks gaunasi paveikslas – keleiviai persėda ant dviračių arba pradeda vaikščioti, taip atlaisvinant erdves tiems, kas pradeda naudotis viešuoju transportu vietoje asmeninio automobilio.
@@ -41,8 +37,4 @@ Be abejo, tokie pasikeitimai negalėjo įvykti be pasipriešinimo iš vairuotoj�
 Kiti miestai taip pat stengiasi sumažinti automobilių naudojimą, pavyzdžiui, Madride yra ribojama prieigą prie miesto centro visiems automobilio naudotojams kurie ten negyvena. Kiti miestai pasitelkia juo pavyzdžiu. „Esu įsitikinusi, kad ateityje privatūs automobiliai užims mažiau vietos mieste“, - sakė Markussen.
 „Tikiuosi, kad kiti miestai bus įkvėpti mūsų pavyzdžiu. Manau, kad ši problema taps dar svarbesnė, nes matome vis aiškiau, kad automobilių užimama erdvė miesto centre tiesiog nėra pelninga. Tuo pačiu metu mes sužinosime, koks yra taršos poveikis miesto gyventojams, ypač vaikams. Prieš porą dešimtmečių rūkymas kavinėse ir restoranuose buvo įprastu dalyku. Dabar mažai žmonių tai daro. Tai tas pats su miesto centre esančiais automobiliais: vieną dieną mes pažvelgsime į praeitį ir stebėsime, kaip mes visi manėme, kad tai gerai.“
 
-{% asset car-free-oslo-3.jpg alt="Laisvas nuo automobilių Oslas" %}
-
-<div class="lighter smaller mt10">
-Nuotrauka: Åsmund Holien Mo/Urban Sharing
-</div>
+{% asset oslo_pedastrians.jpg alt="Laisvas nuo automobilių Oslas" %}
