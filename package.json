@@ -1,30 +1,30 @@
 {
-  "name": "urbanistas",
-  "version": "1.0.0",
-  "description": "blogas apie miestą",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "bundle exec jekyll serve --watch --livereload",
-    "build": "bundle exec jekyll build",
-    "checkhtml": "bundle exec htmlproofer ./_site --disable-external"
-  },
-  "pre-commit": [
-    "build",
-    "checkhtml"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/reskir/urban_blog.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/reskir/urban_blog/issues"
-  },
-  "homepage": "https://github.com/reskir/urban_blog#readme",
-  "devDependencies": {},
-  "dependencies": {
-    "pre-commit": "^1.2.2"
-  }
+    "name": "urbanistas",
+    "version": "1.0.0",
+    "description": "blogas apie miestą",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "bundle exec jekyll serve --watch --livereload --unpublished",
+        "build": "bundle exec jekyll build",
+        "checkhtml": "bundle exec htmlproofer ./_site --disable-external"
+    },
+    "pre-commit": [
+        "build",
+        "checkhtml"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/reskir/urban_blog.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/reskir/urban_blog/issues"
+    },
+    "homepage": "https://github.com/reskir/urban_blog#readme",
+    "devDependencies": {},
+    "dependencies": {
+        "pre-commit": "^1.2.2"
+    }
 }
