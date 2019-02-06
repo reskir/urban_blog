@@ -38,3 +38,5 @@ Be abejo, tokie pasikeitimai negalėjo įvykti be pasipriešinimo iš vairuotoj�
 
 Kiti miestai taip pat stengiasi sumažinti automobilių naudojimą, pavyzdžiui, Madride yra ribojama prieigą prie miesto centro visiems automobilio naudotojams kurie ten negyvena. Kiti miestai pasitelkia juo pavyzdžiu. „Esu įsitikinusi, kad ateityje privatūs automobiliai užims mažiau vietos mieste“, - sakė Markussen.
 „Tikiuosi, kad kiti miestai bus įkvėpti mūsų pavyzdžiu. Manau, kad ši problema taps dar svarbesnė, nes matome vis aiškiau, kad automobilių užimama erdvė miesto centre tiesiog nėra pelninga. Tuo pačiu metu mes sužinosime, koks yra taršos poveikis miesto gyventojams, ypač vaikams. Prieš porą dešimtmečių rūkymas kavinėse ir restoranuose buvo įprastu dalyku. Dabar mažai žmonių tai daro. Tai tas pats su miesto centre esančiais automobiliais: vieną dieną mes pažvelgsime į praeitį ir stebėsime, kaip mes visi manėme, kad tai gerai.“
+
+<a href="https://www.fastcompany.com/90294948/what-happened-when-oslo-decided-to-make-its-downtown-basically-car-free">Originalus straipsnis </a>
