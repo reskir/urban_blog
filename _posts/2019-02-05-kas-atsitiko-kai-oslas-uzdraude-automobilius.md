@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 'Štai kas įvyko kai Oslas panaikino parkavimo vietas miesto centre'
-date: 2019-02-05 13:30
+date: 2019-02-06 13:30
 categories: Supratimas
 image: car-free-oslo.jpg
-published: false
 ---
 
 **Jeigu nuspręsite atvykti automobiliu į Oslo centrą, būkite įspėti – jus negalėsite niekur jo palikti. Nuo šių metų pradžios, miestas pakeitė daugiau negu 700 parkavimo vietų dviračio takais, augalais, mažais parkeliais - miesto meras padarė didelį žingsnį link miesto centro be automobilių.**
