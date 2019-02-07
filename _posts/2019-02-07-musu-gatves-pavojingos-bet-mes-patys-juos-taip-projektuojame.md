@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mūsų gatvės pavojingos. Mes patys juos taip projektuojame'
+title: 'Mūsų gatvės pavojingos. Mes patys jas taip projektuojame'
 date: 2019-02-06 13:30
 categories: Supratimas
 image: safe-streets.jpg
